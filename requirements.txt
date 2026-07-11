@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-image
+zarr>=3
+fsspec
+aiohttp
+pillow
+tifffile
