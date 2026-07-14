@@ -161,10 +161,15 @@ legitimately long.)
 ## Known limitations
 
 - **Fully fused contacts**: diagnostics in
-  [villa #191](https://github.com/ScrollPrize/villa/issues/191) show ~78% of the
-  tightest sheet contacts present a single broad intensity peak along the normal
-  — no seam survives for ridge-based splitting there, even with CLAHE. Those
-  cases need global priors (spiral structure, winding counts); planned for the
+  [villa #191](https://github.com/ScrollPrize/villa/issues/191) sampled the
+  released model's *predicted probability* along the sheet normal at the
+  tightest contacts (<4 vox): 78% show a single broad peak and only 0.5% are
+  separable — the model's own output cannot be split there, and carving it
+  directly hurt topology. This splitter therefore works on the CLAHE-equalized
+  *CT intensity* instead — an independent signal, which is how the crushed-tip
+  mega-instance resolved. How much of the tightest-contact population the
+  intensity signal separates remains to be quantified; truly fused contacts
+  will need global priors (spiral structure, winding counts), planned for the
   stitching stage.
 - **Crop-local**: instances are labeled per crop; whole-scroll processing needs
   overlapping chunks + instance stitching (planned — a layer-count consistency
