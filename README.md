@@ -30,6 +30,9 @@ python clean_surface_prediction.py pherc1218
 
 # split the cleaned surface mask into individual sheet instances
 python separate_sheets.py pherc1218 1
+
+# split fused sheet stacks in the crushed region (CLAHE + tensor normals)
+python split_stacked.py pherc1218 1
 ```
 
 Outputs (renders + `.npy` label crops) land in `output/`.
@@ -43,6 +46,7 @@ Outputs (renders + `.npy` label crops) land in `output/`.
 | `overlay_surface.py` | Overlay official surface predictions on the CT (QC view) |
 | `clean_surface_prediction.py` | CT-mask gating + small-component removal for prediction zarrs |
 | `separate_sheets.py` | Watershed sheet-instance separation + calibrated over-segmentation merging |
+| `split_stacked.py` | Splits fused sheet stacks (watershed mega-instances) in crushed regions using CLAHE + structure-tensor normals |
 
 All tools are multi-scroll: sample configs (volume/prediction URLs and pyramid
 alignment) live in the `SCROLLS` dict in `clean_surface_prediction.py` — adding a
@@ -67,6 +71,28 @@ scroll is a 6-line entry.
    *across* one sheet), and unions are capped at 15% of the mask. `MAX_BORDER` was
    calibrated empirically (see below). Union-find applies merges transitively;
    border statistics are accumulated in fixed-size chunks to bound memory.
+
+   *In plain terms*: watershed seeds come from the deep interior of each sheet;
+   where a sheet gets thin its seed breaks into pieces, so one physical wrap ends
+   up as several instances. For every pair of touching instances we ask: "does
+   the border between you look like a real background gap, or like the middle of
+   continuous papyrus?" If the border is nearly as deep inside the papyrus as the
+   instances' own interiors, the cut was an artifact → merge. The border-size
+   guard distinguishes a genuine artificial cut (a small cross-section *through*
+   one sheet) from the broad contact area *between* two stacked sheets.
+
+**Splitting fused stacks in crushed regions** (`split_stacked.py`):
+In badly crushed regions the watershed itself produces one mega-instance spanning
+many physical wraps — merging can't fix that (it only joins labels). The splitter
+exploits the fact that stacked sheets usually still show distinct intensity
+ridges: (1) per-slice CLAHE amplifies the faint seams; (2) the structure tensor
+of the equalized volume gives a sheet-normal per voxel; (3) non-maximum
+suppression of intensity *along the normal*, gated by tensor planarity ≥ 0.35,
+marks per-sheet centerlines — two fused sheets yield two centerlines; (4)
+centerline fragments are consolidated only when they continue each other *along
+the sheet plane* (normal alignment ≥ 0.90, displacement ⊥ normal), never across
+it; (5) an intensity watershed grows each centerline back to a full sheet, so
+boundaries land in the CLAHE valleys (the physical seams).
 
 ## Results
 
@@ -114,15 +140,45 @@ Compressed tip (the hard case):
 Full command-by-command validation logs: the numbers above were reproduced
 end-to-end on two independent Python environments (3.11 and 3.14).
 
+### Splitting fused stacks (PHerc1218 crushed tip, 512×512×128 crop @L1)
+
+| Metric | before | after split |
+|---|---:|---:|
+| Largest instance | 975,704 vox (**15.55%** of mask) | **3.48%** of mask |
+| Instances in crop | 362 | 674 |
+| Thickness proxy of top-5 split sheets* | — | 4.1 – 5.5 vox |
+
+\* instance volume / centerline voxels ≈ mean sheet thickness. Genuine single
+sheets at ~17 µm/voxel measure 4–8; stacked blobs score far higher — this is the
+self-check that the big split instances are *long single wraps*, not merged
+stacks. ("Smallest largest-instance" alone is misleading once sheets are
+legitimately long.)
+
+| Crushed stack (one instance) | After splitting |
+|---|---|
+| ![before](docs/images/pherc1218_crushed_split_before.png) | ![after](docs/images/pherc1218_crushed_split_after.png) |
+
 ## Known limitations
 
-- **Crushed regions**: where the scroll is badly crushed, the watershed itself
-  produces a merged mega-instance (15.5% of mask in the compressed-tip crop) that
-  label merging cannot split — splitting watershed output there (e.g. via local
-  orientation/normal analysis) is the next work item.
+- **Fully fused contacts**: diagnostics in
+  [villa #191](https://github.com/ScrollPrize/villa/issues/191) show ~78% of the
+  tightest sheet contacts present a single broad intensity peak along the normal
+  — no seam survives for ridge-based splitting there, even with CLAHE. Those
+  cases need global priors (spiral structure, winding counts); planned for the
+  stitching stage.
 - **Crop-local**: instances are labeled per crop; whole-scroll processing needs
-  overlapping chunks + instance stitching (planned).
-- Merging uses border salience only; orientation continuity is not yet a criterion.
+  overlapping chunks + instance stitching (planned — a layer-count consistency
+  invariant will be used for label-free stitching QA).
+- Merging uses border salience only; orientation continuity is not yet a merge
+  criterion (it *is* used by the splitter's consolidation).
+
+## Acknowledgements
+
+- **sean (bruniss)** for suggesting CLAHE/windowing to sharpen structure tensors
+  in compressed regions — it is what makes the splitter work.
+- **nvining** for pushing for a clearer explanation of the merge criterion.
+- **Diego-dcv** for the layer-count consistency invariant idea for stitching QA.
+- The Vesuvius Challenge team for the open data and the m7 surface predictions.
 
 ## Data
 
