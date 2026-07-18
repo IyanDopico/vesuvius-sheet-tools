@@ -47,6 +47,10 @@ Outputs (renders + `.npy` label crops) land in `output/`.
 | `clean_surface_prediction.py` | CT-mask gating + small-component removal for prediction zarrs |
 | `separate_sheets.py` | Watershed sheet-instance separation + calibrated over-segmentation merging |
 | `split_stacked.py` | Splits fused sheet stacks (watershed mega-instances) in crushed regions using CLAHE + structure-tensor normals |
+| `kaggle_stitch_pipeline.py` | Kaggle kernel: whole-scroll processing as overlapping tiles/slabs with instance stitching |
+| `assemble_scroll.py` | Local assembly: stitches per-slab outputs across z into one scroll-global instance table |
+| `layer_count_qa.py` | Label-free QA: per-ray layer counts over (z,θ) — flags seam errors via count deviations |
+| `diagnose_stitch.py` | Classifies stitching disagreement (fixable fragmentation vs genuine ambiguity) |
 
 All tools are multi-scroll: sample configs (volume/prediction URLs and pyramid
 alignment) live in the `SCROLLS` dict in `clean_surface_prediction.py` — adding a
@@ -157,6 +161,23 @@ legitimately long.)
 | Crushed stack (one instance) | After splitting |
 |---|---|
 | ![before](docs/images/pherc1218_crushed_split_before.png) | ![after](docs/images/pherc1218_crushed_split_after.png) |
+
+## Whole-scroll dataset: PHerc1218 (v1)
+
+The full pipeline ran over the entire scroll (52 slabs of 256 slices, 512² tiles,
+~14.5 h of free Kaggle T4): **686,360 sheet-instance segments**, published as a
+[Kaggle dataset](https://www.kaggle.com/datasets/iyndopicomartnez/pherc1218-sheet-instance-labels)
+(5.1 GB, CC-BY-NC 4.0) with per-tile blocks, global stitch tables and quality
+metrics. Stitching uses mutual-best + **directed-coverage** voting in overlap
+bands — the directed rule was validated twice: in-plane agreement 59.8%→85.9%
+and cross-slab 53.5%→**82.1%** mean (min 76.6%, max 94.1%, 296,771 links).
+
+Label-free QA (layer-count invariant, after Diego-dcv's Obs. 1; ray formulation
+ours): any interior cross-section must recover ~the same number of wraps. The
+whole-scroll profile reads the scroll's biography — tip ramp, 32–46 wrap
+interior plateau, densening to 52 near the base, collapse at the flat end:
+
+![layer count profile](docs/images/pherc1218_layer_count_profile.png)
 
 ## Known limitations
 
