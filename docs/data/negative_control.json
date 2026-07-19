@@ -1,0 +1,138 @@
+{
+  "target_slab": 4928,
+  "results": {
+    "z4704": {
+      "4720": {
+        "base": 27.98,
+        "injected": 27.98,
+        "delta": 0.0
+      },
+      "4752": {
+        "base": 27.97,
+        "injected": 27.97,
+        "delta": 0.0
+      },
+      "4784": {
+        "base": 31.63,
+        "injected": 31.63,
+        "delta": 0.0
+      },
+      "4816": {
+        "base": 32.75,
+        "injected": 32.75,
+        "delta": 0.0
+      },
+      "4848": {
+        "base": 29.12,
+        "injected": 29.05,
+        "delta": -0.07
+      },
+      "4880": {
+        "base": 23.3,
+        "injected": 23.22,
+        "delta": -0.08
+      },
+      "4912": {
+        "base": 19.0,
+        "injected": 18.92,
+        "delta": -0.08
+      },
+      "4944": {
+        "base": 17.58,
+        "injected": 17.53,
+        "delta": -0.05
+      }
+    },
+    "z4928": {
+      "4944": {
+        "base": 17.48,
+        "injected": 17.38,
+        "delta": -0.1
+      },
+      "4976": {
+        "base": 20.53,
+        "injected": 20.37,
+        "delta": -0.17
+      },
+      "5008": {
+        "base": 25.13,
+        "injected": 24.8,
+        "delta": -0.33
+      },
+      "5040": {
+        "base": 26.5,
+        "injected": 25.72,
+        "delta": -0.78
+      },
+      "5072": {
+        "base": 27.08,
+        "injected": 26.83,
+        "delta": -0.25
+      },
+      "5104": {
+        "base": 25.4,
+        "injected": 25.32,
+        "delta": -0.08
+      },
+      "5136": {
+        "base": 20.5,
+        "injected": 20.4,
+        "delta": -0.1
+      },
+      "5168": {
+        "base": 18.72,
+        "injected": 18.62,
+        "delta": -0.1
+      }
+    },
+    "z5152": {
+      "5168": {
+        "base": 19.07,
+        "injected": 18.97,
+        "delta": -0.1
+      },
+      "5200": {
+        "base": 22.72,
+        "injected": 22.63,
+        "delta": -0.08
+      },
+      "5232": {
+        "base": 24.88,
+        "injected": 24.82,
+        "delta": -0.07
+      },
+      "5264": {
+        "base": 28.47,
+        "injected": 28.38,
+        "delta": -0.08
+      },
+      "5296": {
+        "base": 29.55,
+        "injected": 29.53,
+        "delta": -0.02
+      },
+      "5328": {
+        "base": 27.67,
+        "injected": 27.63,
+        "delta": -0.03
+      },
+      "5360": {
+        "base": 23.07,
+        "injected": 23.07,
+        "delta": 0.0
+      },
+      "5392": {
+        "base": 19.58,
+        "injected": 19.58,
+        "delta": 0.0
+      }
+    }
+  },
+  "verdict": {
+    "injected_pairs": 40,
+    "target_mean_delta": -0.23875000000000002,
+    "neighbor_mean_delta": -0.04125,
+    "fires_at_target": false,
+    "localized": true
+  }
+}

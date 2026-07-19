@@ -1,0 +1,26 @@
+{
+  "cells_total": 24960,
+  "pitch_um": {
+    "median": 172.8,
+    "iqr": [
+      146.88,
+      198.72000000000003
+    ]
+  },
+  "counted_over_expected": {
+    "median": 0.3783843870549073,
+    "iqr": [
+      0.2948320636762848,
+      0.46182119444144376
+    ]
+  },
+  "pitch_outlier_cells_2x": 80,
+  "theta_step_deg": 6.0,
+  "z_samples_per_slab": 8,
+  "boundary_decomposition": {
+    "mean_abs_dev_near_boundary": 3.4234006734006726,
+    "mean_abs_dev_interior": 2.7310606060606073,
+    "slices_near_boundary": 132,
+    "slices_interior": 176
+  }
+}
