@@ -179,6 +179,8 @@ interior plateau, densening to 52 near the base, collapse at the flat end:
 
 ![layer count profile](docs/images/pherc1218_layer_count_profile.png)
 
+Next step: the instance labels are turned into sparse winding constraints for the official spiral fit — see [docs/constraints.md](docs/constraints.md).
+
 ## Known limitations
 
 - **Fully fused contacts**: diagnostics in
