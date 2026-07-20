@@ -1,6 +1,7 @@
 numpy
 scipy
 scikit-image
+matplotlib
 zarr>=3
 fsspec
 aiohttp
