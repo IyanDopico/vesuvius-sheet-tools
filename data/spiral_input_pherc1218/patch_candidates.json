@@ -1,0 +1,11112 @@
+[
+ {
+  "global_id": 223883,
+  "volume": 57846535,
+  "deep_frac": 0.0202
+ },
+ {
+  "global_id": 133475,
+  "volume": 16845686,
+  "deep_frac": 0.0246
+ },
+ {
+  "global_id": 66130,
+  "volume": 13131457,
+  "deep_frac": 0.0122
+ },
+ {
+  "global_id": 63448,
+  "volume": 13042588,
+  "deep_frac": 0.0207
+ },
+ {
+  "global_id": 49843,
+  "volume": 11863592,
+  "deep_frac": 0.0243
+ },
+ {
+  "global_id": 371670,
+  "volume": 8145016,
+  "deep_frac": 0.0509
+ },
+ {
+  "global_id": 121319,
+  "volume": 7761822,
+  "deep_frac": 0.0298
+ },
+ {
+  "global_id": 402696,
+  "volume": 4711615,
+  "deep_frac": 0.0123
+ },
+ {
+  "global_id": 106291,
+  "volume": 3698662,
+  "deep_frac": 0.0325
+ },
+ {
+  "global_id": 436133,
+  "volume": 3471237,
+  "deep_frac": 0.0369
+ },
+ {
+  "global_id": 440802,
+  "volume": 3381089,
+  "deep_frac": 0.0288
+ },
+ {
+  "global_id": 158674,
+  "volume": 3285018,
+  "deep_frac": 0.0666
+ },
+ {
+  "global_id": 140243,
+  "volume": 3283947,
+  "deep_frac": 0.0632
+ },
+ {
+  "global_id": 122951,
+  "volume": 3191921,
+  "deep_frac": 0.0285
+ },
+ {
+  "global_id": 153771,
+  "volume": 3188655,
+  "deep_frac": 0.033
+ },
+ {
+  "global_id": 123289,
+  "volume": 3155593,
+  "deep_frac": 0.0328
+ },
+ {
+  "global_id": 470683,
+  "volume": 3108605,
+  "deep_frac": 0.0346
+ },
+ {
+  "global_id": 130723,
+  "volume": 3009639,
+  "deep_frac": 0.0457
+ },
+ {
+  "global_id": 228408,
+  "volume": 3000471,
+  "deep_frac": 0.0732
+ },
+ {
+  "global_id": 243324,
+  "volume": 2993427,
+  "deep_frac": 0.0397
+ },
+ {
+  "global_id": 443644,
+  "volume": 2820656,
+  "deep_frac": 0.0139
+ },
+ {
+  "global_id": 464140,
+  "volume": 2734101,
+  "deep_frac": 0.068
+ },
+ {
+  "global_id": 111975,
+  "volume": 2631622,
+  "deep_frac": 0.064
+ },
+ {
+  "global_id": 476993,
+  "volume": 2598854,
+  "deep_frac": 0.0853
+ },
+ {
+  "global_id": 95351,
+  "volume": 2564969,
+  "deep_frac": 0.0791
+ },
+ {
+  "global_id": 485568,
+  "volume": 2505200,
+  "deep_frac": 0.0932
+ },
+ {
+  "global_id": 228380,
+  "volume": 2363423,
+  "deep_frac": 0.0851
+ },
+ {
+  "global_id": 74425,
+  "volume": 2295976,
+  "deep_frac": 0.0535
+ },
+ {
+  "global_id": 459660,
+  "volume": 2002007,
+  "deep_frac": 0.0491
+ },
+ {
+  "global_id": 88388,
+  "volume": 1986064,
+  "deep_frac": 0.0762
+ },
+ {
+  "global_id": 130926,
+  "volume": 1930764,
+  "deep_frac": 0.0794
+ },
+ {
+  "global_id": 561305,
+  "volume": 1853893,
+  "deep_frac": 0.0878
+ },
+ {
+  "global_id": 159350,
+  "volume": 1851097,
+  "deep_frac": 0.0835
+ },
+ {
+  "global_id": 505676,
+  "volume": 1849882,
+  "deep_frac": 0.0979
+ },
+ {
+  "global_id": 438506,
+  "volume": 1837602,
+  "deep_frac": 0.0203
+ },
+ {
+  "global_id": 56934,
+  "volume": 1800676,
+  "deep_frac": 0.0459
+ },
+ {
+  "global_id": 152119,
+  "volume": 1800623,
+  "deep_frac": 0.0412
+ },
+ {
+  "global_id": 395249,
+  "volume": 1791397,
+  "deep_frac": 0.0545
+ },
+ {
+  "global_id": 139968,
+  "volume": 1744632,
+  "deep_frac": 0.0782
+ },
+ {
+  "global_id": 472396,
+  "volume": 1705355,
+  "deep_frac": 0.0619
+ },
+ {
+  "global_id": 524438,
+  "volume": 1701981,
+  "deep_frac": 0.0845
+ },
+ {
+  "global_id": 238102,
+  "volume": 1679749,
+  "deep_frac": 0.0653
+ },
+ {
+  "global_id": 163533,
+  "volume": 1679469,
+  "deep_frac": 0.0103
+ },
+ {
+  "global_id": 145963,
+  "volume": 1673605,
+  "deep_frac": 0.0893
+ },
+ {
+  "global_id": 490685,
+  "volume": 1657155,
+  "deep_frac": 0.0305
+ },
+ {
+  "global_id": 403567,
+  "volume": 1640011,
+  "deep_frac": 0.0144
+ },
+ {
+  "global_id": 255976,
+  "volume": 1634424,
+  "deep_frac": 0.0472
+ },
+ {
+  "global_id": 119763,
+  "volume": 1632845,
+  "deep_frac": 0.0213
+ },
+ {
+  "global_id": 64154,
+  "volume": 1623332,
+  "deep_frac": 0.0565
+ },
+ {
+  "global_id": 276978,
+  "volume": 1620461,
+  "deep_frac": 0.0944
+ },
+ {
+  "global_id": 282061,
+  "volume": 1603622,
+  "deep_frac": 0.0089
+ },
+ {
+  "global_id": 512666,
+  "volume": 1566544,
+  "deep_frac": 0.0487
+ },
+ {
+  "global_id": 440301,
+  "volume": 1563871,
+  "deep_frac": 0.0842
+ },
+ {
+  "global_id": 58381,
+  "volume": 1529458,
+  "deep_frac": 0.0131
+ },
+ {
+  "global_id": 149055,
+  "volume": 1508668,
+  "deep_frac": 0.0862
+ },
+ {
+  "global_id": 464327,
+  "volume": 1463262,
+  "deep_frac": 0.0791
+ },
+ {
+  "global_id": 53398,
+  "volume": 1450910,
+  "deep_frac": 0.0454
+ },
+ {
+  "global_id": 441187,
+  "volume": 1448445,
+  "deep_frac": 0.0195
+ },
+ {
+  "global_id": 356410,
+  "volume": 1443323,
+  "deep_frac": 0.0207
+ },
+ {
+  "global_id": 442759,
+  "volume": 1423581,
+  "deep_frac": 0.0313
+ },
+ {
+  "global_id": 86989,
+  "volume": 1411160,
+  "deep_frac": 0.0708
+ },
+ {
+  "global_id": 484288,
+  "volume": 1395270,
+  "deep_frac": 0.0613
+ },
+ {
+  "global_id": 51456,
+  "volume": 1379231,
+  "deep_frac": 0.008
+ },
+ {
+  "global_id": 204212,
+  "volume": 1373048,
+  "deep_frac": 0.0045
+ },
+ {
+  "global_id": 206505,
+  "volume": 1357753,
+  "deep_frac": 0.0122
+ },
+ {
+  "global_id": 79012,
+  "volume": 1327960,
+  "deep_frac": 0.0242
+ },
+ {
+  "global_id": 207716,
+  "volume": 1327240,
+  "deep_frac": 0.0262
+ },
+ {
+  "global_id": 282099,
+  "volume": 1321949,
+  "deep_frac": 0.0095
+ },
+ {
+  "global_id": 134587,
+  "volume": 1320683,
+  "deep_frac": 0.0827
+ },
+ {
+  "global_id": 281835,
+  "volume": 1318009,
+  "deep_frac": 0.0851
+ },
+ {
+  "global_id": 500878,
+  "volume": 1317558,
+  "deep_frac": 0.069
+ },
+ {
+  "global_id": 108974,
+  "volume": 1313813,
+  "deep_frac": 0.0871
+ },
+ {
+  "global_id": 415995,
+  "volume": 1304027,
+  "deep_frac": 0.0251
+ },
+ {
+  "global_id": 512625,
+  "volume": 1278003,
+  "deep_frac": 0.0919
+ },
+ {
+  "global_id": 252319,
+  "volume": 1248799,
+  "deep_frac": 0.0704
+ },
+ {
+  "global_id": 88322,
+  "volume": 1245970,
+  "deep_frac": 0.0431
+ },
+ {
+  "global_id": 460657,
+  "volume": 1243598,
+  "deep_frac": 0.0564
+ },
+ {
+  "global_id": 383438,
+  "volume": 1227873,
+  "deep_frac": 0.0358
+ },
+ {
+  "global_id": 111481,
+  "volume": 1224021,
+  "deep_frac": 0.0241
+ },
+ {
+  "global_id": 53526,
+  "volume": 1211797,
+  "deep_frac": 0.0585
+ },
+ {
+  "global_id": 51386,
+  "volume": 1201536,
+  "deep_frac": 0.007
+ },
+ {
+  "global_id": 479909,
+  "volume": 1199854,
+  "deep_frac": 0.0181
+ },
+ {
+  "global_id": 51455,
+  "volume": 1156977,
+  "deep_frac": 0.0175
+ },
+ {
+  "global_id": 475869,
+  "volume": 1132694,
+  "deep_frac": 0.0602
+ },
+ {
+  "global_id": 389215,
+  "volume": 1132239,
+  "deep_frac": 0.0179
+ },
+ {
+  "global_id": 259294,
+  "volume": 1114829,
+  "deep_frac": 0.092
+ },
+ {
+  "global_id": 145803,
+  "volume": 1114761,
+  "deep_frac": 0.061
+ },
+ {
+  "global_id": 71296,
+  "volume": 1114408,
+  "deep_frac": 0.0693
+ },
+ {
+  "global_id": 323990,
+  "volume": 1112007,
+  "deep_frac": 0.0298
+ },
+ {
+  "global_id": 490997,
+  "volume": 1099248,
+  "deep_frac": 0.0289
+ },
+ {
+  "global_id": 461682,
+  "volume": 1090597,
+  "deep_frac": 0.013
+ },
+ {
+  "global_id": 197948,
+  "volume": 1081721,
+  "deep_frac": 0.0273
+ },
+ {
+  "global_id": 211602,
+  "volume": 1067381,
+  "deep_frac": 0.0343
+ },
+ {
+  "global_id": 412862,
+  "volume": 1044769,
+  "deep_frac": 0.0137
+ },
+ {
+  "global_id": 456135,
+  "volume": 1043258,
+  "deep_frac": 0.0242
+ },
+ {
+  "global_id": 398530,
+  "volume": 1037946,
+  "deep_frac": 0.0499
+ },
+ {
+  "global_id": 81267,
+  "volume": 1025438,
+  "deep_frac": 0.0553
+ },
+ {
+  "global_id": 181006,
+  "volume": 1024750,
+  "deep_frac": 0.0192
+ },
+ {
+  "global_id": 108411,
+  "volume": 1021587,
+  "deep_frac": 0.0239
+ },
+ {
+  "global_id": 431079,
+  "volume": 1010752,
+  "deep_frac": 0.0257
+ },
+ {
+  "global_id": 437679,
+  "volume": 1003732,
+  "deep_frac": 0.0883
+ },
+ {
+  "global_id": 403760,
+  "volume": 1003566,
+  "deep_frac": 0.0839
+ },
+ {
+  "global_id": 390153,
+  "volume": 1001376,
+  "deep_frac": 0.0077
+ },
+ {
+  "global_id": 136689,
+  "volume": 994128,
+  "deep_frac": 0.0156
+ },
+ {
+  "global_id": 451563,
+  "volume": 992130,
+  "deep_frac": 0.0314
+ },
+ {
+  "global_id": 144699,
+  "volume": 986864,
+  "deep_frac": 0.0101
+ },
+ {
+  "global_id": 319266,
+  "volume": 976913,
+  "deep_frac": 0.0075
+ },
+ {
+  "global_id": 438020,
+  "volume": 974845,
+  "deep_frac": 0.0188
+ },
+ {
+  "global_id": 341045,
+  "volume": 964744,
+  "deep_frac": 0.0045
+ },
+ {
+  "global_id": 429361,
+  "volume": 956965,
+  "deep_frac": 0.0144
+ },
+ {
+  "global_id": 395683,
+  "volume": 944694,
+  "deep_frac": 0.0568
+ },
+ {
+  "global_id": 120103,
+  "volume": 939394,
+  "deep_frac": 0.0589
+ },
+ {
+  "global_id": 366029,
+  "volume": 931016,
+  "deep_frac": 0.005
+ },
+ {
+  "global_id": 53827,
+  "volume": 927793,
+  "deep_frac": 0.0575
+ },
+ {
+  "global_id": 281431,
+  "volume": 921514,
+  "deep_frac": 0.0541
+ },
+ {
+  "global_id": 337849,
+  "volume": 917538,
+  "deep_frac": 0.0333
+ },
+ {
+  "global_id": 58224,
+  "volume": 909332,
+  "deep_frac": 0.0091
+ },
+ {
+  "global_id": 588287,
+  "volume": 905282,
+  "deep_frac": 0.0864
+ },
+ {
+  "global_id": 108437,
+  "volume": 902562,
+  "deep_frac": 0.0704
+ },
+ {
+  "global_id": 423762,
+  "volume": 901411,
+  "deep_frac": 0.0583
+ },
+ {
+  "global_id": 377862,
+  "volume": 880584,
+  "deep_frac": 0.006
+ },
+ {
+  "global_id": 112866,
+  "volume": 864453,
+  "deep_frac": 0.0239
+ },
+ {
+  "global_id": 113014,
+  "volume": 860933,
+  "deep_frac": 0.0244
+ },
+ {
+  "global_id": 107784,
+  "volume": 854104,
+  "deep_frac": 0.0855
+ },
+ {
+  "global_id": 295011,
+  "volume": 851526,
+  "deep_frac": 0.0081
+ },
+ {
+  "global_id": 140686,
+  "volume": 850836,
+  "deep_frac": 0.0668
+ },
+ {
+  "global_id": 402776,
+  "volume": 833393,
+  "deep_frac": 0.0283
+ },
+ {
+  "global_id": 152072,
+  "volume": 832980,
+  "deep_frac": 0.0482
+ },
+ {
+  "global_id": 418647,
+  "volume": 830811,
+  "deep_frac": 0.0312
+ },
+ {
+  "global_id": 404337,
+  "volume": 829063,
+  "deep_frac": 0.0349
+ },
+ {
+  "global_id": 99533,
+  "volume": 811425,
+  "deep_frac": 0.0678
+ },
+ {
+  "global_id": 420098,
+  "volume": 808207,
+  "deep_frac": 0.0359
+ },
+ {
+  "global_id": 453587,
+  "volume": 807254,
+  "deep_frac": 0.0443
+ },
+ {
+  "global_id": 420765,
+  "volume": 790799,
+  "deep_frac": 0.0132
+ },
+ {
+  "global_id": 188361,
+  "volume": 790171,
+  "deep_frac": 0.0421
+ },
+ {
+  "global_id": 79161,
+  "volume": 786795,
+  "deep_frac": 0.0421
+ },
+ {
+  "global_id": 438231,
+  "volume": 785962,
+  "deep_frac": 0.0152
+ },
+ {
+  "global_id": 233963,
+  "volume": 785320,
+  "deep_frac": 0.0782
+ },
+ {
+  "global_id": 434550,
+  "volume": 782226,
+  "deep_frac": 0.0328
+ },
+ {
+  "global_id": 122397,
+  "volume": 779821,
+  "deep_frac": 0.0741
+ },
+ {
+  "global_id": 508695,
+  "volume": 778383,
+  "deep_frac": 0.035
+ },
+ {
+  "global_id": 507965,
+  "volume": 775887,
+  "deep_frac": 0.07
+ },
+ {
+  "global_id": 463307,
+  "volume": 775526,
+  "deep_frac": 0.0514
+ },
+ {
+  "global_id": 409097,
+  "volume": 769082,
+  "deep_frac": 0.0539
+ },
+ {
+  "global_id": 70447,
+  "volume": 768791,
+  "deep_frac": 0.0326
+ },
+ {
+  "global_id": 57126,
+  "volume": 762319,
+  "deep_frac": 0.0397
+ },
+ {
+  "global_id": 438514,
+  "volume": 760292,
+  "deep_frac": 0.0286
+ },
+ {
+  "global_id": 246458,
+  "volume": 758173,
+  "deep_frac": 0.0373
+ },
+ {
+  "global_id": 164685,
+  "volume": 756569,
+  "deep_frac": 0.0173
+ },
+ {
+  "global_id": 413275,
+  "volume": 755733,
+  "deep_frac": 0.0406
+ },
+ {
+  "global_id": 52241,
+  "volume": 745726,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 137171,
+  "volume": 744435,
+  "deep_frac": 0.0244
+ },
+ {
+  "global_id": 133470,
+  "volume": 744051,
+  "deep_frac": 0.052
+ },
+ {
+  "global_id": 487201,
+  "volume": 743839,
+  "deep_frac": 0.0812
+ },
+ {
+  "global_id": 360536,
+  "volume": 741506,
+  "deep_frac": 0.0589
+ },
+ {
+  "global_id": 134791,
+  "volume": 737686,
+  "deep_frac": 0.0083
+ },
+ {
+  "global_id": 186691,
+  "volume": 731836,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 465007,
+  "volume": 729025,
+  "deep_frac": 0.0365
+ },
+ {
+  "global_id": 156217,
+  "volume": 727056,
+  "deep_frac": 0.0088
+ },
+ {
+  "global_id": 186915,
+  "volume": 724881,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 329122,
+  "volume": 711052,
+  "deep_frac": 0.0233
+ },
+ {
+  "global_id": 137544,
+  "volume": 708574,
+  "deep_frac": 0.0174
+ },
+ {
+  "global_id": 282827,
+  "volume": 707341,
+  "deep_frac": 0.0341
+ },
+ {
+  "global_id": 147012,
+  "volume": 704822,
+  "deep_frac": 0.0757
+ },
+ {
+  "global_id": 98844,
+  "volume": 702976,
+  "deep_frac": 0.0583
+ },
+ {
+  "global_id": 266659,
+  "volume": 702217,
+  "deep_frac": 0.0285
+ },
+ {
+  "global_id": 382597,
+  "volume": 698392,
+  "deep_frac": 0.0066
+ },
+ {
+  "global_id": 368380,
+  "volume": 697763,
+  "deep_frac": 0.0187
+ },
+ {
+  "global_id": 386942,
+  "volume": 696541,
+  "deep_frac": 0.0408
+ },
+ {
+  "global_id": 552047,
+  "volume": 695343,
+  "deep_frac": 0.0157
+ },
+ {
+  "global_id": 408922,
+  "volume": 694620,
+  "deep_frac": 0.0138
+ },
+ {
+  "global_id": 502242,
+  "volume": 692815,
+  "deep_frac": 0.0464
+ },
+ {
+  "global_id": 656799,
+  "volume": 691012,
+  "deep_frac": 0.0094
+ },
+ {
+  "global_id": 114909,
+  "volume": 690916,
+  "deep_frac": 0.0164
+ },
+ {
+  "global_id": 113913,
+  "volume": 689069,
+  "deep_frac": 0.0747
+ },
+ {
+  "global_id": 88343,
+  "volume": 688183,
+  "deep_frac": 0.0795
+ },
+ {
+  "global_id": 377812,
+  "volume": 681039,
+  "deep_frac": 0.0095
+ },
+ {
+  "global_id": 373955,
+  "volume": 680412,
+  "deep_frac": 0.0061
+ },
+ {
+  "global_id": 427920,
+  "volume": 678685,
+  "deep_frac": 0.0145
+ },
+ {
+  "global_id": 113939,
+  "volume": 676918,
+  "deep_frac": 0.0315
+ },
+ {
+  "global_id": 399658,
+  "volume": 676694,
+  "deep_frac": 0.0237
+ },
+ {
+  "global_id": 349856,
+  "volume": 676125,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 382733,
+  "volume": 676090,
+  "deep_frac": 0.0153
+ },
+ {
+  "global_id": 317429,
+  "volume": 675491,
+  "deep_frac": 0.0126
+ },
+ {
+  "global_id": 53420,
+  "volume": 671235,
+  "deep_frac": 0.0824
+ },
+ {
+  "global_id": 111897,
+  "volume": 668514,
+  "deep_frac": 0.0132
+ },
+ {
+  "global_id": 466568,
+  "volume": 665760,
+  "deep_frac": 0.0569
+ },
+ {
+  "global_id": 300767,
+  "volume": 665542,
+  "deep_frac": 0.0137
+ },
+ {
+  "global_id": 402072,
+  "volume": 661620,
+  "deep_frac": 0.0149
+ },
+ {
+  "global_id": 76133,
+  "volume": 659978,
+  "deep_frac": 0.0597
+ },
+ {
+  "global_id": 189266,
+  "volume": 654781,
+  "deep_frac": 0.0889
+ },
+ {
+  "global_id": 303578,
+  "volume": 654161,
+  "deep_frac": 0.0059
+ },
+ {
+  "global_id": 537998,
+  "volume": 651125,
+  "deep_frac": 0.016
+ },
+ {
+  "global_id": 415931,
+  "volume": 649727,
+  "deep_frac": 0.0416
+ },
+ {
+  "global_id": 321901,
+  "volume": 647711,
+  "deep_frac": 0.0441
+ },
+ {
+  "global_id": 410795,
+  "volume": 641760,
+  "deep_frac": 0.0769
+ },
+ {
+  "global_id": 281642,
+  "volume": 636921,
+  "deep_frac": 0.0235
+ },
+ {
+  "global_id": 270764,
+  "volume": 634338,
+  "deep_frac": 0.063
+ },
+ {
+  "global_id": 228307,
+  "volume": 633114,
+  "deep_frac": 0.0282
+ },
+ {
+  "global_id": 504095,
+  "volume": 632106,
+  "deep_frac": 0.0601
+ },
+ {
+  "global_id": 471756,
+  "volume": 631712,
+  "deep_frac": 0.0193
+ },
+ {
+  "global_id": 386615,
+  "volume": 631257,
+  "deep_frac": 0.0335
+ },
+ {
+  "global_id": 87629,
+  "volume": 630483,
+  "deep_frac": 0.0215
+ },
+ {
+  "global_id": 501895,
+  "volume": 629434,
+  "deep_frac": 0.0278
+ },
+ {
+  "global_id": 87707,
+  "volume": 627325,
+  "deep_frac": 0.0611
+ },
+ {
+  "global_id": 93182,
+  "volume": 620265,
+  "deep_frac": 0.0052
+ },
+ {
+  "global_id": 113839,
+  "volume": 619472,
+  "deep_frac": 0.05
+ },
+ {
+  "global_id": 300851,
+  "volume": 617885,
+  "deep_frac": 0.0068
+ },
+ {
+  "global_id": 332130,
+  "volume": 616659,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 394864,
+  "volume": 616435,
+  "deep_frac": 0.0553
+ },
+ {
+  "global_id": 236621,
+  "volume": 609793,
+  "deep_frac": 0.0456
+ },
+ {
+  "global_id": 413287,
+  "volume": 606555,
+  "deep_frac": 0.0121
+ },
+ {
+  "global_id": 114988,
+  "volume": 605468,
+  "deep_frac": 0.0106
+ },
+ {
+  "global_id": 53470,
+  "volume": 603910,
+  "deep_frac": 0.0141
+ },
+ {
+  "global_id": 480141,
+  "volume": 603854,
+  "deep_frac": 0.0397
+ },
+ {
+  "global_id": 33116,
+  "volume": 603551,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 474180,
+  "volume": 601966,
+  "deep_frac": 0.0322
+ },
+ {
+  "global_id": 61771,
+  "volume": 599921,
+  "deep_frac": 0.0289
+ },
+ {
+  "global_id": 358110,
+  "volume": 597855,
+  "deep_frac": 0.0132
+ },
+ {
+  "global_id": 88405,
+  "volume": 597185,
+  "deep_frac": 0.0982
+ },
+ {
+  "global_id": 138382,
+  "volume": 596064,
+  "deep_frac": 0.0173
+ },
+ {
+  "global_id": 172092,
+  "volume": 594835,
+  "deep_frac": 0.0613
+ },
+ {
+  "global_id": 249697,
+  "volume": 591907,
+  "deep_frac": 0.0161
+ },
+ {
+  "global_id": 295024,
+  "volume": 590935,
+  "deep_frac": 0.0359
+ },
+ {
+  "global_id": 266611,
+  "volume": 589477,
+  "deep_frac": 0.0342
+ },
+ {
+  "global_id": 588341,
+  "volume": 589251,
+  "deep_frac": 0.0653
+ },
+ {
+  "global_id": 234056,
+  "volume": 587386,
+  "deep_frac": 0.0531
+ },
+ {
+  "global_id": 331426,
+  "volume": 583149,
+  "deep_frac": 0.0088
+ },
+ {
+  "global_id": 158734,
+  "volume": 580918,
+  "deep_frac": 0.0954
+ },
+ {
+  "global_id": 95282,
+  "volume": 580720,
+  "deep_frac": 0.0212
+ },
+ {
+  "global_id": 54539,
+  "volume": 578563,
+  "deep_frac": 0.0581
+ },
+ {
+  "global_id": 374794,
+  "volume": 577999,
+  "deep_frac": 0.0174
+ },
+ {
+  "global_id": 545849,
+  "volume": 574836,
+  "deep_frac": 0.0831
+ },
+ {
+  "global_id": 453244,
+  "volume": 574569,
+  "deep_frac": 0.0957
+ },
+ {
+  "global_id": 415969,
+  "volume": 574386,
+  "deep_frac": 0.012
+ },
+ {
+  "global_id": 519248,
+  "volume": 568454,
+  "deep_frac": 0.089
+ },
+ {
+  "global_id": 182881,
+  "volume": 568174,
+  "deep_frac": 0.0896
+ },
+ {
+  "global_id": 349067,
+  "volume": 565933,
+  "deep_frac": 0.0023
+ },
+ {
+  "global_id": 224364,
+  "volume": 563489,
+  "deep_frac": 0.0522
+ },
+ {
+  "global_id": 78569,
+  "volume": 561999,
+  "deep_frac": 0.0987
+ },
+ {
+  "global_id": 339529,
+  "volume": 560908,
+  "deep_frac": 0.0153
+ },
+ {
+  "global_id": 39056,
+  "volume": 557147,
+  "deep_frac": 0.0091
+ },
+ {
+  "global_id": 146339,
+  "volume": 556807,
+  "deep_frac": 0.0494
+ },
+ {
+  "global_id": 396495,
+  "volume": 553913,
+  "deep_frac": 0.0486
+ },
+ {
+  "global_id": 413332,
+  "volume": 553107,
+  "deep_frac": 0.0253
+ },
+ {
+  "global_id": 381754,
+  "volume": 551108,
+  "deep_frac": 0.0223
+ },
+ {
+  "global_id": 331446,
+  "volume": 549217,
+  "deep_frac": 0.0064
+ },
+ {
+  "global_id": 146388,
+  "volume": 548768,
+  "deep_frac": 0.0239
+ },
+ {
+  "global_id": 167512,
+  "volume": 546229,
+  "deep_frac": 0.0867
+ },
+ {
+  "global_id": 372129,
+  "volume": 545811,
+  "deep_frac": 0.027
+ },
+ {
+  "global_id": 462190,
+  "volume": 544272,
+  "deep_frac": 0.0203
+ },
+ {
+  "global_id": 452281,
+  "volume": 544193,
+  "deep_frac": 0.0082
+ },
+ {
+  "global_id": 160252,
+  "volume": 542028,
+  "deep_frac": 0.0954
+ },
+ {
+  "global_id": 147877,
+  "volume": 541066,
+  "deep_frac": 0.0543
+ },
+ {
+  "global_id": 62169,
+  "volume": 540711,
+  "deep_frac": 0.0637
+ },
+ {
+  "global_id": 371119,
+  "volume": 539724,
+  "deep_frac": 0.0522
+ },
+ {
+  "global_id": 408162,
+  "volume": 538569,
+  "deep_frac": 0.0334
+ },
+ {
+  "global_id": 483124,
+  "volume": 537099,
+  "deep_frac": 0.0364
+ },
+ {
+  "global_id": 182616,
+  "volume": 536828,
+  "deep_frac": 0.0613
+ },
+ {
+  "global_id": 109143,
+  "volume": 536162,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 138835,
+  "volume": 534350,
+  "deep_frac": 0.0314
+ },
+ {
+  "global_id": 263118,
+  "volume": 534074,
+  "deep_frac": 0.0627
+ },
+ {
+  "global_id": 501000,
+  "volume": 532384,
+  "deep_frac": 0.0145
+ },
+ {
+  "global_id": 294862,
+  "volume": 531679,
+  "deep_frac": 0.0055
+ },
+ {
+  "global_id": 415918,
+  "volume": 530213,
+  "deep_frac": 0.0098
+ },
+ {
+  "global_id": 344100,
+  "volume": 528677,
+  "deep_frac": 0.0107
+ },
+ {
+  "global_id": 299570,
+  "volume": 528024,
+  "deep_frac": 0.0142
+ },
+ {
+  "global_id": 463304,
+  "volume": 527166,
+  "deep_frac": 0.0551
+ },
+ {
+  "global_id": 453491,
+  "volume": 526166,
+  "deep_frac": 0.0164
+ },
+ {
+  "global_id": 371110,
+  "volume": 523223,
+  "deep_frac": 0.0842
+ },
+ {
+  "global_id": 400617,
+  "volume": 522286,
+  "deep_frac": 0.0339
+ },
+ {
+  "global_id": 376178,
+  "volume": 521491,
+  "deep_frac": 0.0565
+ },
+ {
+  "global_id": 451966,
+  "volume": 521443,
+  "deep_frac": 0.0651
+ },
+ {
+  "global_id": 121312,
+  "volume": 520287,
+  "deep_frac": 0.0319
+ },
+ {
+  "global_id": 62422,
+  "volume": 520283,
+  "deep_frac": 0.0787
+ },
+ {
+  "global_id": 185511,
+  "volume": 520132,
+  "deep_frac": 0.0223
+ },
+ {
+  "global_id": 361853,
+  "volume": 519304,
+  "deep_frac": 0.0522
+ },
+ {
+  "global_id": 395533,
+  "volume": 516703,
+  "deep_frac": 0.0375
+ },
+ {
+  "global_id": 441437,
+  "volume": 516565,
+  "deep_frac": 0.0348
+ },
+ {
+  "global_id": 243293,
+  "volume": 515040,
+  "deep_frac": 0.0112
+ },
+ {
+  "global_id": 358681,
+  "volume": 513617,
+  "deep_frac": 0.0039
+ },
+ {
+  "global_id": 480314,
+  "volume": 513057,
+  "deep_frac": 0.0143
+ },
+ {
+  "global_id": 50837,
+  "volume": 511111,
+  "deep_frac": 0.0308
+ },
+ {
+  "global_id": 360502,
+  "volume": 509029,
+  "deep_frac": 0.0353
+ },
+ {
+  "global_id": 156352,
+  "volume": 508955,
+  "deep_frac": 0.082
+ },
+ {
+  "global_id": 269220,
+  "volume": 508853,
+  "deep_frac": 0.0276
+ },
+ {
+  "global_id": 364868,
+  "volume": 507685,
+  "deep_frac": 0.004
+ },
+ {
+  "global_id": 282077,
+  "volume": 505678,
+  "deep_frac": 0.0301
+ },
+ {
+  "global_id": 259051,
+  "volume": 505013,
+  "deep_frac": 0.0588
+ },
+ {
+  "global_id": 383474,
+  "volume": 504970,
+  "deep_frac": 0.0071
+ },
+ {
+  "global_id": 97799,
+  "volume": 503087,
+  "deep_frac": 0.0195
+ },
+ {
+  "global_id": 501902,
+  "volume": 502714,
+  "deep_frac": 0.0168
+ },
+ {
+  "global_id": 249920,
+  "volume": 502433,
+  "deep_frac": 0.0387
+ },
+ {
+  "global_id": 137116,
+  "volume": 502094,
+  "deep_frac": 0.033
+ },
+ {
+  "global_id": 328994,
+  "volume": 501013,
+  "deep_frac": 0.0677
+ },
+ {
+  "global_id": 294011,
+  "volume": 501005,
+  "deep_frac": 0.0073
+ },
+ {
+  "global_id": 13650,
+  "volume": 500178,
+  "deep_frac": 0.0553
+ },
+ {
+  "global_id": 419665,
+  "volume": 499823,
+  "deep_frac": 0.0792
+ },
+ {
+  "global_id": 129123,
+  "volume": 498242,
+  "deep_frac": 0.0227
+ },
+ {
+  "global_id": 483313,
+  "volume": 497281,
+  "deep_frac": 0.0657
+ },
+ {
+  "global_id": 361104,
+  "volume": 495632,
+  "deep_frac": 0.0272
+ },
+ {
+  "global_id": 409177,
+  "volume": 493644,
+  "deep_frac": 0.0208
+ },
+ {
+  "global_id": 78218,
+  "volume": 492971,
+  "deep_frac": 0.0259
+ },
+ {
+  "global_id": 107740,
+  "volume": 490434,
+  "deep_frac": 0.0176
+ },
+ {
+  "global_id": 389013,
+  "volume": 489436,
+  "deep_frac": 0.0057
+ },
+ {
+  "global_id": 99521,
+  "volume": 488682,
+  "deep_frac": 0.0251
+ },
+ {
+  "global_id": 329459,
+  "volume": 487872,
+  "deep_frac": 0.0104
+ },
+ {
+  "global_id": 480958,
+  "volume": 486878,
+  "deep_frac": 0.0454
+ },
+ {
+  "global_id": 141597,
+  "volume": 486657,
+  "deep_frac": 0.0231
+ },
+ {
+  "global_id": 58220,
+  "volume": 486412,
+  "deep_frac": 0.0098
+ },
+ {
+  "global_id": 335809,
+  "volume": 484655,
+  "deep_frac": 0.046
+ },
+ {
+  "global_id": 428488,
+  "volume": 484187,
+  "deep_frac": 0.0166
+ },
+ {
+  "global_id": 585397,
+  "volume": 484041,
+  "deep_frac": 0.0273
+ },
+ {
+  "global_id": 108444,
+  "volume": 482455,
+  "deep_frac": 0.0355
+ },
+ {
+  "global_id": 361488,
+  "volume": 481916,
+  "deep_frac": 0.0101
+ },
+ {
+  "global_id": 147856,
+  "volume": 480443,
+  "deep_frac": 0.0632
+ },
+ {
+  "global_id": 56410,
+  "volume": 480421,
+  "deep_frac": 0.0122
+ },
+ {
+  "global_id": 179737,
+  "volume": 476344,
+  "deep_frac": 0.0813
+ },
+ {
+  "global_id": 490998,
+  "volume": 474550,
+  "deep_frac": 0.0377
+ },
+ {
+  "global_id": 173191,
+  "volume": 473285,
+  "deep_frac": 0.0742
+ },
+ {
+  "global_id": 388362,
+  "volume": 472530,
+  "deep_frac": 0.0181
+ },
+ {
+  "global_id": 116495,
+  "volume": 471410,
+  "deep_frac": 0.0542
+ },
+ {
+  "global_id": 464139,
+  "volume": 470980,
+  "deep_frac": 0.0342
+ },
+ {
+  "global_id": 121164,
+  "volume": 469636,
+  "deep_frac": 0.0291
+ },
+ {
+  "global_id": 197979,
+  "volume": 469459,
+  "deep_frac": 0.0728
+ },
+ {
+  "global_id": 307030,
+  "volume": 468214,
+  "deep_frac": 0.0147
+ },
+ {
+  "global_id": 121341,
+  "volume": 466491,
+  "deep_frac": 0.0156
+ },
+ {
+  "global_id": 351613,
+  "volume": 466071,
+  "deep_frac": 0.008
+ },
+ {
+  "global_id": 405363,
+  "volume": 465503,
+  "deep_frac": 0.0683
+ },
+ {
+  "global_id": 111505,
+  "volume": 464960,
+  "deep_frac": 0.0706
+ },
+ {
+  "global_id": 119276,
+  "volume": 464507,
+  "deep_frac": 0.0165
+ },
+ {
+  "global_id": 148661,
+  "volume": 462524,
+  "deep_frac": 0.0713
+ },
+ {
+  "global_id": 126057,
+  "volume": 462490,
+  "deep_frac": 0.0836
+ },
+ {
+  "global_id": 401754,
+  "volume": 460923,
+  "deep_frac": 0.0981
+ },
+ {
+  "global_id": 56989,
+  "volume": 460606,
+  "deep_frac": 0.0563
+ },
+ {
+  "global_id": 430541,
+  "volume": 460271,
+  "deep_frac": 0.0894
+ },
+ {
+  "global_id": 128887,
+  "volume": 460100,
+  "deep_frac": 0.0646
+ },
+ {
+  "global_id": 416003,
+  "volume": 459285,
+  "deep_frac": 0.0221
+ },
+ {
+  "global_id": 103901,
+  "volume": 458572,
+  "deep_frac": 0.093
+ },
+ {
+  "global_id": 318909,
+  "volume": 458192,
+  "deep_frac": 0.0117
+ },
+ {
+  "global_id": 487809,
+  "volume": 457997,
+  "deep_frac": 0.0131
+ },
+ {
+  "global_id": 157132,
+  "volume": 457224,
+  "deep_frac": 0.0235
+ },
+ {
+  "global_id": 534661,
+  "volume": 456275,
+  "deep_frac": 0.0968
+ },
+ {
+  "global_id": 284979,
+  "volume": 455576,
+  "deep_frac": 0.0958
+ },
+ {
+  "global_id": 361828,
+  "volume": 454780,
+  "deep_frac": 0.0504
+ },
+ {
+  "global_id": 120137,
+  "volume": 454651,
+  "deep_frac": 0.0271
+ },
+ {
+  "global_id": 120676,
+  "volume": 452901,
+  "deep_frac": 0.0116
+ },
+ {
+  "global_id": 552071,
+  "volume": 452099,
+  "deep_frac": 0.0341
+ },
+ {
+  "global_id": 480715,
+  "volume": 451496,
+  "deep_frac": 0.0183
+ },
+ {
+  "global_id": 320616,
+  "volume": 451066,
+  "deep_frac": 0.0034
+ },
+ {
+  "global_id": 126048,
+  "volume": 450387,
+  "deep_frac": 0.0194
+ },
+ {
+  "global_id": 254474,
+  "volume": 450251,
+  "deep_frac": 0.0079
+ },
+ {
+  "global_id": 416506,
+  "volume": 450174,
+  "deep_frac": 0.0538
+ },
+ {
+  "global_id": 141464,
+  "volume": 448502,
+  "deep_frac": 0.0205
+ },
+ {
+  "global_id": 252497,
+  "volume": 447530,
+  "deep_frac": 0.0638
+ },
+ {
+  "global_id": 153576,
+  "volume": 446567,
+  "deep_frac": 0.0962
+ },
+ {
+  "global_id": 557164,
+  "volume": 445817,
+  "deep_frac": 0.0177
+ },
+ {
+  "global_id": 208382,
+  "volume": 444844,
+  "deep_frac": 0.0939
+ },
+ {
+  "global_id": 388347,
+  "volume": 444229,
+  "deep_frac": 0.0146
+ },
+ {
+  "global_id": 238232,
+  "volume": 444204,
+  "deep_frac": 0.0377
+ },
+ {
+  "global_id": 94498,
+  "volume": 443320,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 52235,
+  "volume": 442136,
+  "deep_frac": 0.0409
+ },
+ {
+  "global_id": 504455,
+  "volume": 441463,
+  "deep_frac": 0.0775
+ },
+ {
+  "global_id": 132799,
+  "volume": 441251,
+  "deep_frac": 0.0118
+ },
+ {
+  "global_id": 225425,
+  "volume": 440771,
+  "deep_frac": 0.0076
+ },
+ {
+  "global_id": 137177,
+  "volume": 440229,
+  "deep_frac": 0.0146
+ },
+ {
+  "global_id": 450805,
+  "volume": 439816,
+  "deep_frac": 0.0382
+ },
+ {
+  "global_id": 158379,
+  "volume": 439151,
+  "deep_frac": 0.0486
+ },
+ {
+  "global_id": 70843,
+  "volume": 439099,
+  "deep_frac": 0.0435
+ },
+ {
+  "global_id": 294857,
+  "volume": 439079,
+  "deep_frac": 0.0125
+ },
+ {
+  "global_id": 180700,
+  "volume": 438874,
+  "deep_frac": 0.0354
+ },
+ {
+  "global_id": 467992,
+  "volume": 438843,
+  "deep_frac": 0.0217
+ },
+ {
+  "global_id": 110607,
+  "volume": 438289,
+  "deep_frac": 0.0108
+ },
+ {
+  "global_id": 67446,
+  "volume": 436138,
+  "deep_frac": 0.0219
+ },
+ {
+  "global_id": 79318,
+  "volume": 434475,
+  "deep_frac": 0.0272
+ },
+ {
+  "global_id": 530402,
+  "volume": 433583,
+  "deep_frac": 0.0778
+ },
+ {
+  "global_id": 187755,
+  "volume": 432504,
+  "deep_frac": 0.0834
+ },
+ {
+  "global_id": 161701,
+  "volume": 431888,
+  "deep_frac": 0.0725
+ },
+ {
+  "global_id": 499739,
+  "volume": 431637,
+  "deep_frac": 0.0336
+ },
+ {
+  "global_id": 224375,
+  "volume": 430843,
+  "deep_frac": 0.029
+ },
+ {
+  "global_id": 457853,
+  "volume": 429663,
+  "deep_frac": 0.0169
+ },
+ {
+  "global_id": 464996,
+  "volume": 429645,
+  "deep_frac": 0.0224
+ },
+ {
+  "global_id": 109011,
+  "volume": 429232,
+  "deep_frac": 0.0159
+ },
+ {
+  "global_id": 486102,
+  "volume": 428071,
+  "deep_frac": 0.064
+ },
+ {
+  "global_id": 329517,
+  "volume": 427966,
+  "deep_frac": 0.0158
+ },
+ {
+  "global_id": 413885,
+  "volume": 427564,
+  "deep_frac": 0.0278
+ },
+ {
+  "global_id": 473630,
+  "volume": 427526,
+  "deep_frac": 0.0197
+ },
+ {
+  "global_id": 73125,
+  "volume": 426459,
+  "deep_frac": 0.0677
+ },
+ {
+  "global_id": 470667,
+  "volume": 426378,
+  "deep_frac": 0.0285
+ },
+ {
+  "global_id": 326154,
+  "volume": 426179,
+  "deep_frac": 0.0222
+ },
+ {
+  "global_id": 369194,
+  "volume": 425078,
+  "deep_frac": 0.0062
+ },
+ {
+  "global_id": 97202,
+  "volume": 424458,
+  "deep_frac": 0.0959
+ },
+ {
+  "global_id": 120819,
+  "volume": 423965,
+  "deep_frac": 0.0155
+ },
+ {
+  "global_id": 335724,
+  "volume": 423738,
+  "deep_frac": 0.0331
+ },
+ {
+  "global_id": 111473,
+  "volume": 422486,
+  "deep_frac": 0.0074
+ },
+ {
+  "global_id": 313198,
+  "volume": 421339,
+  "deep_frac": 0.0137
+ },
+ {
+  "global_id": 360514,
+  "volume": 420896,
+  "deep_frac": 0.09
+ },
+ {
+  "global_id": 409167,
+  "volume": 420761,
+  "deep_frac": 0.017
+ },
+ {
+  "global_id": 337888,
+  "volume": 420435,
+  "deep_frac": 0.0463
+ },
+ {
+  "global_id": 120842,
+  "volume": 420347,
+  "deep_frac": 0.0255
+ },
+ {
+  "global_id": 127108,
+  "volume": 420323,
+  "deep_frac": 0.0734
+ },
+ {
+  "global_id": 390622,
+  "volume": 420311,
+  "deep_frac": 0.0609
+ },
+ {
+  "global_id": 308134,
+  "volume": 419929,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 153650,
+  "volume": 419889,
+  "deep_frac": 0.0677
+ },
+ {
+  "global_id": 162604,
+  "volume": 418922,
+  "deep_frac": 0.047
+ },
+ {
+  "global_id": 113810,
+  "volume": 418885,
+  "deep_frac": 0.0142
+ },
+ {
+  "global_id": 481400,
+  "volume": 418498,
+  "deep_frac": 0.0847
+ },
+ {
+  "global_id": 342489,
+  "volume": 416001,
+  "deep_frac": 0.0387
+ },
+ {
+  "global_id": 386336,
+  "volume": 415830,
+  "deep_frac": 0.0221
+ },
+ {
+  "global_id": 454331,
+  "volume": 415823,
+  "deep_frac": 0.0437
+ },
+ {
+  "global_id": 401219,
+  "volume": 415642,
+  "deep_frac": 0.0475
+ },
+ {
+  "global_id": 155811,
+  "volume": 415637,
+  "deep_frac": 0.0167
+ },
+ {
+  "global_id": 297692,
+  "volume": 414999,
+  "deep_frac": 0.0092
+ },
+ {
+  "global_id": 97193,
+  "volume": 413607,
+  "deep_frac": 0.0728
+ },
+ {
+  "global_id": 400424,
+  "volume": 413506,
+  "deep_frac": 0.0439
+ },
+ {
+  "global_id": 355279,
+  "volume": 413347,
+  "deep_frac": 0.0027
+ },
+ {
+  "global_id": 336475,
+  "volume": 412444,
+  "deep_frac": 0.0208
+ },
+ {
+  "global_id": 399830,
+  "volume": 412392,
+  "deep_frac": 0.0185
+ },
+ {
+  "global_id": 203748,
+  "volume": 412005,
+  "deep_frac": 0.0102
+ },
+ {
+  "global_id": 50789,
+  "volume": 411550,
+  "deep_frac": 0.0233
+ },
+ {
+  "global_id": 245511,
+  "volume": 410664,
+  "deep_frac": 0.0337
+ },
+ {
+  "global_id": 392604,
+  "volume": 410225,
+  "deep_frac": 0.004
+ },
+ {
+  "global_id": 394242,
+  "volume": 410060,
+  "deep_frac": 0.083
+ },
+ {
+  "global_id": 482135,
+  "volume": 410059,
+  "deep_frac": 0.0137
+ },
+ {
+  "global_id": 509609,
+  "volume": 409938,
+  "deep_frac": 0.0811
+ },
+ {
+  "global_id": 292679,
+  "volume": 409914,
+  "deep_frac": 0.0326
+ },
+ {
+  "global_id": 127818,
+  "volume": 409234,
+  "deep_frac": 0.0363
+ },
+ {
+  "global_id": 58222,
+  "volume": 409178,
+  "deep_frac": 0.01
+ },
+ {
+  "global_id": 454284,
+  "volume": 408908,
+  "deep_frac": 0.0456
+ },
+ {
+  "global_id": 122291,
+  "volume": 408680,
+  "deep_frac": 0.0232
+ },
+ {
+  "global_id": 271621,
+  "volume": 408599,
+  "deep_frac": 0.062
+ },
+ {
+  "global_id": 399625,
+  "volume": 408254,
+  "deep_frac": 0.0178
+ },
+ {
+  "global_id": 128399,
+  "volume": 408214,
+  "deep_frac": 0.0534
+ },
+ {
+  "global_id": 163363,
+  "volume": 407542,
+  "deep_frac": 0.0085
+ },
+ {
+  "global_id": 439883,
+  "volume": 405207,
+  "deep_frac": 0.0524
+ },
+ {
+  "global_id": 476622,
+  "volume": 405132,
+  "deep_frac": 0.014
+ },
+ {
+  "global_id": 466835,
+  "volume": 404554,
+  "deep_frac": 0.0742
+ },
+ {
+  "global_id": 389389,
+  "volume": 404304,
+  "deep_frac": 0.0359
+ },
+ {
+  "global_id": 386293,
+  "volume": 403424,
+  "deep_frac": 0.0411
+ },
+ {
+  "global_id": 301018,
+  "volume": 403294,
+  "deep_frac": 0.0315
+ },
+ {
+  "global_id": 491004,
+  "volume": 402384,
+  "deep_frac": 0.0293
+ },
+ {
+  "global_id": 473055,
+  "volume": 401948,
+  "deep_frac": 0.0934
+ },
+ {
+  "global_id": 423276,
+  "volume": 400244,
+  "deep_frac": 0.0343
+ },
+ {
+  "global_id": 254462,
+  "volume": 400052,
+  "deep_frac": 0.046
+ },
+ {
+  "global_id": 360509,
+  "volume": 400028,
+  "deep_frac": 0.0814
+ },
+ {
+  "global_id": 198031,
+  "volume": 399585,
+  "deep_frac": 0.0082
+ },
+ {
+  "global_id": 147872,
+  "volume": 399496,
+  "deep_frac": 0.0132
+ },
+ {
+  "global_id": 118800,
+  "volume": 399045,
+  "deep_frac": 0.013
+ },
+ {
+  "global_id": 409485,
+  "volume": 398844,
+  "deep_frac": 0.0179
+ },
+ {
+  "global_id": 413742,
+  "volume": 397528,
+  "deep_frac": 0.0193
+ },
+ {
+  "global_id": 386683,
+  "volume": 397161,
+  "deep_frac": 0.0138
+ },
+ {
+  "global_id": 99469,
+  "volume": 396975,
+  "deep_frac": 0.017
+ },
+ {
+  "global_id": 508384,
+  "volume": 396738,
+  "deep_frac": 0.0651
+ },
+ {
+  "global_id": 301363,
+  "volume": 396506,
+  "deep_frac": 0.0148
+ },
+ {
+  "global_id": 456817,
+  "volume": 396474,
+  "deep_frac": 0.0804
+ },
+ {
+  "global_id": 267167,
+  "volume": 396269,
+  "deep_frac": 0.0171
+ },
+ {
+  "global_id": 98235,
+  "volume": 394979,
+  "deep_frac": 0.0394
+ },
+ {
+  "global_id": 368171,
+  "volume": 393963,
+  "deep_frac": 0.0454
+ },
+ {
+  "global_id": 446577,
+  "volume": 393857,
+  "deep_frac": 0.0927
+ },
+ {
+  "global_id": 345288,
+  "volume": 392916,
+  "deep_frac": 0.0152
+ },
+ {
+  "global_id": 303874,
+  "volume": 392859,
+  "deep_frac": 0.0519
+ },
+ {
+  "global_id": 395277,
+  "volume": 391967,
+  "deep_frac": 0.0829
+ },
+ {
+  "global_id": 254169,
+  "volume": 391705,
+  "deep_frac": 0.0118
+ },
+ {
+  "global_id": 656595,
+  "volume": 391648,
+  "deep_frac": 0.0886
+ },
+ {
+  "global_id": 255849,
+  "volume": 390578,
+  "deep_frac": 0.0433
+ },
+ {
+  "global_id": 99465,
+  "volume": 390099,
+  "deep_frac": 0.0149
+ },
+ {
+  "global_id": 148666,
+  "volume": 389922,
+  "deep_frac": 0.0692
+ },
+ {
+  "global_id": 408239,
+  "volume": 389660,
+  "deep_frac": 0.0143
+ },
+ {
+  "global_id": 253678,
+  "volume": 389544,
+  "deep_frac": 0.0322
+ },
+ {
+  "global_id": 119227,
+  "volume": 388339,
+  "deep_frac": 0.0186
+ },
+ {
+  "global_id": 137187,
+  "volume": 387798,
+  "deep_frac": 0.0228
+ },
+ {
+  "global_id": 394999,
+  "volume": 387352,
+  "deep_frac": 0.02
+ },
+ {
+  "global_id": 185450,
+  "volume": 386377,
+  "deep_frac": 0.0777
+ },
+ {
+  "global_id": 119771,
+  "volume": 386152,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 319705,
+  "volume": 385610,
+  "deep_frac": 0.0023
+ },
+ {
+  "global_id": 442653,
+  "volume": 385197,
+  "deep_frac": 0.0246
+ },
+ {
+  "global_id": 140421,
+  "volume": 385018,
+  "deep_frac": 0.0625
+ },
+ {
+  "global_id": 290067,
+  "volume": 384568,
+  "deep_frac": 0.0936
+ },
+ {
+  "global_id": 398536,
+  "volume": 384455,
+  "deep_frac": 0.0256
+ },
+ {
+  "global_id": 161848,
+  "volume": 384180,
+  "deep_frac": 0.09
+ },
+ {
+  "global_id": 141646,
+  "volume": 383974,
+  "deep_frac": 0.0171
+ },
+ {
+  "global_id": 493238,
+  "volume": 383939,
+  "deep_frac": 0.0989
+ },
+ {
+  "global_id": 108805,
+  "volume": 383609,
+  "deep_frac": 0.0382
+ },
+ {
+  "global_id": 350531,
+  "volume": 382323,
+  "deep_frac": 0.0185
+ },
+ {
+  "global_id": 315340,
+  "volume": 381926,
+  "deep_frac": 0.0184
+ },
+ {
+  "global_id": 345921,
+  "volume": 381909,
+  "deep_frac": 0.0153
+ },
+ {
+  "global_id": 330234,
+  "volume": 381872,
+  "deep_frac": 0.0162
+ },
+ {
+  "global_id": 253708,
+  "volume": 381275,
+  "deep_frac": 0.0198
+ },
+ {
+  "global_id": 411147,
+  "volume": 380899,
+  "deep_frac": 0.0487
+ },
+ {
+  "global_id": 328694,
+  "volume": 380856,
+  "deep_frac": 0.0077
+ },
+ {
+  "global_id": 346054,
+  "volume": 380723,
+  "deep_frac": 0.0228
+ },
+ {
+  "global_id": 388319,
+  "volume": 380318,
+  "deep_frac": 0.0602
+ },
+ {
+  "global_id": 182514,
+  "volume": 380159,
+  "deep_frac": 0.0285
+ },
+ {
+  "global_id": 372147,
+  "volume": 379451,
+  "deep_frac": 0.0167
+ },
+ {
+  "global_id": 507203,
+  "volume": 378506,
+  "deep_frac": 0.094
+ },
+ {
+  "global_id": 305453,
+  "volume": 378426,
+  "deep_frac": 0.0071
+ },
+ {
+  "global_id": 409928,
+  "volume": 378400,
+  "deep_frac": 0.0981
+ },
+ {
+  "global_id": 204681,
+  "volume": 378255,
+  "deep_frac": 0.0063
+ },
+ {
+  "global_id": 400278,
+  "volume": 377575,
+  "deep_frac": 0.0344
+ },
+ {
+  "global_id": 53401,
+  "volume": 377570,
+  "deep_frac": 0.0643
+ },
+ {
+  "global_id": 376173,
+  "volume": 377366,
+  "deep_frac": 0.021
+ },
+ {
+  "global_id": 62394,
+  "volume": 377200,
+  "deep_frac": 0.0776
+ },
+ {
+  "global_id": 362033,
+  "volume": 375820,
+  "deep_frac": 0.0806
+ },
+ {
+  "global_id": 459335,
+  "volume": 375124,
+  "deep_frac": 0.0876
+ },
+ {
+  "global_id": 206620,
+  "volume": 373994,
+  "deep_frac": 0.0619
+ },
+ {
+  "global_id": 198054,
+  "volume": 373815,
+  "deep_frac": 0.0223
+ },
+ {
+  "global_id": 288714,
+  "volume": 373566,
+  "deep_frac": 0.0088
+ },
+ {
+  "global_id": 356226,
+  "volume": 372603,
+  "deep_frac": 0.0021
+ },
+ {
+  "global_id": 135050,
+  "volume": 372476,
+  "deep_frac": 0.0487
+ },
+ {
+  "global_id": 516471,
+  "volume": 372222,
+  "deep_frac": 0.0207
+ },
+ {
+  "global_id": 475073,
+  "volume": 371945,
+  "deep_frac": 0.0117
+ },
+ {
+  "global_id": 109511,
+  "volume": 371864,
+  "deep_frac": 0.0078
+ },
+ {
+  "global_id": 504167,
+  "volume": 371763,
+  "deep_frac": 0.0596
+ },
+ {
+  "global_id": 142591,
+  "volume": 371761,
+  "deep_frac": 0.0519
+ },
+ {
+  "global_id": 107713,
+  "volume": 371650,
+  "deep_frac": 0.0975
+ },
+ {
+  "global_id": 163785,
+  "volume": 371512,
+  "deep_frac": 0.0371
+ },
+ {
+  "global_id": 269741,
+  "volume": 370729,
+  "deep_frac": 0.0649
+ },
+ {
+  "global_id": 411731,
+  "volume": 370718,
+  "deep_frac": 0.0138
+ },
+ {
+  "global_id": 541670,
+  "volume": 370568,
+  "deep_frac": 0.078
+ },
+ {
+  "global_id": 122323,
+  "volume": 370373,
+  "deep_frac": 0.0382
+ },
+ {
+  "global_id": 241271,
+  "volume": 369254,
+  "deep_frac": 0.0197
+ },
+ {
+  "global_id": 58208,
+  "volume": 368166,
+  "deep_frac": 0.0041
+ },
+ {
+  "global_id": 91939,
+  "volume": 367467,
+  "deep_frac": 0.0303
+ },
+ {
+  "global_id": 352191,
+  "volume": 367459,
+  "deep_frac": 0.0337
+ },
+ {
+  "global_id": 376864,
+  "volume": 367036,
+  "deep_frac": 0.0151
+ },
+ {
+  "global_id": 271042,
+  "volume": 366815,
+  "deep_frac": 0.075
+ },
+ {
+  "global_id": 54455,
+  "volume": 366685,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 294508,
+  "volume": 366504,
+  "deep_frac": 0.0033
+ },
+ {
+  "global_id": 267221,
+  "volume": 366197,
+  "deep_frac": 0.0072
+ },
+ {
+  "global_id": 395738,
+  "volume": 365038,
+  "deep_frac": 0.0087
+ },
+ {
+  "global_id": 134221,
+  "volume": 364582,
+  "deep_frac": 0.022
+ },
+ {
+  "global_id": 122230,
+  "volume": 363941,
+  "deep_frac": 0.0161
+ },
+ {
+  "global_id": 409917,
+  "volume": 363554,
+  "deep_frac": 0.021
+ },
+ {
+  "global_id": 365945,
+  "volume": 363385,
+  "deep_frac": 0.0367
+ },
+ {
+  "global_id": 387788,
+  "volume": 363067,
+  "deep_frac": 0.0097
+ },
+ {
+  "global_id": 399768,
+  "volume": 362910,
+  "deep_frac": 0.0208
+ },
+ {
+  "global_id": 361356,
+  "volume": 361330,
+  "deep_frac": 0.0253
+ },
+ {
+  "global_id": 480862,
+  "volume": 361282,
+  "deep_frac": 0.0276
+ },
+ {
+  "global_id": 416020,
+  "volume": 358603,
+  "deep_frac": 0.0473
+ },
+ {
+  "global_id": 132122,
+  "volume": 358204,
+  "deep_frac": 0.0427
+ },
+ {
+  "global_id": 68191,
+  "volume": 358006,
+  "deep_frac": 0.0182
+ },
+ {
+  "global_id": 537098,
+  "volume": 357301,
+  "deep_frac": 0.0286
+ },
+ {
+  "global_id": 50796,
+  "volume": 357119,
+  "deep_frac": 0.0978
+ },
+ {
+  "global_id": 337447,
+  "volume": 357050,
+  "deep_frac": 0.0167
+ },
+ {
+  "global_id": 354784,
+  "volume": 356512,
+  "deep_frac": 0.0805
+ },
+ {
+  "global_id": 374738,
+  "volume": 356301,
+  "deep_frac": 0.0071
+ },
+ {
+  "global_id": 140958,
+  "volume": 354582,
+  "deep_frac": 0.0411
+ },
+ {
+  "global_id": 184668,
+  "volume": 354351,
+  "deep_frac": 0.0304
+ },
+ {
+  "global_id": 86942,
+  "volume": 353777,
+  "deep_frac": 0.0254
+ },
+ {
+  "global_id": 480724,
+  "volume": 353628,
+  "deep_frac": 0.0071
+ },
+ {
+  "global_id": 502081,
+  "volume": 353368,
+  "deep_frac": 0.0097
+ },
+ {
+  "global_id": 142700,
+  "volume": 352982,
+  "deep_frac": 0.0128
+ },
+ {
+  "global_id": 505110,
+  "volume": 352414,
+  "deep_frac": 0.0125
+ },
+ {
+  "global_id": 382037,
+  "volume": 352271,
+  "deep_frac": 0.0067
+ },
+ {
+  "global_id": 430755,
+  "volume": 350316,
+  "deep_frac": 0.0315
+ },
+ {
+  "global_id": 59161,
+  "volume": 348775,
+  "deep_frac": 0.0321
+ },
+ {
+  "global_id": 272321,
+  "volume": 348514,
+  "deep_frac": 0.0661
+ },
+ {
+  "global_id": 466321,
+  "volume": 348082,
+  "deep_frac": 0.0173
+ },
+ {
+  "global_id": 66621,
+  "volume": 348048,
+  "deep_frac": 0.0075
+ },
+ {
+  "global_id": 365556,
+  "volume": 347929,
+  "deep_frac": 0.0086
+ },
+ {
+  "global_id": 56895,
+  "volume": 347778,
+  "deep_frac": 0.0149
+ },
+ {
+  "global_id": 361459,
+  "volume": 347223,
+  "deep_frac": 0.0312
+ },
+ {
+  "global_id": 92651,
+  "volume": 347005,
+  "deep_frac": 0.0423
+ },
+ {
+  "global_id": 95970,
+  "volume": 346763,
+  "deep_frac": 0.0192
+ },
+ {
+  "global_id": 438446,
+  "volume": 346699,
+  "deep_frac": 0.0988
+ },
+ {
+  "global_id": 348605,
+  "volume": 346319,
+  "deep_frac": 0.0031
+ },
+ {
+  "global_id": 124457,
+  "volume": 345656,
+  "deep_frac": 0.0739
+ },
+ {
+  "global_id": 413221,
+  "volume": 345292,
+  "deep_frac": 0.0392
+ },
+ {
+  "global_id": 64434,
+  "volume": 345274,
+  "deep_frac": 0.0608
+ },
+ {
+  "global_id": 97204,
+  "volume": 345232,
+  "deep_frac": 0.0131
+ },
+ {
+  "global_id": 423953,
+  "volume": 345169,
+  "deep_frac": 0.0077
+ },
+ {
+  "global_id": 284623,
+  "volume": 344618,
+  "deep_frac": 0.0657
+ },
+ {
+  "global_id": 110193,
+  "volume": 344509,
+  "deep_frac": 0.0277
+ },
+ {
+  "global_id": 398753,
+  "volume": 343831,
+  "deep_frac": 0.0097
+ },
+ {
+  "global_id": 267388,
+  "volume": 343826,
+  "deep_frac": 0.0096
+ },
+ {
+  "global_id": 133651,
+  "volume": 343697,
+  "deep_frac": 0.03
+ },
+ {
+  "global_id": 112923,
+  "volume": 343546,
+  "deep_frac": 0.0357
+ },
+ {
+  "global_id": 308817,
+  "volume": 343318,
+  "deep_frac": 0.0206
+ },
+ {
+  "global_id": 441914,
+  "volume": 343121,
+  "deep_frac": 0.0087
+ },
+ {
+  "global_id": 367923,
+  "volume": 342845,
+  "deep_frac": 0.062
+ },
+ {
+  "global_id": 481408,
+  "volume": 342453,
+  "deep_frac": 0.0116
+ },
+ {
+  "global_id": 410966,
+  "volume": 341421,
+  "deep_frac": 0.0772
+ },
+ {
+  "global_id": 397283,
+  "volume": 340114,
+  "deep_frac": 0.0366
+ },
+ {
+  "global_id": 552076,
+  "volume": 339923,
+  "deep_frac": 0.0191
+ },
+ {
+  "global_id": 162569,
+  "volume": 339849,
+  "deep_frac": 0.0766
+ },
+ {
+  "global_id": 105259,
+  "volume": 338704,
+  "deep_frac": 0.0491
+ },
+ {
+  "global_id": 271711,
+  "volume": 338631,
+  "deep_frac": 0.0414
+ },
+ {
+  "global_id": 499741,
+  "volume": 338571,
+  "deep_frac": 0.0356
+ },
+ {
+  "global_id": 387050,
+  "volume": 337910,
+  "deep_frac": 0.0314
+ },
+ {
+  "global_id": 174053,
+  "volume": 337727,
+  "deep_frac": 0.0997
+ },
+ {
+  "global_id": 342144,
+  "volume": 337457,
+  "deep_frac": 0.072
+ },
+ {
+  "global_id": 172785,
+  "volume": 337059,
+  "deep_frac": 0.0886
+ },
+ {
+  "global_id": 118917,
+  "volume": 336827,
+  "deep_frac": 0.0085
+ },
+ {
+  "global_id": 466660,
+  "volume": 336716,
+  "deep_frac": 0.0542
+ },
+ {
+  "global_id": 70973,
+  "volume": 336501,
+  "deep_frac": 0.0633
+ },
+ {
+  "global_id": 408826,
+  "volume": 335811,
+  "deep_frac": 0.0837
+ },
+ {
+  "global_id": 90419,
+  "volume": 335590,
+  "deep_frac": 0.0501
+ },
+ {
+  "global_id": 274481,
+  "volume": 335240,
+  "deep_frac": 0.0322
+ },
+ {
+  "global_id": 294917,
+  "volume": 334636,
+  "deep_frac": 0.0185
+ },
+ {
+  "global_id": 87276,
+  "volume": 334377,
+  "deep_frac": 0.0738
+ },
+ {
+  "global_id": 285994,
+  "volume": 334098,
+  "deep_frac": 0.0821
+ },
+ {
+  "global_id": 372087,
+  "volume": 333987,
+  "deep_frac": 0.018
+ },
+ {
+  "global_id": 120806,
+  "volume": 333560,
+  "deep_frac": 0.0573
+ },
+ {
+  "global_id": 519662,
+  "volume": 333426,
+  "deep_frac": 0.0597
+ },
+ {
+  "global_id": 127847,
+  "volume": 333405,
+  "deep_frac": 0.0301
+ },
+ {
+  "global_id": 109987,
+  "volume": 332672,
+  "deep_frac": 0.0262
+ },
+ {
+  "global_id": 150593,
+  "volume": 332204,
+  "deep_frac": 0.0306
+ },
+ {
+  "global_id": 325681,
+  "volume": 332166,
+  "deep_frac": 0.0266
+ },
+ {
+  "global_id": 405461,
+  "volume": 331472,
+  "deep_frac": 0.0447
+ },
+ {
+  "global_id": 89185,
+  "volume": 330685,
+  "deep_frac": 0.0246
+ },
+ {
+  "global_id": 128472,
+  "volume": 330575,
+  "deep_frac": 0.0919
+ },
+ {
+  "global_id": 74280,
+  "volume": 330339,
+  "deep_frac": 0.0703
+ },
+ {
+  "global_id": 288796,
+  "volume": 330160,
+  "deep_frac": 0.0928
+ },
+ {
+  "global_id": 140968,
+  "volume": 330142,
+  "deep_frac": 0.072
+ },
+ {
+  "global_id": 428617,
+  "volume": 330073,
+  "deep_frac": 0.0082
+ },
+ {
+  "global_id": 74217,
+  "volume": 330035,
+  "deep_frac": 0.092
+ },
+ {
+  "global_id": 96792,
+  "volume": 329910,
+  "deep_frac": 0.0597
+ },
+ {
+  "global_id": 162540,
+  "volume": 329433,
+  "deep_frac": 0.0354
+ },
+ {
+  "global_id": 349668,
+  "volume": 329168,
+  "deep_frac": 0.0751
+ },
+ {
+  "global_id": 464188,
+  "volume": 329144,
+  "deep_frac": 0.0805
+ },
+ {
+  "global_id": 372146,
+  "volume": 328672,
+  "deep_frac": 0.0895
+ },
+ {
+  "global_id": 465035,
+  "volume": 328585,
+  "deep_frac": 0.0228
+ },
+ {
+  "global_id": 203891,
+  "volume": 328514,
+  "deep_frac": 0.0961
+ },
+ {
+  "global_id": 128351,
+  "volume": 327770,
+  "deep_frac": 0.0516
+ },
+ {
+  "global_id": 262577,
+  "volume": 326909,
+  "deep_frac": 0.0268
+ },
+ {
+  "global_id": 284408,
+  "volume": 326692,
+  "deep_frac": 0.0063
+ },
+ {
+  "global_id": 252481,
+  "volume": 326596,
+  "deep_frac": 0.0076
+ },
+ {
+  "global_id": 316732,
+  "volume": 326350,
+  "deep_frac": 0.0276
+ },
+ {
+  "global_id": 542593,
+  "volume": 326226,
+  "deep_frac": 0.0387
+ },
+ {
+  "global_id": 318935,
+  "volume": 325972,
+  "deep_frac": 0.0106
+ },
+ {
+  "global_id": 260754,
+  "volume": 325693,
+  "deep_frac": 0.0107
+ },
+ {
+  "global_id": 327761,
+  "volume": 325322,
+  "deep_frac": 0.0128
+ },
+ {
+  "global_id": 376409,
+  "volume": 325061,
+  "deep_frac": 0.0192
+ },
+ {
+  "global_id": 123635,
+  "volume": 324354,
+  "deep_frac": 0.0292
+ },
+ {
+  "global_id": 402798,
+  "volume": 322348,
+  "deep_frac": 0.0295
+ },
+ {
+  "global_id": 412734,
+  "volume": 322325,
+  "deep_frac": 0.0402
+ },
+ {
+  "global_id": 252117,
+  "volume": 321447,
+  "deep_frac": 0.0823
+ },
+ {
+  "global_id": 324015,
+  "volume": 321445,
+  "deep_frac": 0.0175
+ },
+ {
+  "global_id": 307029,
+  "volume": 321245,
+  "deep_frac": 0.0106
+ },
+ {
+  "global_id": 282431,
+  "volume": 320134,
+  "deep_frac": 0.0444
+ },
+ {
+  "global_id": 450808,
+  "volume": 319956,
+  "deep_frac": 0.0091
+ },
+ {
+  "global_id": 417369,
+  "volume": 319815,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 360519,
+  "volume": 319683,
+  "deep_frac": 0.0264
+ },
+ {
+  "global_id": 140999,
+  "volume": 319613,
+  "deep_frac": 0.0079
+ },
+ {
+  "global_id": 328720,
+  "volume": 319239,
+  "deep_frac": 0.0268
+ },
+ {
+  "global_id": 500917,
+  "volume": 319107,
+  "deep_frac": 0.0118
+ },
+ {
+  "global_id": 282034,
+  "volume": 319045,
+  "deep_frac": 0.0166
+ },
+ {
+  "global_id": 439941,
+  "volume": 318901,
+  "deep_frac": 0.0582
+ },
+ {
+  "global_id": 375897,
+  "volume": 318849,
+  "deep_frac": 0.0226
+ },
+ {
+  "global_id": 172428,
+  "volume": 318805,
+  "deep_frac": 0.0245
+ },
+ {
+  "global_id": 326137,
+  "volume": 318615,
+  "deep_frac": 0.0364
+ },
+ {
+  "global_id": 249843,
+  "volume": 318299,
+  "deep_frac": 0.0202
+ },
+ {
+  "global_id": 53820,
+  "volume": 318073,
+  "deep_frac": 0.0777
+ },
+ {
+  "global_id": 453490,
+  "volume": 317063,
+  "deep_frac": 0.0449
+ },
+ {
+  "global_id": 327790,
+  "volume": 316619,
+  "deep_frac": 0.022
+ },
+ {
+  "global_id": 372186,
+  "volume": 316396,
+  "deep_frac": 0.0287
+ },
+ {
+  "global_id": 301376,
+  "volume": 315982,
+  "deep_frac": 0.0135
+ },
+ {
+  "global_id": 58357,
+  "volume": 315812,
+  "deep_frac": 0.0355
+ },
+ {
+  "global_id": 320424,
+  "volume": 315485,
+  "deep_frac": 0.0699
+ },
+ {
+  "global_id": 500563,
+  "volume": 315401,
+  "deep_frac": 0.0974
+ },
+ {
+  "global_id": 318583,
+  "volume": 315395,
+  "deep_frac": 0.0018
+ },
+ {
+  "global_id": 309210,
+  "volume": 314338,
+  "deep_frac": 0.0182
+ },
+ {
+  "global_id": 88458,
+  "volume": 313758,
+  "deep_frac": 0.0452
+ },
+ {
+  "global_id": 408158,
+  "volume": 313509,
+  "deep_frac": 0.0234
+ },
+ {
+  "global_id": 393368,
+  "volume": 313324,
+  "deep_frac": 0.0058
+ },
+ {
+  "global_id": 482794,
+  "volume": 313320,
+  "deep_frac": 0.0887
+ },
+ {
+  "global_id": 374567,
+  "volume": 311857,
+  "deep_frac": 0.0081
+ },
+ {
+  "global_id": 487569,
+  "volume": 311708,
+  "deep_frac": 0.0183
+ },
+ {
+  "global_id": 74286,
+  "volume": 311667,
+  "deep_frac": 0.0523
+ },
+ {
+  "global_id": 413559,
+  "volume": 311448,
+  "deep_frac": 0.0264
+ },
+ {
+  "global_id": 421672,
+  "volume": 310544,
+  "deep_frac": 0.0329
+ },
+ {
+  "global_id": 300752,
+  "volume": 310370,
+  "deep_frac": 0.0199
+ },
+ {
+  "global_id": 83094,
+  "volume": 310256,
+  "deep_frac": 0.0716
+ },
+ {
+  "global_id": 51581,
+  "volume": 309464,
+  "deep_frac": 0.096
+ },
+ {
+  "global_id": 351283,
+  "volume": 309184,
+  "deep_frac": 0.0064
+ },
+ {
+  "global_id": 546016,
+  "volume": 309181,
+  "deep_frac": 0.0539
+ },
+ {
+  "global_id": 383290,
+  "volume": 309126,
+  "deep_frac": 0.0082
+ },
+ {
+  "global_id": 321828,
+  "volume": 308746,
+  "deep_frac": 0.0278
+ },
+ {
+  "global_id": 99192,
+  "volume": 308368,
+  "deep_frac": 0.0363
+ },
+ {
+  "global_id": 318857,
+  "volume": 308074,
+  "deep_frac": 0.0089
+ },
+ {
+  "global_id": 164907,
+  "volume": 307479,
+  "deep_frac": 0.0245
+ },
+ {
+  "global_id": 250497,
+  "volume": 307258,
+  "deep_frac": 0.0223
+ },
+ {
+  "global_id": 161887,
+  "volume": 306680,
+  "deep_frac": 0.0624
+ },
+ {
+  "global_id": 105048,
+  "volume": 305847,
+  "deep_frac": 0.0397
+ },
+ {
+  "global_id": 94533,
+  "volume": 305836,
+  "deep_frac": 0.0055
+ },
+ {
+  "global_id": 460596,
+  "volume": 305789,
+  "deep_frac": 0.0653
+ },
+ {
+  "global_id": 523914,
+  "volume": 305188,
+  "deep_frac": 0.0255
+ },
+ {
+  "global_id": 385517,
+  "volume": 305127,
+  "deep_frac": 0.0021
+ },
+ {
+  "global_id": 419668,
+  "volume": 304687,
+  "deep_frac": 0.0235
+ },
+ {
+  "global_id": 86187,
+  "volume": 304392,
+  "deep_frac": 0.0354
+ },
+ {
+  "global_id": 59639,
+  "volume": 304093,
+  "deep_frac": 0.0177
+ },
+ {
+  "global_id": 58154,
+  "volume": 303451,
+  "deep_frac": 0.0043
+ },
+ {
+  "global_id": 381768,
+  "volume": 303392,
+  "deep_frac": 0.0994
+ },
+ {
+  "global_id": 119700,
+  "volume": 303329,
+  "deep_frac": 0.0643
+ },
+ {
+  "global_id": 329856,
+  "volume": 303210,
+  "deep_frac": 0.0094
+ },
+ {
+  "global_id": 368702,
+  "volume": 302809,
+  "deep_frac": 0.037
+ },
+ {
+  "global_id": 395536,
+  "volume": 302783,
+  "deep_frac": 0.0091
+ },
+ {
+  "global_id": 123390,
+  "volume": 302403,
+  "deep_frac": 0.0181
+ },
+ {
+  "global_id": 341509,
+  "volume": 302309,
+  "deep_frac": 0.005
+ },
+ {
+  "global_id": 426600,
+  "volume": 302079,
+  "deep_frac": 0.0219
+ },
+ {
+  "global_id": 375894,
+  "volume": 301577,
+  "deep_frac": 0.0474
+ },
+ {
+  "global_id": 58183,
+  "volume": 301548,
+  "deep_frac": 0.004
+ },
+ {
+  "global_id": 388324,
+  "volume": 301548,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 452523,
+  "volume": 301336,
+  "deep_frac": 0.0563
+ },
+ {
+  "global_id": 453551,
+  "volume": 300508,
+  "deep_frac": 0.009
+ },
+ {
+  "global_id": 184477,
+  "volume": 300406,
+  "deep_frac": 0.0954
+ },
+ {
+  "global_id": 363248,
+  "volume": 300373,
+  "deep_frac": 0.0025
+ },
+ {
+  "global_id": 536895,
+  "volume": 300033,
+  "deep_frac": 0.0758
+ },
+ {
+  "global_id": 421254,
+  "volume": 299936,
+  "deep_frac": 0.0322
+ },
+ {
+  "global_id": 491162,
+  "volume": 299744,
+  "deep_frac": 0.0566
+ },
+ {
+  "global_id": 318178,
+  "volume": 299743,
+  "deep_frac": 0.0172
+ },
+ {
+  "global_id": 133657,
+  "volume": 299471,
+  "deep_frac": 0.0246
+ },
+ {
+  "global_id": 289004,
+  "volume": 299335,
+  "deep_frac": 0.0547
+ },
+ {
+  "global_id": 471624,
+  "volume": 299323,
+  "deep_frac": 0.0876
+ },
+ {
+  "global_id": 87536,
+  "volume": 299244,
+  "deep_frac": 0.0574
+ },
+ {
+  "global_id": 316307,
+  "volume": 299175,
+  "deep_frac": 0.0161
+ },
+ {
+  "global_id": 169771,
+  "volume": 299072,
+  "deep_frac": 0.0459
+ },
+ {
+  "global_id": 180936,
+  "volume": 298483,
+  "deep_frac": 0.0463
+ },
+ {
+  "global_id": 363146,
+  "volume": 298048,
+  "deep_frac": 0.0023
+ },
+ {
+  "global_id": 182834,
+  "volume": 297852,
+  "deep_frac": 0.0351
+ },
+ {
+  "global_id": 374707,
+  "volume": 297761,
+  "deep_frac": 0.0184
+ },
+ {
+  "global_id": 353892,
+  "volume": 297681,
+  "deep_frac": 0.0152
+ },
+ {
+  "global_id": 659925,
+  "volume": 297663,
+  "deep_frac": 0.0158
+ },
+ {
+  "global_id": 227739,
+  "volume": 297043,
+  "deep_frac": 0.0604
+ },
+ {
+  "global_id": 300619,
+  "volume": 297006,
+  "deep_frac": 0.0172
+ },
+ {
+  "global_id": 521186,
+  "volume": 296831,
+  "deep_frac": 0.065
+ },
+ {
+  "global_id": 323536,
+  "volume": 296538,
+  "deep_frac": 0.0106
+ },
+ {
+  "global_id": 357096,
+  "volume": 296459,
+  "deep_frac": 0.01
+ },
+ {
+  "global_id": 408177,
+  "volume": 295952,
+  "deep_frac": 0.0454
+ },
+ {
+  "global_id": 349912,
+  "volume": 295444,
+  "deep_frac": 0.0152
+ },
+ {
+  "global_id": 260791,
+  "volume": 295401,
+  "deep_frac": 0.0151
+ },
+ {
+  "global_id": 327268,
+  "volume": 295230,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 53426,
+  "volume": 294781,
+  "deep_frac": 0.0852
+ },
+ {
+  "global_id": 355026,
+  "volume": 294641,
+  "deep_frac": 0.0229
+ },
+ {
+  "global_id": 159507,
+  "volume": 294622,
+  "deep_frac": 0.0352
+ },
+ {
+  "global_id": 423667,
+  "volume": 294520,
+  "deep_frac": 0.0058
+ },
+ {
+  "global_id": 110168,
+  "volume": 294029,
+  "deep_frac": 0.0096
+ },
+ {
+  "global_id": 147879,
+  "volume": 294012,
+  "deep_frac": 0.0881
+ },
+ {
+  "global_id": 387927,
+  "volume": 293759,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 486166,
+  "volume": 293626,
+  "deep_frac": 0.0442
+ },
+ {
+  "global_id": 247978,
+  "volume": 293559,
+  "deep_frac": 0.0833
+ },
+ {
+  "global_id": 491289,
+  "volume": 293553,
+  "deep_frac": 0.043
+ },
+ {
+  "global_id": 392869,
+  "volume": 293498,
+  "deep_frac": 0.0036
+ },
+ {
+  "global_id": 457551,
+  "volume": 293070,
+  "deep_frac": 0.0228
+ },
+ {
+  "global_id": 366941,
+  "volume": 293046,
+  "deep_frac": 0.0514
+ },
+ {
+  "global_id": 353909,
+  "volume": 292952,
+  "deep_frac": 0.0351
+ },
+ {
+  "global_id": 456869,
+  "volume": 292887,
+  "deep_frac": 0.0367
+ },
+ {
+  "global_id": 412794,
+  "volume": 292308,
+  "deep_frac": 0.0615
+ },
+ {
+  "global_id": 74297,
+  "volume": 290929,
+  "deep_frac": 0.041
+ },
+ {
+  "global_id": 288702,
+  "volume": 290593,
+  "deep_frac": 0.0116
+ },
+ {
+  "global_id": 120120,
+  "volume": 290549,
+  "deep_frac": 0.0167
+ },
+ {
+  "global_id": 172099,
+  "volume": 290313,
+  "deep_frac": 0.0392
+ },
+ {
+  "global_id": 65495,
+  "volume": 290196,
+  "deep_frac": 0.0241
+ },
+ {
+  "global_id": 281848,
+  "volume": 289934,
+  "deep_frac": 0.0093
+ },
+ {
+  "global_id": 544238,
+  "volume": 289101,
+  "deep_frac": 0.0937
+ },
+ {
+  "global_id": 443817,
+  "volume": 288645,
+  "deep_frac": 0.0129
+ },
+ {
+  "global_id": 353901,
+  "volume": 288318,
+  "deep_frac": 0.0529
+ },
+ {
+  "global_id": 500801,
+  "volume": 288295,
+  "deep_frac": 0.0153
+ },
+ {
+  "global_id": 180510,
+  "volume": 288287,
+  "deep_frac": 0.0873
+ },
+ {
+  "global_id": 112955,
+  "volume": 288078,
+  "deep_frac": 0.0161
+ },
+ {
+  "global_id": 205689,
+  "volume": 288009,
+  "deep_frac": 0.019
+ },
+ {
+  "global_id": 436999,
+  "volume": 287852,
+  "deep_frac": 0.0433
+ },
+ {
+  "global_id": 252435,
+  "volume": 287769,
+  "deep_frac": 0.0374
+ },
+ {
+  "global_id": 318135,
+  "volume": 287723,
+  "deep_frac": 0.0076
+ },
+ {
+  "global_id": 292321,
+  "volume": 287330,
+  "deep_frac": 0.0585
+ },
+ {
+  "global_id": 533886,
+  "volume": 287239,
+  "deep_frac": 0.0642
+ },
+ {
+  "global_id": 501926,
+  "volume": 287220,
+  "deep_frac": 0.0459
+ },
+ {
+  "global_id": 324319,
+  "volume": 287196,
+  "deep_frac": 0.0246
+ },
+ {
+  "global_id": 120141,
+  "volume": 287172,
+  "deep_frac": 0.0274
+ },
+ {
+  "global_id": 384375,
+  "volume": 287172,
+  "deep_frac": 0.0427
+ },
+ {
+  "global_id": 77388,
+  "volume": 287128,
+  "deep_frac": 0.0714
+ },
+ {
+  "global_id": 309117,
+  "volume": 287105,
+  "deep_frac": 0.0112
+ },
+ {
+  "global_id": 68944,
+  "volume": 286722,
+  "deep_frac": 0.0649
+ },
+ {
+  "global_id": 88168,
+  "volume": 286532,
+  "deep_frac": 0.0593
+ },
+ {
+  "global_id": 466364,
+  "volume": 286435,
+  "deep_frac": 0.0199
+ },
+ {
+  "global_id": 300765,
+  "volume": 286281,
+  "deep_frac": 0.0065
+ },
+ {
+  "global_id": 536883,
+  "volume": 286145,
+  "deep_frac": 0.0541
+ },
+ {
+  "global_id": 267306,
+  "volume": 286124,
+  "deep_frac": 0.0284
+ },
+ {
+  "global_id": 357641,
+  "volume": 286097,
+  "deep_frac": 0.0393
+ },
+ {
+  "global_id": 348743,
+  "volume": 286096,
+  "deep_frac": 0.0022
+ },
+ {
+  "global_id": 392601,
+  "volume": 285583,
+  "deep_frac": 0.0019
+ },
+ {
+  "global_id": 69635,
+  "volume": 285549,
+  "deep_frac": 0.0087
+ },
+ {
+  "global_id": 439910,
+  "volume": 285204,
+  "deep_frac": 0.0256
+ },
+ {
+  "global_id": 324708,
+  "volume": 285081,
+  "deep_frac": 0.0036
+ },
+ {
+  "global_id": 360143,
+  "volume": 284691,
+  "deep_frac": 0.0093
+ },
+ {
+  "global_id": 470008,
+  "volume": 284664,
+  "deep_frac": 0.0591
+ },
+ {
+  "global_id": 52212,
+  "volume": 284413,
+  "deep_frac": 0.0164
+ },
+ {
+  "global_id": 110788,
+  "volume": 284232,
+  "deep_frac": 0.0959
+ },
+ {
+  "global_id": 389377,
+  "volume": 283914,
+  "deep_frac": 0.006
+ },
+ {
+  "global_id": 329058,
+  "volume": 283812,
+  "deep_frac": 0.0266
+ },
+ {
+  "global_id": 225461,
+  "volume": 283753,
+  "deep_frac": 0.0415
+ },
+ {
+  "global_id": 495344,
+  "volume": 283619,
+  "deep_frac": 0.0453
+ },
+ {
+  "global_id": 125331,
+  "volume": 283520,
+  "deep_frac": 0.0195
+ },
+ {
+  "global_id": 441978,
+  "volume": 283388,
+  "deep_frac": 0.0148
+ },
+ {
+  "global_id": 404688,
+  "volume": 282810,
+  "deep_frac": 0.0335
+ },
+ {
+  "global_id": 456801,
+  "volume": 282652,
+  "deep_frac": 0.0204
+ },
+ {
+  "global_id": 94545,
+  "volume": 282608,
+  "deep_frac": 0.0087
+ },
+ {
+  "global_id": 342575,
+  "volume": 282182,
+  "deep_frac": 0.0553
+ },
+ {
+  "global_id": 234035,
+  "volume": 281902,
+  "deep_frac": 0.0687
+ },
+ {
+  "global_id": 465365,
+  "volume": 281881,
+  "deep_frac": 0.0112
+ },
+ {
+  "global_id": 93339,
+  "volume": 281866,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 356425,
+  "volume": 281671,
+  "deep_frac": 0.0093
+ },
+ {
+  "global_id": 148658,
+  "volume": 281644,
+  "deep_frac": 0.0381
+ },
+ {
+  "global_id": 52232,
+  "volume": 281314,
+  "deep_frac": 0.0043
+ },
+ {
+  "global_id": 62257,
+  "volume": 281181,
+  "deep_frac": 0.0582
+ },
+ {
+  "global_id": 66104,
+  "volume": 280925,
+  "deep_frac": 0.0293
+ },
+ {
+  "global_id": 398491,
+  "volume": 280542,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 269728,
+  "volume": 280231,
+  "deep_frac": 0.0943
+ },
+ {
+  "global_id": 144355,
+  "volume": 279649,
+  "deep_frac": 0.0311
+ },
+ {
+  "global_id": 254735,
+  "volume": 279514,
+  "deep_frac": 0.0741
+ },
+ {
+  "global_id": 147866,
+  "volume": 279430,
+  "deep_frac": 0.012
+ },
+ {
+  "global_id": 68374,
+  "volume": 278993,
+  "deep_frac": 0.0102
+ },
+ {
+  "global_id": 326291,
+  "volume": 278753,
+  "deep_frac": 0.0023
+ },
+ {
+  "global_id": 294985,
+  "volume": 278748,
+  "deep_frac": 0.0034
+ },
+ {
+  "global_id": 360291,
+  "volume": 278633,
+  "deep_frac": 0.0606
+ },
+ {
+  "global_id": 143425,
+  "volume": 278589,
+  "deep_frac": 0.022
+ },
+ {
+  "global_id": 345455,
+  "volume": 278537,
+  "deep_frac": 0.0282
+ },
+ {
+  "global_id": 363940,
+  "volume": 278508,
+  "deep_frac": 0.0035
+ },
+ {
+  "global_id": 127029,
+  "volume": 278399,
+  "deep_frac": 0.0066
+ },
+ {
+  "global_id": 269631,
+  "volume": 278264,
+  "deep_frac": 0.0397
+ },
+ {
+  "global_id": 323545,
+  "volume": 278109,
+  "deep_frac": 0.0159
+ },
+ {
+  "global_id": 140905,
+  "volume": 278073,
+  "deep_frac": 0.0147
+ },
+ {
+  "global_id": 363925,
+  "volume": 278072,
+  "deep_frac": 0.0485
+ },
+ {
+  "global_id": 453517,
+  "volume": 277769,
+  "deep_frac": 0.0059
+ },
+ {
+  "global_id": 303641,
+  "volume": 277755,
+  "deep_frac": 0.0047
+ },
+ {
+  "global_id": 387401,
+  "volume": 277712,
+  "deep_frac": 0.0098
+ },
+ {
+  "global_id": 491160,
+  "volume": 277610,
+  "deep_frac": 0.0777
+ },
+ {
+  "global_id": 388763,
+  "volume": 277585,
+  "deep_frac": 0.0037
+ },
+ {
+  "global_id": 371571,
+  "volume": 277515,
+  "deep_frac": 0.0071
+ },
+ {
+  "global_id": 319571,
+  "volume": 277448,
+  "deep_frac": 0.0027
+ },
+ {
+  "global_id": 269693,
+  "volume": 277244,
+  "deep_frac": 0.0075
+ },
+ {
+  "global_id": 586506,
+  "volume": 277009,
+  "deep_frac": 0.0529
+ },
+ {
+  "global_id": 342568,
+  "volume": 276942,
+  "deep_frac": 0.0091
+ },
+ {
+  "global_id": 418550,
+  "volume": 276702,
+  "deep_frac": 0.0268
+ },
+ {
+  "global_id": 377266,
+  "volume": 276655,
+  "deep_frac": 0.0114
+ },
+ {
+  "global_id": 438525,
+  "volume": 276578,
+  "deep_frac": 0.0135
+ },
+ {
+  "global_id": 429267,
+  "volume": 276529,
+  "deep_frac": 0.0121
+ },
+ {
+  "global_id": 122909,
+  "volume": 276454,
+  "deep_frac": 0.0159
+ },
+ {
+  "global_id": 332732,
+  "volume": 276252,
+  "deep_frac": 0.0139
+ },
+ {
+  "global_id": 402112,
+  "volume": 276252,
+  "deep_frac": 0.0308
+ },
+ {
+  "global_id": 179747,
+  "volume": 276200,
+  "deep_frac": 0.0725
+ },
+ {
+  "global_id": 390165,
+  "volume": 276181,
+  "deep_frac": 0.0083
+ },
+ {
+  "global_id": 366634,
+  "volume": 276064,
+  "deep_frac": 0.0206
+ },
+ {
+  "global_id": 423895,
+  "volume": 275520,
+  "deep_frac": 0.018
+ },
+ {
+  "global_id": 344148,
+  "volume": 274851,
+  "deep_frac": 0.0026
+ },
+ {
+  "global_id": 371576,
+  "volume": 274726,
+  "deep_frac": 0.0059
+ },
+ {
+  "global_id": 235472,
+  "volume": 274679,
+  "deep_frac": 0.0052
+ },
+ {
+  "global_id": 246844,
+  "volume": 274481,
+  "deep_frac": 0.0166
+ },
+ {
+  "global_id": 431020,
+  "volume": 274424,
+  "deep_frac": 0.0143
+ },
+ {
+  "global_id": 448346,
+  "volume": 274395,
+  "deep_frac": 0.0293
+ },
+ {
+  "global_id": 234212,
+  "volume": 274381,
+  "deep_frac": 0.0136
+ },
+ {
+  "global_id": 376476,
+  "volume": 274224,
+  "deep_frac": 0.0148
+ },
+ {
+  "global_id": 380447,
+  "volume": 274134,
+  "deep_frac": 0.0008
+ },
+ {
+  "global_id": 420040,
+  "volume": 274107,
+  "deep_frac": 0.023
+ },
+ {
+  "global_id": 445045,
+  "volume": 274055,
+  "deep_frac": 0.03
+ },
+ {
+  "global_id": 468097,
+  "volume": 273808,
+  "deep_frac": 0.05
+ },
+ {
+  "global_id": 249176,
+  "volume": 273260,
+  "deep_frac": 0.0156
+ },
+ {
+  "global_id": 526232,
+  "volume": 273146,
+  "deep_frac": 0.0573
+ },
+ {
+  "global_id": 421720,
+  "volume": 273021,
+  "deep_frac": 0.0787
+ },
+ {
+  "global_id": 274133,
+  "volume": 272837,
+  "deep_frac": 0.0532
+ },
+ {
+  "global_id": 466613,
+  "volume": 272650,
+  "deep_frac": 0.0131
+ },
+ {
+  "global_id": 337438,
+  "volume": 272367,
+  "deep_frac": 0.0082
+ },
+ {
+  "global_id": 58933,
+  "volume": 272223,
+  "deep_frac": 0.0067
+ },
+ {
+  "global_id": 408222,
+  "volume": 272054,
+  "deep_frac": 0.0346
+ },
+ {
+  "global_id": 268260,
+  "volume": 271857,
+  "deep_frac": 0.0585
+ },
+ {
+  "global_id": 312498,
+  "volume": 271689,
+  "deep_frac": 0.0171
+ },
+ {
+  "global_id": 450688,
+  "volume": 271627,
+  "deep_frac": 0.0069
+ },
+ {
+  "global_id": 451514,
+  "volume": 271559,
+  "deep_frac": 0.0413
+ },
+ {
+  "global_id": 135562,
+  "volume": 271478,
+  "deep_frac": 0.0497
+ },
+ {
+  "global_id": 181302,
+  "volume": 271379,
+  "deep_frac": 0.048
+ },
+ {
+  "global_id": 489630,
+  "volume": 271321,
+  "deep_frac": 0.0473
+ },
+ {
+  "global_id": 421103,
+  "volume": 271292,
+  "deep_frac": 0.0108
+ },
+ {
+  "global_id": 99400,
+  "volume": 271242,
+  "deep_frac": 0.0019
+ },
+ {
+  "global_id": 353519,
+  "volume": 271025,
+  "deep_frac": 0.0134
+ },
+ {
+  "global_id": 329073,
+  "volume": 270965,
+  "deep_frac": 0.0466
+ },
+ {
+  "global_id": 562099,
+  "volume": 270305,
+  "deep_frac": 0.0873
+ },
+ {
+  "global_id": 78534,
+  "volume": 270220,
+  "deep_frac": 0.0803
+ },
+ {
+  "global_id": 158684,
+  "volume": 270187,
+  "deep_frac": 0.0082
+ },
+ {
+  "global_id": 377267,
+  "volume": 269847,
+  "deep_frac": 0.0018
+ },
+ {
+  "global_id": 442874,
+  "volume": 269725,
+  "deep_frac": 0.0188
+ },
+ {
+  "global_id": 98006,
+  "volume": 269302,
+  "deep_frac": 0.0704
+ },
+ {
+  "global_id": 524405,
+  "volume": 268936,
+  "deep_frac": 0.0683
+ },
+ {
+  "global_id": 483063,
+  "volume": 268901,
+  "deep_frac": 0.0501
+ },
+ {
+  "global_id": 51023,
+  "volume": 268827,
+  "deep_frac": 0.0928
+ },
+ {
+  "global_id": 482075,
+  "volume": 268785,
+  "deep_frac": 0.0226
+ },
+ {
+  "global_id": 163830,
+  "volume": 268675,
+  "deep_frac": 0.0881
+ },
+ {
+  "global_id": 93320,
+  "volume": 268674,
+  "deep_frac": 0.0103
+ },
+ {
+  "global_id": 310035,
+  "volume": 268520,
+  "deep_frac": 0.0072
+ },
+ {
+  "global_id": 431618,
+  "volume": 268335,
+  "deep_frac": 0.0056
+ },
+ {
+  "global_id": 353811,
+  "volume": 268291,
+  "deep_frac": 0.0075
+ },
+ {
+  "global_id": 310070,
+  "volume": 268172,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 424269,
+  "volume": 268122,
+  "deep_frac": 0.0113
+ },
+ {
+  "global_id": 374764,
+  "volume": 268074,
+  "deep_frac": 0.0267
+ },
+ {
+  "global_id": 110153,
+  "volume": 267950,
+  "deep_frac": 0.0314
+ },
+ {
+  "global_id": 569022,
+  "volume": 267911,
+  "deep_frac": 0.0861
+ },
+ {
+  "global_id": 397167,
+  "volume": 267874,
+  "deep_frac": 0.0382
+ },
+ {
+  "global_id": 550859,
+  "volume": 267753,
+  "deep_frac": 0.087
+ },
+ {
+  "global_id": 378928,
+  "volume": 267727,
+  "deep_frac": 0.0299
+ },
+ {
+  "global_id": 125481,
+  "volume": 267467,
+  "deep_frac": 0.0166
+ },
+ {
+  "global_id": 235160,
+  "volume": 267374,
+  "deep_frac": 0.039
+ },
+ {
+  "global_id": 379712,
+  "volume": 266866,
+  "deep_frac": 0.0263
+ },
+ {
+  "global_id": 89380,
+  "volume": 266744,
+  "deep_frac": 0.0365
+ },
+ {
+  "global_id": 116527,
+  "volume": 266561,
+  "deep_frac": 0.0536
+ },
+ {
+  "global_id": 329975,
+  "volume": 266506,
+  "deep_frac": 0.0415
+ },
+ {
+  "global_id": 277087,
+  "volume": 266347,
+  "deep_frac": 0.0485
+ },
+ {
+  "global_id": 533362,
+  "volume": 266335,
+  "deep_frac": 0.0882
+ },
+ {
+  "global_id": 281474,
+  "volume": 265973,
+  "deep_frac": 0.0976
+ },
+ {
+  "global_id": 56450,
+  "volume": 265819,
+  "deep_frac": 0.0645
+ },
+ {
+  "global_id": 399004,
+  "volume": 265648,
+  "deep_frac": 0.0029
+ },
+ {
+  "global_id": 418538,
+  "volume": 265627,
+  "deep_frac": 0.0611
+ },
+ {
+  "global_id": 315345,
+  "volume": 265573,
+  "deep_frac": 0.0677
+ },
+ {
+  "global_id": 538138,
+  "volume": 265530,
+  "deep_frac": 0.021
+ },
+ {
+  "global_id": 410996,
+  "volume": 265187,
+  "deep_frac": 0.0702
+ },
+ {
+  "global_id": 246454,
+  "volume": 265053,
+  "deep_frac": 0.0134
+ },
+ {
+  "global_id": 309344,
+  "volume": 264916,
+  "deep_frac": 0.0595
+ },
+ {
+  "global_id": 480275,
+  "volume": 264785,
+  "deep_frac": 0.043
+ },
+ {
+  "global_id": 94972,
+  "volume": 264768,
+  "deep_frac": 0.009
+ },
+ {
+  "global_id": 57031,
+  "volume": 264359,
+  "deep_frac": 0.0682
+ },
+ {
+  "global_id": 465006,
+  "volume": 264132,
+  "deep_frac": 0.0627
+ },
+ {
+  "global_id": 127155,
+  "volume": 264036,
+  "deep_frac": 0.0619
+ },
+ {
+  "global_id": 281604,
+  "volume": 263591,
+  "deep_frac": 0.0161
+ },
+ {
+  "global_id": 421654,
+  "volume": 263565,
+  "deep_frac": 0.0318
+ },
+ {
+  "global_id": 156426,
+  "volume": 263405,
+  "deep_frac": 0.0236
+ },
+ {
+  "global_id": 384857,
+  "volume": 263300,
+  "deep_frac": 0.0209
+ },
+ {
+  "global_id": 319655,
+  "volume": 262914,
+  "deep_frac": 0.0278
+ },
+ {
+  "global_id": 95317,
+  "volume": 262727,
+  "deep_frac": 0.0458
+ },
+ {
+  "global_id": 333639,
+  "volume": 262723,
+  "deep_frac": 0.0077
+ },
+ {
+  "global_id": 203858,
+  "volume": 262613,
+  "deep_frac": 0.0445
+ },
+ {
+  "global_id": 380485,
+  "volume": 262477,
+  "deep_frac": 0.0379
+ },
+ {
+  "global_id": 152549,
+  "volume": 262459,
+  "deep_frac": 0.0994
+ },
+ {
+  "global_id": 53849,
+  "volume": 262248,
+  "deep_frac": 0.0808
+ },
+ {
+  "global_id": 320167,
+  "volume": 262024,
+  "deep_frac": 0.0352
+ },
+ {
+  "global_id": 316433,
+  "volume": 261906,
+  "deep_frac": 0.0144
+ },
+ {
+  "global_id": 486190,
+  "volume": 261828,
+  "deep_frac": 0.0237
+ },
+ {
+  "global_id": 421165,
+  "volume": 261750,
+  "deep_frac": 0.0227
+ },
+ {
+  "global_id": 169947,
+  "volume": 261738,
+  "deep_frac": 0.033
+ },
+ {
+  "global_id": 256017,
+  "volume": 261627,
+  "deep_frac": 0.0597
+ },
+ {
+  "global_id": 145997,
+  "volume": 261618,
+  "deep_frac": 0.0312
+ },
+ {
+  "global_id": 275011,
+  "volume": 261370,
+  "deep_frac": 0.0738
+ },
+ {
+  "global_id": 300356,
+  "volume": 261223,
+  "deep_frac": 0.0062
+ },
+ {
+  "global_id": 173450,
+  "volume": 261044,
+  "deep_frac": 0.0969
+ },
+ {
+  "global_id": 368161,
+  "volume": 260671,
+  "deep_frac": 0.0595
+ },
+ {
+  "global_id": 285234,
+  "volume": 260640,
+  "deep_frac": 0.0607
+ },
+ {
+  "global_id": 402744,
+  "volume": 260335,
+  "deep_frac": 0.0098
+ },
+ {
+  "global_id": 372213,
+  "volume": 260327,
+  "deep_frac": 0.0409
+ },
+ {
+  "global_id": 456796,
+  "volume": 260175,
+  "deep_frac": 0.0148
+ },
+ {
+  "global_id": 447271,
+  "volume": 260127,
+  "deep_frac": 0.0948
+ },
+ {
+  "global_id": 252362,
+  "volume": 260076,
+  "deep_frac": 0.0392
+ },
+ {
+  "global_id": 401187,
+  "volume": 260036,
+  "deep_frac": 0.0218
+ },
+ {
+  "global_id": 146283,
+  "volume": 259832,
+  "deep_frac": 0.0625
+ },
+ {
+  "global_id": 116523,
+  "volume": 259195,
+  "deep_frac": 0.0414
+ },
+ {
+  "global_id": 149203,
+  "volume": 259101,
+  "deep_frac": 0.0294
+ },
+ {
+  "global_id": 218052,
+  "volume": 259090,
+  "deep_frac": 0.0908
+ },
+ {
+  "global_id": 66392,
+  "volume": 258875,
+  "deep_frac": 0.0797
+ },
+ {
+  "global_id": 388369,
+  "volume": 258338,
+  "deep_frac": 0.0232
+ },
+ {
+  "global_id": 398772,
+  "volume": 258023,
+  "deep_frac": 0.0108
+ },
+ {
+  "global_id": 456037,
+  "volume": 257743,
+  "deep_frac": 0.0121
+ },
+ {
+  "global_id": 328664,
+  "volume": 257652,
+  "deep_frac": 0.016
+ },
+ {
+  "global_id": 457799,
+  "volume": 257554,
+  "deep_frac": 0.0479
+ },
+ {
+  "global_id": 465573,
+  "volume": 257137,
+  "deep_frac": 0.0967
+ },
+ {
+  "global_id": 86501,
+  "volume": 256870,
+  "deep_frac": 0.0096
+ },
+ {
+  "global_id": 313226,
+  "volume": 256863,
+  "deep_frac": 0.012
+ },
+ {
+  "global_id": 328194,
+  "volume": 256834,
+  "deep_frac": 0.0093
+ },
+ {
+  "global_id": 109148,
+  "volume": 256734,
+  "deep_frac": 0.0091
+ },
+ {
+  "global_id": 326312,
+  "volume": 256656,
+  "deep_frac": 0.0023
+ },
+ {
+  "global_id": 128261,
+  "volume": 256251,
+  "deep_frac": 0.0729
+ },
+ {
+  "global_id": 149249,
+  "volume": 256248,
+  "deep_frac": 0.0505
+ },
+ {
+  "global_id": 480295,
+  "volume": 256066,
+  "deep_frac": 0.0137
+ },
+ {
+  "global_id": 342158,
+  "volume": 255913,
+  "deep_frac": 0.0537
+ },
+ {
+  "global_id": 111982,
+  "volume": 255838,
+  "deep_frac": 0.0598
+ },
+ {
+  "global_id": 488517,
+  "volume": 255514,
+  "deep_frac": 0.0202
+ },
+ {
+  "global_id": 531731,
+  "volume": 255092,
+  "deep_frac": 0.0953
+ },
+ {
+  "global_id": 366974,
+  "volume": 255072,
+  "deep_frac": 0.0053
+ },
+ {
+  "global_id": 409919,
+  "volume": 254909,
+  "deep_frac": 0.0335
+ },
+ {
+  "global_id": 120123,
+  "volume": 254490,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 590001,
+  "volume": 254455,
+  "deep_frac": 0.0466
+ },
+ {
+  "global_id": 69690,
+  "volume": 254400,
+  "deep_frac": 0.0112
+ },
+ {
+  "global_id": 121198,
+  "volume": 254392,
+  "deep_frac": 0.0129
+ },
+ {
+  "global_id": 336379,
+  "volume": 254288,
+  "deep_frac": 0.034
+ },
+ {
+  "global_id": 255945,
+  "volume": 254174,
+  "deep_frac": 0.017
+ },
+ {
+  "global_id": 362044,
+  "volume": 254031,
+  "deep_frac": 0.0016
+ },
+ {
+  "global_id": 338464,
+  "volume": 253945,
+  "deep_frac": 0.0204
+ },
+ {
+  "global_id": 273574,
+  "volume": 253761,
+  "deep_frac": 0.0135
+ },
+ {
+  "global_id": 538345,
+  "volume": 253387,
+  "deep_frac": 0.0322
+ },
+ {
+  "global_id": 150697,
+  "volume": 253122,
+  "deep_frac": 0.0321
+ },
+ {
+  "global_id": 185908,
+  "volume": 252878,
+  "deep_frac": 0.0248
+ },
+ {
+  "global_id": 234029,
+  "volume": 252738,
+  "deep_frac": 0.0222
+ },
+ {
+  "global_id": 142729,
+  "volume": 252668,
+  "deep_frac": 0.0814
+ },
+ {
+  "global_id": 411756,
+  "volume": 252489,
+  "deep_frac": 0.0725
+ },
+ {
+  "global_id": 308285,
+  "volume": 252465,
+  "deep_frac": 0.0352
+ },
+ {
+  "global_id": 273735,
+  "volume": 252215,
+  "deep_frac": 0.041
+ },
+ {
+  "global_id": 315884,
+  "volume": 252135,
+  "deep_frac": 0.0414
+ },
+ {
+  "global_id": 358666,
+  "volume": 252126,
+  "deep_frac": 0.0064
+ },
+ {
+  "global_id": 131068,
+  "volume": 252015,
+  "deep_frac": 0.0682
+ },
+ {
+  "global_id": 125455,
+  "volume": 251849,
+  "deep_frac": 0.0019
+ },
+ {
+  "global_id": 294998,
+  "volume": 251759,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 311693,
+  "volume": 251710,
+  "deep_frac": 0.0064
+ },
+ {
+  "global_id": 358209,
+  "volume": 251645,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 120152,
+  "volume": 251503,
+  "deep_frac": 0.0141
+ },
+ {
+  "global_id": 363916,
+  "volume": 251473,
+  "deep_frac": 0.0192
+ },
+ {
+  "global_id": 495114,
+  "volume": 251440,
+  "deep_frac": 0.0096
+ },
+ {
+  "global_id": 168762,
+  "volume": 251416,
+  "deep_frac": 0.0233
+ },
+ {
+  "global_id": 338479,
+  "volume": 250890,
+  "deep_frac": 0.0469
+ },
+ {
+  "global_id": 625510,
+  "volume": 250793,
+  "deep_frac": 0.0247
+ },
+ {
+  "global_id": 123314,
+  "volume": 250700,
+  "deep_frac": 0.0286
+ },
+ {
+  "global_id": 478416,
+  "volume": 250589,
+  "deep_frac": 0.0482
+ },
+ {
+  "global_id": 483101,
+  "volume": 250555,
+  "deep_frac": 0.031
+ },
+ {
+  "global_id": 122370,
+  "volume": 250306,
+  "deep_frac": 0.0933
+ },
+ {
+  "global_id": 586404,
+  "volume": 249993,
+  "deep_frac": 0.0622
+ },
+ {
+  "global_id": 355616,
+  "volume": 249950,
+  "deep_frac": 0.0037
+ },
+ {
+  "global_id": 391627,
+  "volume": 249781,
+  "deep_frac": 0.0089
+ },
+ {
+  "global_id": 386557,
+  "volume": 249230,
+  "deep_frac": 0.0059
+ },
+ {
+  "global_id": 470798,
+  "volume": 248992,
+  "deep_frac": 0.0728
+ },
+ {
+  "global_id": 405279,
+  "volume": 248637,
+  "deep_frac": 0.0588
+ },
+ {
+  "global_id": 382073,
+  "volume": 248605,
+  "deep_frac": 0.0072
+ },
+ {
+  "global_id": 96021,
+  "volume": 248519,
+  "deep_frac": 0.0924
+ },
+ {
+  "global_id": 235502,
+  "volume": 248117,
+  "deep_frac": 0.0952
+ },
+ {
+  "global_id": 354002,
+  "volume": 248049,
+  "deep_frac": 0.0057
+ },
+ {
+  "global_id": 366967,
+  "volume": 247839,
+  "deep_frac": 0.0654
+ },
+ {
+  "global_id": 322640,
+  "volume": 247484,
+  "deep_frac": 0.0167
+ },
+ {
+  "global_id": 475906,
+  "volume": 247273,
+  "deep_frac": 0.0715
+ },
+ {
+  "global_id": 272766,
+  "volume": 247163,
+  "deep_frac": 0.015
+ },
+ {
+  "global_id": 368048,
+  "volume": 246729,
+  "deep_frac": 0.0427
+ },
+ {
+  "global_id": 312455,
+  "volume": 246725,
+  "deep_frac": 0.0266
+ },
+ {
+  "global_id": 163330,
+  "volume": 246593,
+  "deep_frac": 0.0448
+ },
+ {
+  "global_id": 133497,
+  "volume": 246468,
+  "deep_frac": 0.0474
+ },
+ {
+  "global_id": 472898,
+  "volume": 246080,
+  "deep_frac": 0.0122
+ },
+ {
+  "global_id": 95955,
+  "volume": 245711,
+  "deep_frac": 0.0395
+ },
+ {
+  "global_id": 92607,
+  "volume": 245414,
+  "deep_frac": 0.0333
+ },
+ {
+  "global_id": 352144,
+  "volume": 245300,
+  "deep_frac": 0.0557
+ },
+ {
+  "global_id": 315890,
+  "volume": 245194,
+  "deep_frac": 0.016
+ },
+ {
+  "global_id": 427919,
+  "volume": 244774,
+  "deep_frac": 0.0821
+ },
+ {
+  "global_id": 581023,
+  "volume": 244727,
+  "deep_frac": 0.0097
+ },
+ {
+  "global_id": 456755,
+  "volume": 244662,
+  "deep_frac": 0.038
+ },
+ {
+  "global_id": 388983,
+  "volume": 244577,
+  "deep_frac": 0.0545
+ },
+ {
+  "global_id": 438253,
+  "volume": 244464,
+  "deep_frac": 0.0271
+ },
+ {
+  "global_id": 351616,
+  "volume": 243931,
+  "deep_frac": 0.002
+ },
+ {
+  "global_id": 201774,
+  "volume": 243883,
+  "deep_frac": 0.0075
+ },
+ {
+  "global_id": 395432,
+  "volume": 243810,
+  "deep_frac": 0.0206
+ },
+ {
+  "global_id": 421757,
+  "volume": 243786,
+  "deep_frac": 0.0148
+ },
+ {
+  "global_id": 464367,
+  "volume": 243772,
+  "deep_frac": 0.0286
+ },
+ {
+  "global_id": 243633,
+  "volume": 243552,
+  "deep_frac": 0.0258
+ },
+ {
+  "global_id": 368009,
+  "volume": 243533,
+  "deep_frac": 0.0134
+ },
+ {
+  "global_id": 299279,
+  "volume": 243516,
+  "deep_frac": 0.0173
+ },
+ {
+  "global_id": 305374,
+  "volume": 243287,
+  "deep_frac": 0.0328
+ },
+ {
+  "global_id": 455063,
+  "volume": 243213,
+  "deep_frac": 0.0233
+ },
+ {
+  "global_id": 376771,
+  "volume": 243153,
+  "deep_frac": 0.0123
+ },
+ {
+  "global_id": 4734,
+  "volume": 243050,
+  "deep_frac": 0.0269
+ },
+ {
+  "global_id": 448432,
+  "volume": 243017,
+  "deep_frac": 0.037
+ },
+ {
+  "global_id": 205643,
+  "volume": 242785,
+  "deep_frac": 0.0027
+ },
+ {
+  "global_id": 398781,
+  "volume": 242698,
+  "deep_frac": 0.0169
+ },
+ {
+  "global_id": 459764,
+  "volume": 242535,
+  "deep_frac": 0.0584
+ },
+ {
+  "global_id": 143325,
+  "volume": 242321,
+  "deep_frac": 0.0613
+ },
+ {
+  "global_id": 168460,
+  "volume": 242277,
+  "deep_frac": 0.0352
+ },
+ {
+  "global_id": 64517,
+  "volume": 242256,
+  "deep_frac": 0.0484
+ },
+ {
+  "global_id": 113015,
+  "volume": 242157,
+  "deep_frac": 0.0111
+ },
+ {
+  "global_id": 365563,
+  "volume": 242111,
+  "deep_frac": 0.0206
+ },
+ {
+  "global_id": 468265,
+  "volume": 241986,
+  "deep_frac": 0.02
+ },
+ {
+  "global_id": 324194,
+  "volume": 241947,
+  "deep_frac": 0.0019
+ },
+ {
+  "global_id": 138467,
+  "volume": 241698,
+  "deep_frac": 0.0192
+ },
+ {
+  "global_id": 454887,
+  "volume": 241513,
+  "deep_frac": 0.0156
+ },
+ {
+  "global_id": 436251,
+  "volume": 241407,
+  "deep_frac": 0.0832
+ },
+ {
+  "global_id": 398734,
+  "volume": 241314,
+  "deep_frac": 0.0071
+ },
+ {
+  "global_id": 480322,
+  "volume": 241273,
+  "deep_frac": 0.0409
+ },
+ {
+  "global_id": 511109,
+  "volume": 241244,
+  "deep_frac": 0.0321
+ },
+ {
+  "global_id": 526541,
+  "volume": 241078,
+  "deep_frac": 0.091
+ },
+ {
+  "global_id": 329511,
+  "volume": 240971,
+  "deep_frac": 0.0105
+ },
+ {
+  "global_id": 420545,
+  "volume": 240889,
+  "deep_frac": 0.0274
+ },
+ {
+  "global_id": 56441,
+  "volume": 240771,
+  "deep_frac": 0.0098
+ },
+ {
+  "global_id": 337184,
+  "volume": 240734,
+  "deep_frac": 0.0091
+ },
+ {
+  "global_id": 141637,
+  "volume": 240626,
+  "deep_frac": 0.0665
+ },
+ {
+  "global_id": 315892,
+  "volume": 240539,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 338473,
+  "volume": 240458,
+  "deep_frac": 0.0123
+ },
+ {
+  "global_id": 408357,
+  "volume": 240348,
+  "deep_frac": 0.0254
+ },
+ {
+  "global_id": 450754,
+  "volume": 240245,
+  "deep_frac": 0.0562
+ },
+ {
+  "global_id": 300282,
+  "volume": 240214,
+  "deep_frac": 0.0081
+ },
+ {
+  "global_id": 392197,
+  "volume": 239847,
+  "deep_frac": 0.0871
+ },
+ {
+  "global_id": 125530,
+  "volume": 239737,
+  "deep_frac": 0.0883
+ },
+ {
+  "global_id": 378393,
+  "volume": 239463,
+  "deep_frac": 0.0135
+ },
+ {
+  "global_id": 424034,
+  "volume": 239233,
+  "deep_frac": 0.079
+ },
+ {
+  "global_id": 306650,
+  "volume": 239097,
+  "deep_frac": 0.0032
+ },
+ {
+  "global_id": 573698,
+  "volume": 238982,
+  "deep_frac": 0.0943
+ },
+ {
+  "global_id": 464826,
+  "volume": 238931,
+  "deep_frac": 0.0481
+ },
+ {
+  "global_id": 294515,
+  "volume": 238816,
+  "deep_frac": 0.0137
+ },
+ {
+  "global_id": 281934,
+  "volume": 238742,
+  "deep_frac": 0.0743
+ },
+ {
+  "global_id": 441446,
+  "volume": 238497,
+  "deep_frac": 0.032
+ },
+ {
+  "global_id": 372071,
+  "volume": 238424,
+  "deep_frac": 0.0109
+ },
+ {
+  "global_id": 470702,
+  "volume": 238418,
+  "deep_frac": 0.0248
+ },
+ {
+  "global_id": 238257,
+  "volume": 238284,
+  "deep_frac": 0.0795
+ },
+ {
+  "global_id": 254851,
+  "volume": 238194,
+  "deep_frac": 0.0781
+ },
+ {
+  "global_id": 117950,
+  "volume": 238108,
+  "deep_frac": 0.0149
+ },
+ {
+  "global_id": 465516,
+  "volume": 237816,
+  "deep_frac": 0.0289
+ },
+ {
+  "global_id": 464950,
+  "volume": 237810,
+  "deep_frac": 0.0191
+ },
+ {
+  "global_id": 258983,
+  "volume": 237708,
+  "deep_frac": 0.0922
+ },
+ {
+  "global_id": 228370,
+  "volume": 237470,
+  "deep_frac": 0.0385
+ },
+ {
+  "global_id": 420584,
+  "volume": 237444,
+  "deep_frac": 0.0591
+ },
+ {
+  "global_id": 96627,
+  "volume": 237229,
+  "deep_frac": 0.0096
+ },
+ {
+  "global_id": 172995,
+  "volume": 237205,
+  "deep_frac": 0.0565
+ },
+ {
+  "global_id": 480934,
+  "volume": 237174,
+  "deep_frac": 0.033
+ },
+ {
+  "global_id": 64578,
+  "volume": 237022,
+  "deep_frac": 0.0753
+ },
+ {
+  "global_id": 332190,
+  "volume": 237008,
+  "deep_frac": 0.0045
+ },
+ {
+  "global_id": 426539,
+  "volume": 236924,
+  "deep_frac": 0.0429
+ },
+ {
+  "global_id": 491163,
+  "volume": 236781,
+  "deep_frac": 0.0293
+ },
+ {
+  "global_id": 377899,
+  "volume": 236761,
+  "deep_frac": 0.0044
+ },
+ {
+  "global_id": 305254,
+  "volume": 236475,
+  "deep_frac": 0.0274
+ },
+ {
+  "global_id": 429228,
+  "volume": 236425,
+  "deep_frac": 0.0755
+ },
+ {
+  "global_id": 525160,
+  "volume": 236398,
+  "deep_frac": 0.0542
+ },
+ {
+  "global_id": 96821,
+  "volume": 236068,
+  "deep_frac": 0.0302
+ },
+ {
+  "global_id": 337428,
+  "volume": 236062,
+  "deep_frac": 0.0021
+ },
+ {
+  "global_id": 443864,
+  "volume": 235910,
+  "deep_frac": 0.0361
+ },
+ {
+  "global_id": 82096,
+  "volume": 235739,
+  "deep_frac": 0.0319
+ },
+ {
+  "global_id": 514140,
+  "volume": 235732,
+  "deep_frac": 0.0988
+ },
+ {
+  "global_id": 234020,
+  "volume": 235590,
+  "deep_frac": 0.0863
+ },
+ {
+  "global_id": 140368,
+  "volume": 235584,
+  "deep_frac": 0.0371
+ },
+ {
+  "global_id": 320441,
+  "volume": 235473,
+  "deep_frac": 0.0263
+ },
+ {
+  "global_id": 307474,
+  "volume": 235359,
+  "deep_frac": 0.0199
+ },
+ {
+  "global_id": 93388,
+  "volume": 235352,
+  "deep_frac": 0.004
+ },
+ {
+  "global_id": 138077,
+  "volume": 235224,
+  "deep_frac": 0.0108
+ },
+ {
+  "global_id": 335581,
+  "volume": 235213,
+  "deep_frac": 0.063
+ },
+ {
+  "global_id": 99226,
+  "volume": 235204,
+  "deep_frac": 0.0088
+ },
+ {
+  "global_id": 113027,
+  "volume": 235203,
+  "deep_frac": 0.0031
+ },
+ {
+  "global_id": 259232,
+  "volume": 235201,
+  "deep_frac": 0.0973
+ },
+ {
+  "global_id": 266644,
+  "volume": 235098,
+  "deep_frac": 0.0159
+ },
+ {
+  "global_id": 99552,
+  "volume": 235064,
+  "deep_frac": 0.0055
+ },
+ {
+  "global_id": 466161,
+  "volume": 235002,
+  "deep_frac": 0.0049
+ },
+ {
+  "global_id": 456739,
+  "volume": 234866,
+  "deep_frac": 0.0583
+ },
+ {
+  "global_id": 305427,
+  "volume": 234776,
+  "deep_frac": 0.0114
+ },
+ {
+  "global_id": 144040,
+  "volume": 234740,
+  "deep_frac": 0.0474
+ },
+ {
+  "global_id": 365555,
+  "volume": 234474,
+  "deep_frac": 0.0068
+ },
+ {
+  "global_id": 352726,
+  "volume": 234407,
+  "deep_frac": 0.0362
+ },
+ {
+  "global_id": 525125,
+  "volume": 234348,
+  "deep_frac": 0.0371
+ },
+ {
+  "global_id": 156372,
+  "volume": 234291,
+  "deep_frac": 0.0102
+ },
+ {
+  "global_id": 426454,
+  "volume": 233812,
+  "deep_frac": 0.0316
+ },
+ {
+  "global_id": 512721,
+  "volume": 233721,
+  "deep_frac": 0.0825
+ },
+ {
+  "global_id": 134166,
+  "volume": 233272,
+  "deep_frac": 0.0863
+ },
+ {
+  "global_id": 453519,
+  "volume": 233133,
+  "deep_frac": 0.0104
+ },
+ {
+  "global_id": 296220,
+  "volume": 233022,
+  "deep_frac": 0.0799
+ },
+ {
+  "global_id": 241169,
+  "volume": 232750,
+  "deep_frac": 0.0971
+ },
+ {
+  "global_id": 67677,
+  "volume": 232673,
+  "deep_frac": 0.0963
+ },
+ {
+  "global_id": 54253,
+  "volume": 232561,
+  "deep_frac": 0.0171
+ },
+ {
+  "global_id": 68516,
+  "volume": 232417,
+  "deep_frac": 0.0609
+ },
+ {
+  "global_id": 465922,
+  "volume": 232189,
+  "deep_frac": 0.0542
+ },
+ {
+  "global_id": 322072,
+  "volume": 232171,
+  "deep_frac": 0.0108
+ },
+ {
+  "global_id": 184689,
+  "volume": 232055,
+  "deep_frac": 0.0642
+ },
+ {
+  "global_id": 264932,
+  "volume": 232017,
+  "deep_frac": 0.0552
+ },
+ {
+  "global_id": 550964,
+  "volume": 231980,
+  "deep_frac": 0.0852
+ },
+ {
+  "global_id": 288778,
+  "volume": 231857,
+  "deep_frac": 0.0058
+ },
+ {
+  "global_id": 413484,
+  "volume": 231829,
+  "deep_frac": 0.0232
+ },
+ {
+  "global_id": 480652,
+  "volume": 231774,
+  "deep_frac": 0.0473
+ },
+ {
+  "global_id": 375629,
+  "volume": 231748,
+  "deep_frac": 0.0465
+ },
+ {
+  "global_id": 320434,
+  "volume": 231335,
+  "deep_frac": 0.0368
+ },
+ {
+  "global_id": 502107,
+  "volume": 231289,
+  "deep_frac": 0.0723
+ },
+ {
+  "global_id": 92071,
+  "volume": 231252,
+  "deep_frac": 0.0091
+ },
+ {
+  "global_id": 319729,
+  "volume": 231074,
+  "deep_frac": 0.006
+ },
+ {
+  "global_id": 412798,
+  "volume": 230910,
+  "deep_frac": 0.0406
+ },
+ {
+  "global_id": 426485,
+  "volume": 230741,
+  "deep_frac": 0.0355
+ },
+ {
+  "global_id": 293903,
+  "volume": 230712,
+  "deep_frac": 0.0113
+ },
+ {
+  "global_id": 246546,
+  "volume": 230699,
+  "deep_frac": 0.0468
+ },
+ {
+  "global_id": 417447,
+  "volume": 230530,
+  "deep_frac": 0.0276
+ },
+ {
+  "global_id": 154354,
+  "volume": 230480,
+  "deep_frac": 0.015
+ },
+ {
+  "global_id": 350625,
+  "volume": 230403,
+  "deep_frac": 0.0139
+ },
+ {
+  "global_id": 217837,
+  "volume": 230005,
+  "deep_frac": 0.0817
+ },
+ {
+  "global_id": 288808,
+  "volume": 229962,
+  "deep_frac": 0.027
+ },
+ {
+  "global_id": 269737,
+  "volume": 229960,
+  "deep_frac": 0.0499
+ },
+ {
+  "global_id": 140845,
+  "volume": 229526,
+  "deep_frac": 0.0219
+ },
+ {
+  "global_id": 483148,
+  "volume": 229478,
+  "deep_frac": 0.0938
+ },
+ {
+  "global_id": 106332,
+  "volume": 229453,
+  "deep_frac": 0.0951
+ },
+ {
+  "global_id": 306981,
+  "volume": 229422,
+  "deep_frac": 0.0175
+ },
+ {
+  "global_id": 241187,
+  "volume": 229272,
+  "deep_frac": 0.0471
+ },
+ {
+  "global_id": 188298,
+  "volume": 229189,
+  "deep_frac": 0.0182
+ },
+ {
+  "global_id": 138808,
+  "volume": 229107,
+  "deep_frac": 0.0564
+ },
+ {
+  "global_id": 331433,
+  "volume": 229106,
+  "deep_frac": 0.0769
+ },
+ {
+  "global_id": 218570,
+  "volume": 228980,
+  "deep_frac": 0.0039
+ },
+ {
+  "global_id": 140585,
+  "volume": 228810,
+  "deep_frac": 0.0905
+ },
+ {
+  "global_id": 570633,
+  "volume": 228788,
+  "deep_frac": 0.0056
+ },
+ {
+  "global_id": 293667,
+  "volume": 228784,
+  "deep_frac": 0.0169
+ },
+ {
+  "global_id": 309280,
+  "volume": 228531,
+  "deep_frac": 0.0145
+ },
+ {
+  "global_id": 110819,
+  "volume": 228366,
+  "deep_frac": 0.0122
+ },
+ {
+  "global_id": 324020,
+  "volume": 228303,
+  "deep_frac": 0.028
+ },
+ {
+  "global_id": 375478,
+  "volume": 228143,
+  "deep_frac": 0.026
+ },
+ {
+  "global_id": 402201,
+  "volume": 228143,
+  "deep_frac": 0.024
+ },
+ {
+  "global_id": 262527,
+  "volume": 227819,
+  "deep_frac": 0.0036
+ },
+ {
+  "global_id": 389025,
+  "volume": 227492,
+  "deep_frac": 0.0658
+ },
+ {
+  "global_id": 498274,
+  "volume": 227426,
+  "deep_frac": 0.0772
+ },
+ {
+  "global_id": 350151,
+  "volume": 227266,
+  "deep_frac": 0.0174
+ },
+ {
+  "global_id": 383544,
+  "volume": 227245,
+  "deep_frac": 0.0887
+ },
+ {
+  "global_id": 397788,
+  "volume": 227081,
+  "deep_frac": 0.0342
+ },
+ {
+  "global_id": 130975,
+  "volume": 226898,
+  "deep_frac": 0.021
+ },
+ {
+  "global_id": 413306,
+  "volume": 226580,
+  "deep_frac": 0.01
+ },
+ {
+  "global_id": 466585,
+  "volume": 226514,
+  "deep_frac": 0.0391
+ },
+ {
+  "global_id": 113023,
+  "volume": 226391,
+  "deep_frac": 0.0218
+ },
+ {
+  "global_id": 261799,
+  "volume": 226313,
+  "deep_frac": 0.0232
+ },
+ {
+  "global_id": 147557,
+  "volume": 226075,
+  "deep_frac": 0.027
+ },
+ {
+  "global_id": 273421,
+  "volume": 226071,
+  "deep_frac": 0.0182
+ },
+ {
+  "global_id": 171304,
+  "volume": 225756,
+  "deep_frac": 0.0138
+ },
+ {
+  "global_id": 305423,
+  "volume": 225545,
+  "deep_frac": 0.0045
+ },
+ {
+  "global_id": 418477,
+  "volume": 225487,
+  "deep_frac": 0.0478
+ },
+ {
+  "global_id": 532506,
+  "volume": 225383,
+  "deep_frac": 0.0899
+ },
+ {
+  "global_id": 209206,
+  "volume": 225336,
+  "deep_frac": 0.0678
+ },
+ {
+  "global_id": 428589,
+  "volume": 225291,
+  "deep_frac": 0.0023
+ },
+ {
+  "global_id": 200439,
+  "volume": 225056,
+  "deep_frac": 0.0148
+ },
+ {
+  "global_id": 658837,
+  "volume": 225016,
+  "deep_frac": 0.1
+ },
+ {
+  "global_id": 415997,
+  "volume": 224940,
+  "deep_frac": 0.0239
+ },
+ {
+  "global_id": 120613,
+  "volume": 224909,
+  "deep_frac": 0.0139
+ },
+ {
+  "global_id": 140395,
+  "volume": 224574,
+  "deep_frac": 0.0563
+ },
+ {
+  "global_id": 435912,
+  "volume": 224526,
+  "deep_frac": 0.0599
+ },
+ {
+  "global_id": 284371,
+  "volume": 224523,
+  "deep_frac": 0.0041
+ },
+ {
+  "global_id": 59116,
+  "volume": 224503,
+  "deep_frac": 0.0963
+ },
+ {
+  "global_id": 340884,
+  "volume": 224495,
+  "deep_frac": 0.0055
+ },
+ {
+  "global_id": 307482,
+  "volume": 224138,
+  "deep_frac": 0.0097
+ },
+ {
+  "global_id": 119224,
+  "volume": 224116,
+  "deep_frac": 0.0703
+ },
+ {
+  "global_id": 151867,
+  "volume": 224009,
+  "deep_frac": 0.0994
+ },
+ {
+  "global_id": 305920,
+  "volume": 223786,
+  "deep_frac": 0.0123
+ },
+ {
+  "global_id": 171106,
+  "volume": 223734,
+  "deep_frac": 0.0055
+ },
+ {
+  "global_id": 345174,
+  "volume": 223698,
+  "deep_frac": 0.0177
+ },
+ {
+  "global_id": 138895,
+  "volume": 223661,
+  "deep_frac": 0.012
+ },
+ {
+  "global_id": 502589,
+  "volume": 223652,
+  "deep_frac": 0.0839
+ },
+ {
+  "global_id": 125920,
+  "volume": 223619,
+  "deep_frac": 0.0181
+ },
+ {
+  "global_id": 361434,
+  "volume": 223574,
+  "deep_frac": 0.0043
+ },
+ {
+  "global_id": 363068,
+  "volume": 223568,
+  "deep_frac": 0.0052
+ },
+ {
+  "global_id": 54388,
+  "volume": 223469,
+  "deep_frac": 0.0417
+ },
+ {
+  "global_id": 140926,
+  "volume": 223119,
+  "deep_frac": 0.0902
+ },
+ {
+  "global_id": 294342,
+  "volume": 223088,
+  "deep_frac": 0.088
+ },
+ {
+  "global_id": 331428,
+  "volume": 222826,
+  "deep_frac": 0.0036
+ },
+ {
+  "global_id": 94416,
+  "volume": 222738,
+  "deep_frac": 0.0561
+ },
+ {
+  "global_id": 93449,
+  "volume": 222700,
+  "deep_frac": 0.0087
+ },
+ {
+  "global_id": 571171,
+  "volume": 222590,
+  "deep_frac": 0.0413
+ },
+ {
+  "global_id": 70968,
+  "volume": 222493,
+  "deep_frac": 0.0511
+ },
+ {
+  "global_id": 366910,
+  "volume": 222475,
+  "deep_frac": 0.0047
+ },
+ {
+  "global_id": 383190,
+  "volume": 222330,
+  "deep_frac": 0.0014
+ },
+ {
+  "global_id": 185488,
+  "volume": 221869,
+  "deep_frac": 0.0138
+ },
+ {
+  "global_id": 485191,
+  "volume": 221805,
+  "deep_frac": 0.0291
+ },
+ {
+  "global_id": 179738,
+  "volume": 221723,
+  "deep_frac": 0.0186
+ },
+ {
+  "global_id": 466501,
+  "volume": 221704,
+  "deep_frac": 0.0117
+ },
+ {
+  "global_id": 349170,
+  "volume": 221641,
+  "deep_frac": 0.005
+ },
+ {
+  "global_id": 52103,
+  "volume": 221320,
+  "deep_frac": 0.0025
+ },
+ {
+  "global_id": 236645,
+  "volume": 221309,
+  "deep_frac": 0.0731
+ },
+ {
+  "global_id": 471180,
+  "volume": 221240,
+  "deep_frac": 0.0619
+ },
+ {
+  "global_id": 586422,
+  "volume": 221154,
+  "deep_frac": 0.038
+ },
+ {
+  "global_id": 139405,
+  "volume": 221093,
+  "deep_frac": 0.0478
+ },
+ {
+  "global_id": 53412,
+  "volume": 221046,
+  "deep_frac": 0.0796
+ },
+ {
+  "global_id": 294649,
+  "volume": 220506,
+  "deep_frac": 0.0131
+ },
+ {
+  "global_id": 81422,
+  "volume": 220319,
+  "deep_frac": 0.0044
+ },
+ {
+  "global_id": 373517,
+  "volume": 220266,
+  "deep_frac": 0.038
+ },
+ {
+  "global_id": 549377,
+  "volume": 220211,
+  "deep_frac": 0.0858
+ },
+ {
+  "global_id": 566693,
+  "volume": 220171,
+  "deep_frac": 0.0576
+ },
+ {
+  "global_id": 348044,
+  "volume": 220144,
+  "deep_frac": 0.0181
+ },
+ {
+  "global_id": 419142,
+  "volume": 219889,
+  "deep_frac": 0.0568
+ },
+ {
+  "global_id": 76183,
+  "volume": 219813,
+  "deep_frac": 0.0085
+ },
+ {
+  "global_id": 439590,
+  "volume": 219750,
+  "deep_frac": 0.0844
+ },
+ {
+  "global_id": 249139,
+  "volume": 219623,
+  "deep_frac": 0.0247
+ },
+ {
+  "global_id": 89370,
+  "volume": 219417,
+  "deep_frac": 0.0571
+ },
+ {
+  "global_id": 490994,
+  "volume": 219359,
+  "deep_frac": 0.0149
+ },
+ {
+  "global_id": 355901,
+  "volume": 219112,
+  "deep_frac": 0.0021
+ },
+ {
+  "global_id": 168734,
+  "volume": 219111,
+  "deep_frac": 0.0457
+ },
+ {
+  "global_id": 76299,
+  "volume": 218930,
+  "deep_frac": 0.0911
+ },
+ {
+  "global_id": 480734,
+  "volume": 218814,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 191160,
+  "volume": 218709,
+  "deep_frac": 0.0985
+ },
+ {
+  "global_id": 487270,
+  "volume": 218597,
+  "deep_frac": 0.0577
+ },
+ {
+  "global_id": 590222,
+  "volume": 218526,
+  "deep_frac": 0.0876
+ },
+ {
+  "global_id": 77368,
+  "volume": 218499,
+  "deep_frac": 0.0296
+ },
+ {
+  "global_id": 452278,
+  "volume": 218459,
+  "deep_frac": 0.0461
+ },
+ {
+  "global_id": 666560,
+  "volume": 218435,
+  "deep_frac": 0.0666
+ },
+ {
+  "global_id": 120542,
+  "volume": 218398,
+  "deep_frac": 0.0791
+ },
+ {
+  "global_id": 365949,
+  "volume": 218201,
+  "deep_frac": 0.0066
+ },
+ {
+  "global_id": 419992,
+  "volume": 218190,
+  "deep_frac": 0.0193
+ },
+ {
+  "global_id": 421237,
+  "volume": 218169,
+  "deep_frac": 0.0626
+ },
+ {
+  "global_id": 376453,
+  "volume": 218133,
+  "deep_frac": 0.0029
+ },
+ {
+  "global_id": 363796,
+  "volume": 217980,
+  "deep_frac": 0.0592
+ },
+ {
+  "global_id": 417355,
+  "volume": 217717,
+  "deep_frac": 0.0278
+ },
+ {
+  "global_id": 426886,
+  "volume": 217697,
+  "deep_frac": 0.0118
+ },
+ {
+  "global_id": 122475,
+  "volume": 217575,
+  "deep_frac": 0.0206
+ },
+ {
+  "global_id": 266678,
+  "volume": 217503,
+  "deep_frac": 0.0326
+ },
+ {
+  "global_id": 487705,
+  "volume": 217425,
+  "deep_frac": 0.0834
+ },
+ {
+  "global_id": 113924,
+  "volume": 217326,
+  "deep_frac": 0.0142
+ },
+ {
+  "global_id": 284431,
+  "volume": 217270,
+  "deep_frac": 0.0502
+ },
+ {
+  "global_id": 396501,
+  "volume": 217254,
+  "deep_frac": 0.045
+ },
+ {
+  "global_id": 404239,
+  "volume": 217236,
+  "deep_frac": 0.0586
+ },
+ {
+  "global_id": 385690,
+  "volume": 217195,
+  "deep_frac": 0.0169
+ },
+ {
+  "global_id": 448482,
+  "volume": 217188,
+  "deep_frac": 0.0279
+ },
+ {
+  "global_id": 523247,
+  "volume": 217172,
+  "deep_frac": 0.0119
+ },
+ {
+  "global_id": 329985,
+  "volume": 217081,
+  "deep_frac": 0.0338
+ },
+ {
+  "global_id": 265734,
+  "volume": 217017,
+  "deep_frac": 0.0917
+ },
+ {
+  "global_id": 66083,
+  "volume": 216876,
+  "deep_frac": 0.0102
+ },
+ {
+  "global_id": 345929,
+  "volume": 216774,
+  "deep_frac": 0.0501
+ },
+ {
+  "global_id": 271706,
+  "volume": 216731,
+  "deep_frac": 0.0395
+ },
+ {
+  "global_id": 225732,
+  "volume": 216695,
+  "deep_frac": 0.0059
+ },
+ {
+  "global_id": 124469,
+  "volume": 216529,
+  "deep_frac": 0.0973
+ },
+ {
+  "global_id": 78434,
+  "volume": 216427,
+  "deep_frac": 0.0116
+ },
+ {
+  "global_id": 351363,
+  "volume": 216392,
+  "deep_frac": 0.0109
+ },
+ {
+  "global_id": 378300,
+  "volume": 216366,
+  "deep_frac": 0.0987
+ },
+ {
+  "global_id": 113048,
+  "volume": 216301,
+  "deep_frac": 0.0163
+ },
+ {
+  "global_id": 153710,
+  "volume": 216240,
+  "deep_frac": 0.0278
+ },
+ {
+  "global_id": 401488,
+  "volume": 216233,
+  "deep_frac": 0.0184
+ },
+ {
+  "global_id": 51512,
+  "volume": 216186,
+  "deep_frac": 0.0074
+ },
+ {
+  "global_id": 296285,
+  "volume": 216145,
+  "deep_frac": 0.0942
+ },
+ {
+  "global_id": 91075,
+  "volume": 215841,
+  "deep_frac": 0.0936
+ },
+ {
+  "global_id": 395561,
+  "volume": 215813,
+  "deep_frac": 0.0196
+ },
+ {
+  "global_id": 289376,
+  "volume": 215736,
+  "deep_frac": 0.0759
+ },
+ {
+  "global_id": 358685,
+  "volume": 215543,
+  "deep_frac": 0.0173
+ },
+ {
+  "global_id": 92005,
+  "volume": 215341,
+  "deep_frac": 0.0078
+ },
+ {
+  "global_id": 294724,
+  "volume": 215287,
+  "deep_frac": 0.0164
+ },
+ {
+  "global_id": 109208,
+  "volume": 215272,
+  "deep_frac": 0.0046
+ },
+ {
+  "global_id": 312443,
+  "volume": 215076,
+  "deep_frac": 0.0135
+ },
+ {
+  "global_id": 269686,
+  "volume": 214922,
+  "deep_frac": 0.019
+ },
+ {
+  "global_id": 344556,
+  "volume": 214628,
+  "deep_frac": 0.0094
+ },
+ {
+  "global_id": 456218,
+  "volume": 214568,
+  "deep_frac": 0.086
+ },
+ {
+  "global_id": 131916,
+  "volume": 214543,
+  "deep_frac": 0.0213
+ },
+ {
+  "global_id": 77365,
+  "volume": 214499,
+  "deep_frac": 0.0453
+ },
+ {
+  "global_id": 225547,
+  "volume": 214289,
+  "deep_frac": 0.0883
+ },
+ {
+  "global_id": 186653,
+  "volume": 214243,
+  "deep_frac": 0.0727
+ },
+ {
+  "global_id": 288697,
+  "volume": 214034,
+  "deep_frac": 0.004
+ },
+ {
+  "global_id": 51486,
+  "volume": 213964,
+  "deep_frac": 0.0535
+ },
+ {
+  "global_id": 323512,
+  "volume": 213563,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 93397,
+  "volume": 213510,
+  "deep_frac": 0.0097
+ },
+ {
+  "global_id": 391399,
+  "volume": 213415,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 109008,
+  "volume": 213387,
+  "deep_frac": 0.0033
+ },
+ {
+  "global_id": 355241,
+  "volume": 213361,
+  "deep_frac": 0.0058
+ },
+ {
+  "global_id": 53040,
+  "volume": 212927,
+  "deep_frac": 0.0811
+ },
+ {
+  "global_id": 390653,
+  "volume": 212835,
+  "deep_frac": 0.0046
+ },
+ {
+  "global_id": 427005,
+  "volume": 212801,
+  "deep_frac": 0.0454
+ },
+ {
+  "global_id": 349763,
+  "volume": 212773,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 364829,
+  "volume": 212767,
+  "deep_frac": 0.0643
+ },
+ {
+  "global_id": 125511,
+  "volume": 212344,
+  "deep_frac": 0.0142
+ },
+ {
+  "global_id": 307515,
+  "volume": 212344,
+  "deep_frac": 0.0056
+ },
+ {
+  "global_id": 189311,
+  "volume": 212317,
+  "deep_frac": 0.0104
+ },
+ {
+  "global_id": 355276,
+  "volume": 212272,
+  "deep_frac": 0.0043
+ },
+ {
+  "global_id": 475003,
+  "volume": 212052,
+  "deep_frac": 0.0764
+ },
+ {
+  "global_id": 163118,
+  "volume": 211997,
+  "deep_frac": 0.0415
+ },
+ {
+  "global_id": 410217,
+  "volume": 211932,
+  "deep_frac": 0.0542
+ },
+ {
+  "global_id": 136522,
+  "volume": 211756,
+  "deep_frac": 0.0616
+ },
+ {
+  "global_id": 385111,
+  "volume": 211324,
+  "deep_frac": 0.0076
+ },
+ {
+  "global_id": 83374,
+  "volume": 211248,
+  "deep_frac": 0.057
+ },
+ {
+  "global_id": 293187,
+  "volume": 211200,
+  "deep_frac": 0.0128
+ },
+ {
+  "global_id": 466466,
+  "volume": 211186,
+  "deep_frac": 0.0167
+ },
+ {
+  "global_id": 248057,
+  "volume": 211154,
+  "deep_frac": 0.0202
+ },
+ {
+  "global_id": 292416,
+  "volume": 210814,
+  "deep_frac": 0.088
+ },
+ {
+  "global_id": 320118,
+  "volume": 210735,
+  "deep_frac": 0.0164
+ },
+ {
+  "global_id": 330338,
+  "volume": 210728,
+  "deep_frac": 0.0584
+ },
+ {
+  "global_id": 384250,
+  "volume": 210507,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 311633,
+  "volume": 210414,
+  "deep_frac": 0.0078
+ },
+ {
+  "global_id": 480722,
+  "volume": 210372,
+  "deep_frac": 0.0087
+ },
+ {
+  "global_id": 479173,
+  "volume": 210209,
+  "deep_frac": 0.0705
+ },
+ {
+  "global_id": 167681,
+  "volume": 210192,
+  "deep_frac": 0.0511
+ },
+ {
+  "global_id": 384860,
+  "volume": 210041,
+  "deep_frac": 0.002
+ },
+ {
+  "global_id": 470506,
+  "volume": 209885,
+  "deep_frac": 0.0978
+ },
+ {
+  "global_id": 502021,
+  "volume": 209820,
+  "deep_frac": 0.0505
+ },
+ {
+  "global_id": 109614,
+  "volume": 209817,
+  "deep_frac": 0.0123
+ },
+ {
+  "global_id": 162437,
+  "volume": 209814,
+  "deep_frac": 0.0068
+ },
+ {
+  "global_id": 58088,
+  "volume": 209759,
+  "deep_frac": 0.06
+ },
+ {
+  "global_id": 146262,
+  "volume": 209695,
+  "deep_frac": 0.079
+ },
+ {
+  "global_id": 152129,
+  "volume": 209567,
+  "deep_frac": 0.0727
+ },
+ {
+  "global_id": 266634,
+  "volume": 209474,
+  "deep_frac": 0.0466
+ },
+ {
+  "global_id": 149243,
+  "volume": 209472,
+  "deep_frac": 0.0194
+ },
+ {
+  "global_id": 255992,
+  "volume": 209379,
+  "deep_frac": 0.0628
+ },
+ {
+  "global_id": 224191,
+  "volume": 209227,
+  "deep_frac": 0.0386
+ },
+ {
+  "global_id": 440425,
+  "volume": 209205,
+  "deep_frac": 0.0177
+ },
+ {
+  "global_id": 358177,
+  "volume": 209076,
+  "deep_frac": 0.0087
+ },
+ {
+  "global_id": 451355,
+  "volume": 209026,
+  "deep_frac": 0.0537
+ },
+ {
+  "global_id": 492616,
+  "volume": 208713,
+  "deep_frac": 0.0512
+ },
+ {
+  "global_id": 170464,
+  "volume": 208608,
+  "deep_frac": 0.0041
+ },
+ {
+  "global_id": 521799,
+  "volume": 208377,
+  "deep_frac": 0.0523
+ },
+ {
+  "global_id": 323527,
+  "volume": 208337,
+  "deep_frac": 0.0117
+ },
+ {
+  "global_id": 332738,
+  "volume": 208283,
+  "deep_frac": 0.0037
+ },
+ {
+  "global_id": 270072,
+  "volume": 208240,
+  "deep_frac": 0.0445
+ },
+ {
+  "global_id": 67414,
+  "volume": 208221,
+  "deep_frac": 0.0829
+ },
+ {
+  "global_id": 402155,
+  "volume": 208148,
+  "deep_frac": 0.0154
+ },
+ {
+  "global_id": 355402,
+  "volume": 208009,
+  "deep_frac": 0.0223
+ },
+ {
+  "global_id": 295965,
+  "volume": 207536,
+  "deep_frac": 0.0146
+ },
+ {
+  "global_id": 463323,
+  "volume": 207266,
+  "deep_frac": 0.024
+ },
+ {
+  "global_id": 226418,
+  "volume": 207169,
+  "deep_frac": 0.0021
+ },
+ {
+  "global_id": 305385,
+  "volume": 207121,
+  "deep_frac": 0.0043
+ },
+ {
+  "global_id": 205663,
+  "volume": 207063,
+  "deep_frac": 0.0905
+ },
+ {
+  "global_id": 335639,
+  "volume": 206838,
+  "deep_frac": 0.0089
+ },
+ {
+  "global_id": 445048,
+  "volume": 206832,
+  "deep_frac": 0.018
+ },
+ {
+  "global_id": 249762,
+  "volume": 206724,
+  "deep_frac": 0.0709
+ },
+ {
+  "global_id": 109107,
+  "volume": 206613,
+  "deep_frac": 0.0092
+ },
+ {
+  "global_id": 149902,
+  "volume": 206427,
+  "deep_frac": 0.0208
+ },
+ {
+  "global_id": 450764,
+  "volume": 206286,
+  "deep_frac": 0.0083
+ },
+ {
+  "global_id": 197692,
+  "volume": 206016,
+  "deep_frac": 0.0149
+ },
+ {
+  "global_id": 510808,
+  "volume": 205955,
+  "deep_frac": 0.0996
+ },
+ {
+  "global_id": 288737,
+  "volume": 205938,
+  "deep_frac": 0.0076
+ },
+ {
+  "global_id": 396508,
+  "volume": 205927,
+  "deep_frac": 0.0146
+ },
+ {
+  "global_id": 477148,
+  "volume": 205751,
+  "deep_frac": 0.0775
+ },
+ {
+  "global_id": 69644,
+  "volume": 205661,
+  "deep_frac": 0.0086
+ },
+ {
+  "global_id": 319683,
+  "volume": 205554,
+  "deep_frac": 0.0393
+ },
+ {
+  "global_id": 402184,
+  "volume": 205105,
+  "deep_frac": 0.0142
+ },
+ {
+  "global_id": 139937,
+  "volume": 205086,
+  "deep_frac": 0.0234
+ },
+ {
+  "global_id": 136559,
+  "volume": 205080,
+  "deep_frac": 0.0276
+ },
+ {
+  "global_id": 68910,
+  "volume": 204919,
+  "deep_frac": 0.0524
+ },
+ {
+  "global_id": 63674,
+  "volume": 204666,
+  "deep_frac": 0.0314
+ },
+ {
+  "global_id": 393366,
+  "volume": 204360,
+  "deep_frac": 0.0728
+ },
+ {
+  "global_id": 480993,
+  "volume": 204216,
+  "deep_frac": 0.0276
+ },
+ {
+  "global_id": 74424,
+  "volume": 204072,
+  "deep_frac": 0.0847
+ },
+ {
+  "global_id": 340708,
+  "volume": 203938,
+  "deep_frac": 0.0261
+ },
+ {
+  "global_id": 71560,
+  "volume": 203736,
+  "deep_frac": 0.052
+ },
+ {
+  "global_id": 546432,
+  "volume": 203596,
+  "deep_frac": 0.0981
+ },
+ {
+  "global_id": 252361,
+  "volume": 203524,
+  "deep_frac": 0.014
+ },
+ {
+  "global_id": 284412,
+  "volume": 203284,
+  "deep_frac": 0.0051
+ },
+ {
+  "global_id": 99485,
+  "volume": 203176,
+  "deep_frac": 0.0211
+ },
+ {
+  "global_id": 313970,
+  "volume": 203105,
+  "deep_frac": 0.0431
+ },
+ {
+  "global_id": 360947,
+  "volume": 202991,
+  "deep_frac": 0.0173
+ },
+ {
+  "global_id": 282053,
+  "volume": 202871,
+  "deep_frac": 0.0262
+ },
+ {
+  "global_id": 399958,
+  "volume": 202729,
+  "deep_frac": 0.0112
+ },
+ {
+  "global_id": 368672,
+  "volume": 202704,
+  "deep_frac": 0.034
+ },
+ {
+  "global_id": 205551,
+  "volume": 202683,
+  "deep_frac": 0.0358
+ },
+ {
+  "global_id": 60297,
+  "volume": 202619,
+  "deep_frac": 0.0195
+ },
+ {
+  "global_id": 330404,
+  "volume": 202586,
+  "deep_frac": 0.0461
+ },
+ {
+  "global_id": 255952,
+  "volume": 202547,
+  "deep_frac": 0.0199
+ },
+ {
+  "global_id": 412676,
+  "volume": 202524,
+  "deep_frac": 0.0428
+ },
+ {
+  "global_id": 456133,
+  "volume": 202464,
+  "deep_frac": 0.0255
+ },
+ {
+  "global_id": 127086,
+  "volume": 202381,
+  "deep_frac": 0.0943
+ },
+ {
+  "global_id": 314763,
+  "volume": 202354,
+  "deep_frac": 0.0068
+ },
+ {
+  "global_id": 95229,
+  "volume": 202283,
+  "deep_frac": 0.0527
+ },
+ {
+  "global_id": 125023,
+  "volume": 201934,
+  "deep_frac": 0.0404
+ },
+ {
+  "global_id": 413954,
+  "volume": 201882,
+  "deep_frac": 0.0456
+ },
+ {
+  "global_id": 401944,
+  "volume": 201812,
+  "deep_frac": 0.0428
+ },
+ {
+  "global_id": 332187,
+  "volume": 201681,
+  "deep_frac": 0.0057
+ },
+ {
+  "global_id": 661300,
+  "volume": 201671,
+  "deep_frac": 0.0067
+ },
+ {
+  "global_id": 357139,
+  "volume": 201556,
+  "deep_frac": 0.0157
+ },
+ {
+  "global_id": 588582,
+  "volume": 201533,
+  "deep_frac": 0.0461
+ },
+ {
+  "global_id": 341075,
+  "volume": 201455,
+  "deep_frac": 0.0027
+ },
+ {
+  "global_id": 432900,
+  "volume": 201360,
+  "deep_frac": 0.0426
+ },
+ {
+  "global_id": 56367,
+  "volume": 201344,
+  "deep_frac": 0.0864
+ },
+ {
+  "global_id": 63698,
+  "volume": 201151,
+  "deep_frac": 0.0698
+ },
+ {
+  "global_id": 324512,
+  "volume": 201117,
+  "deep_frac": 0.0058
+ },
+ {
+  "global_id": 147580,
+  "volume": 200963,
+  "deep_frac": 0.0261
+ },
+ {
+  "global_id": 330270,
+  "volume": 200916,
+  "deep_frac": 0.038
+ },
+ {
+  "global_id": 408308,
+  "volume": 200798,
+  "deep_frac": 0.0123
+ },
+ {
+  "global_id": 328191,
+  "volume": 200698,
+  "deep_frac": 0.0056
+ },
+ {
+  "global_id": 145973,
+  "volume": 200682,
+  "deep_frac": 0.023
+ },
+ {
+  "global_id": 441870,
+  "volume": 200654,
+  "deep_frac": 0.0524
+ },
+ {
+  "global_id": 466303,
+  "volume": 200596,
+  "deep_frac": 0.0504
+ },
+ {
+  "global_id": 417246,
+  "volume": 200414,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 172944,
+  "volume": 200375,
+  "deep_frac": 0.0347
+ },
+ {
+  "global_id": 359438,
+  "volume": 200374,
+  "deep_frac": 0.0646
+ },
+ {
+  "global_id": 489405,
+  "volume": 200216,
+  "deep_frac": 0.0475
+ },
+ {
+  "global_id": 147536,
+  "volume": 200176,
+  "deep_frac": 0.0065
+ },
+ {
+  "global_id": 287588,
+  "volume": 200013,
+  "deep_frac": 0.081
+ },
+ {
+  "global_id": 110179,
+  "volume": 199703,
+  "deep_frac": 0.0931
+ },
+ {
+  "global_id": 134247,
+  "volume": 199580,
+  "deep_frac": 0.0117
+ },
+ {
+  "global_id": 452258,
+  "volume": 199439,
+  "deep_frac": 0.0643
+ },
+ {
+  "global_id": 330798,
+  "volume": 199420,
+  "deep_frac": 0.0133
+ },
+ {
+  "global_id": 100734,
+  "volume": 199368,
+  "deep_frac": 0.0737
+ },
+ {
+  "global_id": 457824,
+  "volume": 199357,
+  "deep_frac": 0.02
+ },
+ {
+  "global_id": 267392,
+  "volume": 199342,
+  "deep_frac": 0.0279
+ },
+ {
+  "global_id": 247747,
+  "volume": 198836,
+  "deep_frac": 0.0445
+ },
+ {
+  "global_id": 468318,
+  "volume": 198753,
+  "deep_frac": 0.019
+ },
+ {
+  "global_id": 373522,
+  "volume": 198647,
+  "deep_frac": 0.0283
+ },
+ {
+  "global_id": 123304,
+  "volume": 198538,
+  "deep_frac": 0.0232
+ },
+ {
+  "global_id": 496609,
+  "volume": 198475,
+  "deep_frac": 0.0917
+ },
+ {
+  "global_id": 514436,
+  "volume": 198426,
+  "deep_frac": 0.0973
+ },
+ {
+  "global_id": 154559,
+  "volume": 198270,
+  "deep_frac": 0.0666
+ },
+ {
+  "global_id": 386690,
+  "volume": 198249,
+  "deep_frac": 0.0065
+ },
+ {
+  "global_id": 63317,
+  "volume": 198068,
+  "deep_frac": 0.0722
+ },
+ {
+  "global_id": 197702,
+  "volume": 197991,
+  "deep_frac": 0.0262
+ },
+ {
+  "global_id": 274106,
+  "volume": 197969,
+  "deep_frac": 0.0378
+ },
+ {
+  "global_id": 164348,
+  "volume": 197923,
+  "deep_frac": 0.0398
+ },
+ {
+  "global_id": 321121,
+  "volume": 197832,
+  "deep_frac": 0.0239
+ },
+ {
+  "global_id": 507941,
+  "volume": 197794,
+  "deep_frac": 0.0395
+ },
+ {
+  "global_id": 235537,
+  "volume": 197761,
+  "deep_frac": 0.0052
+ },
+ {
+  "global_id": 361022,
+  "volume": 197734,
+  "deep_frac": 0.0404
+ },
+ {
+  "global_id": 436181,
+  "volume": 197534,
+  "deep_frac": 0.0244
+ },
+ {
+  "global_id": 180660,
+  "volume": 197528,
+  "deep_frac": 0.0233
+ },
+ {
+  "global_id": 146859,
+  "volume": 197513,
+  "deep_frac": 0.0134
+ },
+ {
+  "global_id": 344149,
+  "volume": 197500,
+  "deep_frac": 0.0119
+ },
+ {
+  "global_id": 441362,
+  "volume": 197384,
+  "deep_frac": 0.0167
+ },
+ {
+  "global_id": 120150,
+  "volume": 197374,
+  "deep_frac": 0.0384
+ },
+ {
+  "global_id": 90910,
+  "volume": 197364,
+  "deep_frac": 0.0669
+ },
+ {
+  "global_id": 384318,
+  "volume": 197164,
+  "deep_frac": 0.0741
+ },
+ {
+  "global_id": 335263,
+  "volume": 197127,
+  "deep_frac": 0.0076
+ },
+ {
+  "global_id": 307065,
+  "volume": 197080,
+  "deep_frac": 0.0203
+ },
+ {
+  "global_id": 254473,
+  "volume": 196981,
+  "deep_frac": 0.0305
+ },
+ {
+  "global_id": 384693,
+  "volume": 196813,
+  "deep_frac": 0.0118
+ },
+ {
+  "global_id": 329037,
+  "volume": 196703,
+  "deep_frac": 0.0137
+ },
+ {
+  "global_id": 243275,
+  "volume": 196557,
+  "deep_frac": 0.0653
+ },
+ {
+  "global_id": 600787,
+  "volume": 196551,
+  "deep_frac": 0.0487
+ },
+ {
+  "global_id": 254921,
+  "volume": 196540,
+  "deep_frac": 0.0321
+ },
+ {
+  "global_id": 389238,
+  "volume": 196476,
+  "deep_frac": 0.0102
+ },
+ {
+  "global_id": 457305,
+  "volume": 196449,
+  "deep_frac": 0.0531
+ },
+ {
+  "global_id": 170482,
+  "volume": 196372,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 236960,
+  "volume": 196351,
+  "deep_frac": 0.076
+ },
+ {
+  "global_id": 416429,
+  "volume": 196284,
+  "deep_frac": 0.069
+ },
+ {
+  "global_id": 411006,
+  "volume": 196253,
+  "deep_frac": 0.0172
+ },
+ {
+  "global_id": 313967,
+  "volume": 196240,
+  "deep_frac": 0.007
+ },
+ {
+  "global_id": 148678,
+  "volume": 196190,
+  "deep_frac": 0.0734
+ },
+ {
+  "global_id": 437049,
+  "volume": 196126,
+  "deep_frac": 0.015
+ },
+ {
+  "global_id": 371124,
+  "volume": 196037,
+  "deep_frac": 0.0456
+ },
+ {
+  "global_id": 146869,
+  "volume": 196010,
+  "deep_frac": 0.0103
+ },
+ {
+  "global_id": 403530,
+  "volume": 195990,
+  "deep_frac": 0.0229
+ },
+ {
+  "global_id": 487765,
+  "volume": 195966,
+  "deep_frac": 0.0162
+ },
+ {
+  "global_id": 328725,
+  "volume": 195883,
+  "deep_frac": 0.0251
+ },
+ {
+  "global_id": 332215,
+  "volume": 195512,
+  "deep_frac": 0.0204
+ },
+ {
+  "global_id": 583819,
+  "volume": 195382,
+  "deep_frac": 0.033
+ },
+ {
+  "global_id": 185487,
+  "volume": 195246,
+  "deep_frac": 0.0101
+ },
+ {
+  "global_id": 97187,
+  "volume": 195178,
+  "deep_frac": 0.002
+ },
+ {
+  "global_id": 434906,
+  "volume": 195178,
+  "deep_frac": 0.0514
+ },
+ {
+  "global_id": 224033,
+  "volume": 195172,
+  "deep_frac": 0.0412
+ },
+ {
+  "global_id": 370119,
+  "volume": 195164,
+  "deep_frac": 0.0119
+ },
+ {
+  "global_id": 409545,
+  "volume": 195146,
+  "deep_frac": 0.0165
+ },
+ {
+  "global_id": 311777,
+  "volume": 195121,
+  "deep_frac": 0.0049
+ },
+ {
+  "global_id": 145908,
+  "volume": 195119,
+  "deep_frac": 0.025
+ },
+ {
+  "global_id": 481347,
+  "volume": 194922,
+  "deep_frac": 0.0123
+ },
+ {
+  "global_id": 404628,
+  "volume": 194676,
+  "deep_frac": 0.0036
+ },
+ {
+  "global_id": 266774,
+  "volume": 194638,
+  "deep_frac": 0.0726
+ },
+ {
+  "global_id": 162563,
+  "volume": 194635,
+  "deep_frac": 0.0074
+ },
+ {
+  "global_id": 352059,
+  "volume": 194565,
+  "deep_frac": 0.0094
+ },
+ {
+  "global_id": 340880,
+  "volume": 194468,
+  "deep_frac": 0.0031
+ },
+ {
+  "global_id": 295496,
+  "volume": 194312,
+  "deep_frac": 0.0319
+ },
+ {
+  "global_id": 225539,
+  "volume": 194284,
+  "deep_frac": 0.0811
+ },
+ {
+  "global_id": 454205,
+  "volume": 194283,
+  "deep_frac": 0.0306
+ },
+ {
+  "global_id": 412673,
+  "volume": 194261,
+  "deep_frac": 0.0382
+ },
+ {
+  "global_id": 336350,
+  "volume": 194209,
+  "deep_frac": 0.0271
+ },
+ {
+  "global_id": 500524,
+  "volume": 194109,
+  "deep_frac": 0.0592
+ },
+ {
+  "global_id": 202935,
+  "volume": 194063,
+  "deep_frac": 0.0441
+ },
+ {
+  "global_id": 317364,
+  "volume": 193964,
+  "deep_frac": 0.0432
+ },
+ {
+  "global_id": 99004,
+  "volume": 193745,
+  "deep_frac": 0.0037
+ },
+ {
+  "global_id": 231484,
+  "volume": 193576,
+  "deep_frac": 0.0245
+ },
+ {
+  "global_id": 119761,
+  "volume": 193552,
+  "deep_frac": 0.007
+ },
+ {
+  "global_id": 158916,
+  "volume": 193260,
+  "deep_frac": 0.0685
+ },
+ {
+  "global_id": 379348,
+  "volume": 193226,
+  "deep_frac": 0.0389
+ },
+ {
+  "global_id": 295016,
+  "volume": 192906,
+  "deep_frac": 0.0088
+ },
+ {
+  "global_id": 456172,
+  "volume": 192878,
+  "deep_frac": 0.0264
+ },
+ {
+  "global_id": 390171,
+  "volume": 192778,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 107655,
+  "volume": 192605,
+  "deep_frac": 0.0354
+ },
+ {
+  "global_id": 375505,
+  "volume": 192404,
+  "deep_frac": 0.0857
+ },
+ {
+  "global_id": 525097,
+  "volume": 192395,
+  "deep_frac": 0.004
+ },
+ {
+  "global_id": 362047,
+  "volume": 192392,
+  "deep_frac": 0.0255
+ },
+ {
+  "global_id": 328902,
+  "volume": 192193,
+  "deep_frac": 0.0481
+ },
+ {
+  "global_id": 164798,
+  "volume": 192101,
+  "deep_frac": 0.0973
+ },
+ {
+  "global_id": 501236,
+  "volume": 191933,
+  "deep_frac": 0.0319
+ },
+ {
+  "global_id": 484491,
+  "volume": 191884,
+  "deep_frac": 0.0682
+ },
+ {
+  "global_id": 454676,
+  "volume": 191859,
+  "deep_frac": 0.0305
+ },
+ {
+  "global_id": 118165,
+  "volume": 191744,
+  "deep_frac": 0.0168
+ },
+ {
+  "global_id": 563786,
+  "volume": 191575,
+  "deep_frac": 0.0382
+ },
+ {
+  "global_id": 406051,
+  "volume": 191420,
+  "deep_frac": 0.0639
+ },
+ {
+  "global_id": 502637,
+  "volume": 191310,
+  "deep_frac": 0.0213
+ },
+ {
+  "global_id": 338444,
+  "volume": 191206,
+  "deep_frac": 0.0355
+ },
+ {
+  "global_id": 317423,
+  "volume": 191036,
+  "deep_frac": 0.0065
+ },
+ {
+  "global_id": 395636,
+  "volume": 190981,
+  "deep_frac": 0.0279
+ },
+ {
+  "global_id": 54538,
+  "volume": 190938,
+  "deep_frac": 0.0721
+ },
+ {
+  "global_id": 246392,
+  "volume": 190769,
+  "deep_frac": 0.0753
+ },
+ {
+  "global_id": 172273,
+  "volume": 190643,
+  "deep_frac": 0.0805
+ },
+ {
+  "global_id": 357131,
+  "volume": 190641,
+  "deep_frac": 0.0149
+ },
+ {
+  "global_id": 58221,
+  "volume": 190603,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 336547,
+  "volume": 190591,
+  "deep_frac": 0.0926
+ },
+ {
+  "global_id": 169998,
+  "volume": 190529,
+  "deep_frac": 0.0374
+ },
+ {
+  "global_id": 206661,
+  "volume": 190456,
+  "deep_frac": 0.0701
+ },
+ {
+  "global_id": 79261,
+  "volume": 190283,
+  "deep_frac": 0.0938
+ },
+ {
+  "global_id": 168760,
+  "volume": 190168,
+  "deep_frac": 0.0053
+ },
+ {
+  "global_id": 53523,
+  "volume": 190117,
+  "deep_frac": 0.0553
+ },
+ {
+  "global_id": 431742,
+  "volume": 190098,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 342980,
+  "volume": 190026,
+  "deep_frac": 0.0597
+ },
+ {
+  "global_id": 344567,
+  "volume": 189886,
+  "deep_frac": 0.0075
+ },
+ {
+  "global_id": 327281,
+  "volume": 189865,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 407769,
+  "volume": 189649,
+  "deep_frac": 0.0038
+ },
+ {
+  "global_id": 349161,
+  "volume": 189572,
+  "deep_frac": 0.0049
+ },
+ {
+  "global_id": 416447,
+  "volume": 189541,
+  "deep_frac": 0.0079
+ },
+ {
+  "global_id": 119784,
+  "volume": 189535,
+  "deep_frac": 0.0145
+ },
+ {
+  "global_id": 332223,
+  "volume": 189454,
+  "deep_frac": 0.008
+ },
+ {
+  "global_id": 313849,
+  "volume": 189443,
+  "deep_frac": 0.0078
+ },
+ {
+  "global_id": 362447,
+  "volume": 189355,
+  "deep_frac": 0.0031
+ },
+ {
+  "global_id": 395560,
+  "volume": 189330,
+  "deep_frac": 0.0077
+ },
+ {
+  "global_id": 486135,
+  "volume": 189262,
+  "deep_frac": 0.0032
+ },
+ {
+  "global_id": 466462,
+  "volume": 189261,
+  "deep_frac": 0.0136
+ },
+ {
+  "global_id": 134848,
+  "volume": 189226,
+  "deep_frac": 0.0907
+ },
+ {
+  "global_id": 337407,
+  "volume": 189172,
+  "deep_frac": 0.0025
+ },
+ {
+  "global_id": 306970,
+  "volume": 189059,
+  "deep_frac": 0.0222
+ },
+ {
+  "global_id": 534791,
+  "volume": 189054,
+  "deep_frac": 0.0476
+ },
+ {
+  "global_id": 247838,
+  "volume": 188940,
+  "deep_frac": 0.065
+ },
+ {
+  "global_id": 323491,
+  "volume": 188737,
+  "deep_frac": 0.0092
+ },
+ {
+  "global_id": 300520,
+  "volume": 188664,
+  "deep_frac": 0.0842
+ },
+ {
+  "global_id": 362465,
+  "volume": 188660,
+  "deep_frac": 0.0032
+ },
+ {
+  "global_id": 116586,
+  "volume": 188656,
+  "deep_frac": 0.0246
+ },
+ {
+  "global_id": 328715,
+  "volume": 188645,
+  "deep_frac": 0.0036
+ },
+ {
+  "global_id": 71773,
+  "volume": 188643,
+  "deep_frac": 0.0929
+ },
+ {
+  "global_id": 86974,
+  "volume": 188597,
+  "deep_frac": 0.0246
+ },
+ {
+  "global_id": 420737,
+  "volume": 188576,
+  "deep_frac": 0.0242
+ },
+ {
+  "global_id": 322643,
+  "volume": 188563,
+  "deep_frac": 0.0066
+ },
+ {
+  "global_id": 147584,
+  "volume": 188558,
+  "deep_frac": 0.0046
+ },
+ {
+  "global_id": 97737,
+  "volume": 188478,
+  "deep_frac": 0.073
+ },
+ {
+  "global_id": 80063,
+  "volume": 188463,
+  "deep_frac": 0.0916
+ },
+ {
+  "global_id": 307505,
+  "volume": 188323,
+  "deep_frac": 0.0743
+ },
+ {
+  "global_id": 420175,
+  "volume": 188154,
+  "deep_frac": 0.0139
+ },
+ {
+  "global_id": 73101,
+  "volume": 188083,
+  "deep_frac": 0.0898
+ },
+ {
+  "global_id": 315871,
+  "volume": 188053,
+  "deep_frac": 0.0221
+ },
+ {
+  "global_id": 108992,
+  "volume": 188047,
+  "deep_frac": 0.0028
+ },
+ {
+  "global_id": 131919,
+  "volume": 187931,
+  "deep_frac": 0.0093
+ },
+ {
+  "global_id": 86955,
+  "volume": 187924,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 154526,
+  "volume": 187918,
+  "deep_frac": 0.0076
+ },
+ {
+  "global_id": 146936,
+  "volume": 187904,
+  "deep_frac": 0.0422
+ },
+ {
+  "global_id": 440998,
+  "volume": 187866,
+  "deep_frac": 0.0302
+ },
+ {
+  "global_id": 426939,
+  "volume": 187852,
+  "deep_frac": 0.0145
+ },
+ {
+  "global_id": 148485,
+  "volume": 187790,
+  "deep_frac": 0.0933
+ },
+ {
+  "global_id": 330228,
+  "volume": 187714,
+  "deep_frac": 0.0676
+ },
+ {
+  "global_id": 344137,
+  "volume": 187692,
+  "deep_frac": 0.0057
+ },
+ {
+  "global_id": 408957,
+  "volume": 187534,
+  "deep_frac": 0.0594
+ },
+ {
+  "global_id": 275109,
+  "volume": 187373,
+  "deep_frac": 0.0829
+ },
+ {
+  "global_id": 228790,
+  "volume": 187340,
+  "deep_frac": 0.0059
+ },
+ {
+  "global_id": 139869,
+  "volume": 187282,
+  "deep_frac": 0.0104
+ },
+ {
+  "global_id": 420767,
+  "volume": 187212,
+  "deep_frac": 0.0289
+ },
+ {
+  "global_id": 226756,
+  "volume": 187150,
+  "deep_frac": 0.0466
+ },
+ {
+  "global_id": 272504,
+  "volume": 187095,
+  "deep_frac": 0.0093
+ },
+ {
+  "global_id": 128449,
+  "volume": 186886,
+  "deep_frac": 0.0131
+ },
+ {
+  "global_id": 146700,
+  "volume": 186792,
+  "deep_frac": 0.0244
+ },
+ {
+  "global_id": 138237,
+  "volume": 186781,
+  "deep_frac": 0.0122
+ },
+ {
+  "global_id": 423147,
+  "volume": 186748,
+  "deep_frac": 0.0159
+ },
+ {
+  "global_id": 463245,
+  "volume": 186491,
+  "deep_frac": 0.0291
+ },
+ {
+  "global_id": 160650,
+  "volume": 186361,
+  "deep_frac": 0.0823
+ },
+ {
+  "global_id": 318775,
+  "volume": 186232,
+  "deep_frac": 0.003
+ },
+ {
+  "global_id": 119845,
+  "volume": 186186,
+  "deep_frac": 0.0176
+ },
+ {
+  "global_id": 357033,
+  "volume": 186157,
+  "deep_frac": 0.0031
+ },
+ {
+  "global_id": 523583,
+  "volume": 186060,
+  "deep_frac": 0.0369
+ },
+ {
+  "global_id": 197682,
+  "volume": 185996,
+  "deep_frac": 0.028
+ },
+ {
+  "global_id": 329522,
+  "volume": 185963,
+  "deep_frac": 0.0347
+ },
+ {
+  "global_id": 147596,
+  "volume": 185774,
+  "deep_frac": 0.0066
+ },
+ {
+  "global_id": 254453,
+  "volume": 185674,
+  "deep_frac": 0.0556
+ },
+ {
+  "global_id": 74372,
+  "volume": 185664,
+  "deep_frac": 0.0858
+ },
+ {
+  "global_id": 332115,
+  "volume": 185581,
+  "deep_frac": 0.0866
+ },
+ {
+  "global_id": 439852,
+  "volume": 185400,
+  "deep_frac": 0.032
+ },
+ {
+  "global_id": 284368,
+  "volume": 185236,
+  "deep_frac": 0.0061
+ },
+ {
+  "global_id": 84886,
+  "volume": 185223,
+  "deep_frac": 0.0825
+ },
+ {
+  "global_id": 155328,
+  "volume": 185155,
+  "deep_frac": 0.0269
+ },
+ {
+  "global_id": 294033,
+  "volume": 185108,
+  "deep_frac": 0.0753
+ },
+ {
+  "global_id": 329098,
+  "volume": 185035,
+  "deep_frac": 0.0124
+ },
+ {
+  "global_id": 363734,
+  "volume": 185017,
+  "deep_frac": 0.0431
+ },
+ {
+  "global_id": 318847,
+  "volume": 184696,
+  "deep_frac": 0.0235
+ },
+ {
+  "global_id": 461651,
+  "volume": 184689,
+  "deep_frac": 0.0928
+ },
+ {
+  "global_id": 377268,
+  "volume": 184624,
+  "deep_frac": 0.0137
+ },
+ {
+  "global_id": 484499,
+  "volume": 184614,
+  "deep_frac": 0.0634
+ },
+ {
+  "global_id": 328737,
+  "volume": 184463,
+  "deep_frac": 0.0106
+ },
+ {
+  "global_id": 372067,
+  "volume": 184449,
+  "deep_frac": 0.0107
+ },
+ {
+  "global_id": 250567,
+  "volume": 184202,
+  "deep_frac": 0.0393
+ },
+ {
+  "global_id": 167640,
+  "volume": 184026,
+  "deep_frac": 0.0288
+ },
+ {
+  "global_id": 187566,
+  "volume": 183885,
+  "deep_frac": 0.0025
+ },
+ {
+  "global_id": 260721,
+  "volume": 183872,
+  "deep_frac": 0.0071
+ },
+ {
+  "global_id": 412883,
+  "volume": 183793,
+  "deep_frac": 0.0705
+ },
+ {
+  "global_id": 189649,
+  "volume": 183780,
+  "deep_frac": 0.0718
+ },
+ {
+  "global_id": 63487,
+  "volume": 183750,
+  "deep_frac": 0.0722
+ },
+ {
+  "global_id": 146790,
+  "volume": 183698,
+  "deep_frac": 0.092
+ },
+ {
+  "global_id": 110248,
+  "volume": 183618,
+  "deep_frac": 0.0208
+ },
+ {
+  "global_id": 452900,
+  "volume": 183606,
+  "deep_frac": 0.0103
+ },
+ {
+  "global_id": 225599,
+  "volume": 183508,
+  "deep_frac": 0.0055
+ },
+ {
+  "global_id": 121201,
+  "volume": 183501,
+  "deep_frac": 0.0487
+ },
+ {
+  "global_id": 390159,
+  "volume": 183486,
+  "deep_frac": 0.009
+ },
+ {
+  "global_id": 352719,
+  "volume": 183430,
+  "deep_frac": 0.0427
+ },
+ {
+  "global_id": 234247,
+  "volume": 183293,
+  "deep_frac": 0.0136
+ },
+ {
+  "global_id": 464887,
+  "volume": 182933,
+  "deep_frac": 0.0026
+ },
+ {
+  "global_id": 209258,
+  "volume": 182919,
+  "deep_frac": 0.0366
+ },
+ {
+  "global_id": 165756,
+  "volume": 182777,
+  "deep_frac": 0.0781
+ },
+ {
+  "global_id": 407313,
+  "volume": 182585,
+  "deep_frac": 0.0329
+ },
+ {
+  "global_id": 151548,
+  "volume": 182575,
+  "deep_frac": 0.085
+ },
+ {
+  "global_id": 352118,
+  "volume": 182562,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 501797,
+  "volume": 182554,
+  "deep_frac": 0.0402
+ },
+ {
+  "global_id": 139898,
+  "volume": 182551,
+  "deep_frac": 0.0281
+ },
+ {
+  "global_id": 493163,
+  "volume": 182422,
+  "deep_frac": 0.0363
+ },
+ {
+  "global_id": 245617,
+  "volume": 182204,
+  "deep_frac": 0.0361
+ },
+ {
+  "global_id": 335513,
+  "volume": 182098,
+  "deep_frac": 0.0232
+ },
+ {
+  "global_id": 119665,
+  "volume": 182056,
+  "deep_frac": 0.0384
+ },
+ {
+  "global_id": 388323,
+  "volume": 182001,
+  "deep_frac": 0.0523
+ },
+ {
+  "global_id": 358678,
+  "volume": 181995,
+  "deep_frac": 0.008
+ },
+ {
+  "global_id": 120581,
+  "volume": 181969,
+  "deep_frac": 0.035
+ },
+ {
+  "global_id": 516258,
+  "volume": 181914,
+  "deep_frac": 0.0282
+ },
+ {
+  "global_id": 64398,
+  "volume": 181884,
+  "deep_frac": 0.0713
+ },
+ {
+  "global_id": 54369,
+  "volume": 181876,
+  "deep_frac": 0.0359
+ },
+ {
+  "global_id": 225497,
+  "volume": 181733,
+  "deep_frac": 0.0092
+ },
+ {
+  "global_id": 316451,
+  "volume": 181673,
+  "deep_frac": 0.0194
+ },
+ {
+  "global_id": 546266,
+  "volume": 181609,
+  "deep_frac": 0.0798
+ },
+ {
+  "global_id": 323999,
+  "volume": 181548,
+  "deep_frac": 0.0097
+ },
+ {
+  "global_id": 186921,
+  "volume": 181476,
+  "deep_frac": 0.0052
+ },
+ {
+  "global_id": 527567,
+  "volume": 181232,
+  "deep_frac": 0.0205
+ },
+ {
+  "global_id": 472815,
+  "volume": 181202,
+  "deep_frac": 0.0544
+ },
+ {
+  "global_id": 284384,
+  "volume": 181153,
+  "deep_frac": 0.0392
+ },
+ {
+  "global_id": 247642,
+  "volume": 181060,
+  "deep_frac": 0.0883
+ },
+ {
+  "global_id": 383551,
+  "volume": 181050,
+  "deep_frac": 0.0213
+ },
+ {
+  "global_id": 274477,
+  "volume": 181042,
+  "deep_frac": 0.0835
+ },
+ {
+  "global_id": 268488,
+  "volume": 180927,
+  "deep_frac": 0.0208
+ },
+ {
+  "global_id": 329505,
+  "volume": 180840,
+  "deep_frac": 0.0184
+ },
+ {
+  "global_id": 441946,
+  "volume": 180779,
+  "deep_frac": 0.0151
+ },
+ {
+  "global_id": 489725,
+  "volume": 180708,
+  "deep_frac": 0.0407
+ },
+ {
+  "global_id": 501981,
+  "volume": 180699,
+  "deep_frac": 0.074
+ },
+ {
+  "global_id": 501230,
+  "volume": 180684,
+  "deep_frac": 0.0695
+ },
+ {
+  "global_id": 95390,
+  "volume": 180683,
+  "deep_frac": 0.0049
+ },
+ {
+  "global_id": 415041,
+  "volume": 180674,
+  "deep_frac": 0.0191
+ },
+ {
+  "global_id": 498204,
+  "volume": 180671,
+  "deep_frac": 0.0615
+ },
+ {
+  "global_id": 70988,
+  "volume": 180573,
+  "deep_frac": 0.0305
+ },
+ {
+  "global_id": 184579,
+  "volume": 180496,
+  "deep_frac": 0.0222
+ },
+ {
+  "global_id": 125502,
+  "volume": 180477,
+  "deep_frac": 0.0044
+ },
+ {
+  "global_id": 299225,
+  "volume": 180446,
+  "deep_frac": 0.0079
+ },
+ {
+  "global_id": 293997,
+  "volume": 180434,
+  "deep_frac": 0.0405
+ },
+ {
+  "global_id": 179950,
+  "volume": 180402,
+  "deep_frac": 0.0197
+ },
+ {
+  "global_id": 314758,
+  "volume": 180240,
+  "deep_frac": 0.0108
+ },
+ {
+  "global_id": 108419,
+  "volume": 180167,
+  "deep_frac": 0.0734
+ },
+ {
+  "global_id": 335609,
+  "volume": 180139,
+  "deep_frac": 0.04
+ },
+ {
+  "global_id": 148627,
+  "volume": 179988,
+  "deep_frac": 0.0599
+ },
+ {
+  "global_id": 115634,
+  "volume": 179951,
+  "deep_frac": 0.0248
+ },
+ {
+  "global_id": 167655,
+  "volume": 179785,
+  "deep_frac": 0.0296
+ },
+ {
+  "global_id": 424176,
+  "volume": 179752,
+  "deep_frac": 0.0093
+ },
+ {
+  "global_id": 83324,
+  "volume": 179680,
+  "deep_frac": 0.0806
+ },
+ {
+  "global_id": 84500,
+  "volume": 179651,
+  "deep_frac": 0.0853
+ },
+ {
+  "global_id": 378442,
+  "volume": 179616,
+  "deep_frac": 0.0153
+ },
+ {
+  "global_id": 478338,
+  "volume": 179602,
+  "deep_frac": 0.0827
+ },
+ {
+  "global_id": 418944,
+  "volume": 179506,
+  "deep_frac": 0.0177
+ },
+ {
+  "global_id": 432557,
+  "volume": 179441,
+  "deep_frac": 0.0907
+ },
+ {
+  "global_id": 255535,
+  "volume": 179411,
+  "deep_frac": 0.059
+ },
+ {
+  "global_id": 108396,
+  "volume": 179261,
+  "deep_frac": 0.0274
+ },
+ {
+  "global_id": 52061,
+  "volume": 179246,
+  "deep_frac": 0.0086
+ },
+ {
+  "global_id": 489713,
+  "volume": 179161,
+  "deep_frac": 0.0833
+ },
+ {
+  "global_id": 429385,
+  "volume": 179144,
+  "deep_frac": 0.0079
+ },
+ {
+  "global_id": 286095,
+  "volume": 179105,
+  "deep_frac": 0.0473
+ },
+ {
+  "global_id": 306207,
+  "volume": 179092,
+  "deep_frac": 0.0194
+ },
+ {
+  "global_id": 430748,
+  "volume": 179064,
+  "deep_frac": 0.0567
+ },
+ {
+  "global_id": 140900,
+  "volume": 179050,
+  "deep_frac": 0.0643
+ },
+ {
+  "global_id": 317400,
+  "volume": 179023,
+  "deep_frac": 0.0014
+ },
+ {
+  "global_id": 467421,
+  "volume": 179023,
+  "deep_frac": 0.0545
+ },
+ {
+  "global_id": 588247,
+  "volume": 178938,
+  "deep_frac": 0.0266
+ },
+ {
+  "global_id": 432998,
+  "volume": 178910,
+  "deep_frac": 0.0224
+ },
+ {
+  "global_id": 318928,
+  "volume": 178823,
+  "deep_frac": 0.0037
+ },
+ {
+  "global_id": 376820,
+  "volume": 178545,
+  "deep_frac": 0.0021
+ },
+ {
+  "global_id": 486117,
+  "volume": 178437,
+  "deep_frac": 0.0134
+ },
+ {
+  "global_id": 243713,
+  "volume": 178395,
+  "deep_frac": 0.0437
+ },
+ {
+  "global_id": 514704,
+  "volume": 178273,
+  "deep_frac": 0.0806
+ },
+ {
+  "global_id": 409039,
+  "volume": 178257,
+  "deep_frac": 0.0262
+ },
+ {
+  "global_id": 147011,
+  "volume": 178227,
+  "deep_frac": 0.0532
+ },
+ {
+  "global_id": 326004,
+  "volume": 178096,
+  "deep_frac": 0.0039
+ },
+ {
+  "global_id": 531784,
+  "volume": 178062,
+  "deep_frac": 0.0582
+ },
+ {
+  "global_id": 288751,
+  "volume": 178044,
+  "deep_frac": 0.0038
+ },
+ {
+  "global_id": 262734,
+  "volume": 177951,
+  "deep_frac": 0.0555
+ },
+ {
+  "global_id": 424796,
+  "volume": 177934,
+  "deep_frac": 0.0893
+ },
+ {
+  "global_id": 305936,
+  "volume": 177930,
+  "deep_frac": 0.042
+ },
+ {
+  "global_id": 428000,
+  "volume": 177839,
+  "deep_frac": 0.0118
+ },
+ {
+  "global_id": 418627,
+  "volume": 177824,
+  "deep_frac": 0.0465
+ },
+ {
+  "global_id": 371107,
+  "volume": 177803,
+  "deep_frac": 0.0741
+ },
+ {
+  "global_id": 204439,
+  "volume": 177799,
+  "deep_frac": 0.0191
+ },
+ {
+  "global_id": 361482,
+  "volume": 177642,
+  "deep_frac": 0.0124
+ },
+ {
+  "global_id": 181378,
+  "volume": 177624,
+  "deep_frac": 0.0121
+ },
+ {
+  "global_id": 437694,
+  "volume": 177503,
+  "deep_frac": 0.0732
+ },
+ {
+  "global_id": 368718,
+  "volume": 177408,
+  "deep_frac": 0.01
+ },
+ {
+  "global_id": 468337,
+  "volume": 177275,
+  "deep_frac": 0.0684
+ },
+ {
+  "global_id": 401497,
+  "volume": 177181,
+  "deep_frac": 0.0109
+ },
+ {
+  "global_id": 413014,
+  "volume": 177150,
+  "deep_frac": 0.0174
+ },
+ {
+  "global_id": 421628,
+  "volume": 177123,
+  "deep_frac": 0.0312
+ },
+ {
+  "global_id": 312345,
+  "volume": 177081,
+  "deep_frac": 0.0043
+ },
+ {
+  "global_id": 141019,
+  "volume": 177069,
+  "deep_frac": 0.0584
+ },
+ {
+  "global_id": 49833,
+  "volume": 177060,
+  "deep_frac": 0.0574
+ },
+ {
+  "global_id": 456159,
+  "volume": 177013,
+  "deep_frac": 0.0434
+ },
+ {
+  "global_id": 229279,
+  "volume": 176968,
+  "deep_frac": 0.0667
+ },
+ {
+  "global_id": 388207,
+  "volume": 176947,
+  "deep_frac": 0.065
+ },
+ {
+  "global_id": 265936,
+  "volume": 176909,
+  "deep_frac": 0.0252
+ },
+ {
+  "global_id": 123657,
+  "volume": 176885,
+  "deep_frac": 0.0148
+ },
+ {
+  "global_id": 332212,
+  "volume": 176862,
+  "deep_frac": 0.013
+ },
+ {
+  "global_id": 76215,
+  "volume": 176790,
+  "deep_frac": 0.0789
+ },
+ {
+  "global_id": 472697,
+  "volume": 176712,
+  "deep_frac": 0.0063
+ },
+ {
+  "global_id": 254270,
+  "volume": 176632,
+  "deep_frac": 0.0376
+ },
+ {
+  "global_id": 420618,
+  "volume": 176471,
+  "deep_frac": 0.0129
+ },
+ {
+  "global_id": 99481,
+  "volume": 176470,
+  "deep_frac": 0.0727
+ },
+ {
+  "global_id": 439859,
+  "volume": 176439,
+  "deep_frac": 0.0085
+ },
+ {
+  "global_id": 118105,
+  "volume": 176428,
+  "deep_frac": 0.031
+ },
+ {
+  "global_id": 187965,
+  "volume": 176416,
+  "deep_frac": 0.0141
+ },
+ {
+  "global_id": 67407,
+  "volume": 176411,
+  "deep_frac": 0.0131
+ },
+ {
+  "global_id": 363287,
+  "volume": 176195,
+  "deep_frac": 0.0019
+ },
+ {
+  "global_id": 81144,
+  "volume": 176184,
+  "deep_frac": 0.0643
+ },
+ {
+  "global_id": 138451,
+  "volume": 175955,
+  "deep_frac": 0.0094
+ },
+ {
+  "global_id": 149262,
+  "volume": 175955,
+  "deep_frac": 0.0284
+ },
+ {
+  "global_id": 360481,
+  "volume": 175918,
+  "deep_frac": 0.0082
+ },
+ {
+  "global_id": 269658,
+  "volume": 175906,
+  "deep_frac": 0.0121
+ },
+ {
+  "global_id": 157315,
+  "volume": 175777,
+  "deep_frac": 0.0082
+ },
+ {
+  "global_id": 51603,
+  "volume": 175525,
+  "deep_frac": 0.013
+ },
+ {
+  "global_id": 172279,
+  "volume": 175472,
+  "deep_frac": 0.0672
+ },
+ {
+  "global_id": 375465,
+  "volume": 175419,
+  "deep_frac": 0.0767
+ },
+ {
+  "global_id": 205671,
+  "volume": 175363,
+  "deep_frac": 0.013
+ },
+ {
+  "global_id": 138754,
+  "volume": 175247,
+  "deep_frac": 0.0619
+ },
+ {
+  "global_id": 461001,
+  "volume": 175246,
+  "deep_frac": 0.0495
+ },
+ {
+  "global_id": 361093,
+  "volume": 175177,
+  "deep_frac": 0.0818
+ },
+ {
+  "global_id": 532809,
+  "volume": 175175,
+  "deep_frac": 0.0628
+ },
+ {
+  "global_id": 318337,
+  "volume": 175141,
+  "deep_frac": 0.0308
+ },
+ {
+  "global_id": 163930,
+  "volume": 174968,
+  "deep_frac": 0.0146
+ },
+ {
+  "global_id": 500590,
+  "volume": 174784,
+  "deep_frac": 0.0197
+ },
+ {
+  "global_id": 288775,
+  "volume": 174564,
+  "deep_frac": 0.014
+ },
+ {
+  "global_id": 428416,
+  "volume": 174499,
+  "deep_frac": 0.0567
+ },
+ {
+  "global_id": 409481,
+  "volume": 174395,
+  "deep_frac": 0.0374
+ },
+ {
+  "global_id": 323355,
+  "volume": 174390,
+  "deep_frac": 0.0098
+ },
+ {
+  "global_id": 394818,
+  "volume": 174342,
+  "deep_frac": 0.0222
+ },
+ {
+  "global_id": 53734,
+  "volume": 174320,
+  "deep_frac": 0.0555
+ },
+ {
+  "global_id": 372252,
+  "volume": 174266,
+  "deep_frac": 0.0194
+ },
+ {
+  "global_id": 289199,
+  "volume": 174165,
+  "deep_frac": 0.0201
+ },
+ {
+  "global_id": 485601,
+  "volume": 174089,
+  "deep_frac": 0.0095
+ },
+ {
+  "global_id": 451961,
+  "volume": 174020,
+  "deep_frac": 0.0116
+ },
+ {
+  "global_id": 386294,
+  "volume": 173982,
+  "deep_frac": 0.0275
+ },
+ {
+  "global_id": 523743,
+  "volume": 173972,
+  "deep_frac": 0.0028
+ },
+ {
+  "global_id": 124104,
+  "volume": 173908,
+  "deep_frac": 0.0453
+ },
+ {
+  "global_id": 261768,
+  "volume": 173872,
+  "deep_frac": 0.019
+ },
+ {
+  "global_id": 449327,
+  "volume": 173602,
+  "deep_frac": 0.0686
+ },
+ {
+  "global_id": 294435,
+  "volume": 173427,
+  "deep_frac": 0.038
+ },
+ {
+  "global_id": 186570,
+  "volume": 173348,
+  "deep_frac": 0.0286
+ },
+ {
+  "global_id": 342515,
+  "volume": 173342,
+  "deep_frac": 0.0145
+ },
+ {
+  "global_id": 167721,
+  "volume": 173341,
+  "deep_frac": 0.0338
+ },
+ {
+  "global_id": 571232,
+  "volume": 173298,
+  "deep_frac": 0.0916
+ },
+ {
+  "global_id": 118921,
+  "volume": 173263,
+  "deep_frac": 0.0261
+ },
+ {
+  "global_id": 477205,
+  "volume": 173227,
+  "deep_frac": 0.0393
+ },
+ {
+  "global_id": 315769,
+  "volume": 173201,
+  "deep_frac": 0.0109
+ },
+ {
+  "global_id": 108895,
+  "volume": 173175,
+  "deep_frac": 0.0069
+ },
+ {
+  "global_id": 142944,
+  "volume": 173089,
+  "deep_frac": 0.0831
+ },
+ {
+  "global_id": 588119,
+  "volume": 172963,
+  "deep_frac": 0.0321
+ },
+ {
+  "global_id": 261797,
+  "volume": 172929,
+  "deep_frac": 0.016
+ },
+ {
+  "global_id": 99537,
+  "volume": 172688,
+  "deep_frac": 0.0615
+ },
+ {
+  "global_id": 172459,
+  "volume": 172589,
+  "deep_frac": 0.0465
+ },
+ {
+  "global_id": 237846,
+  "volume": 172537,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 415965,
+  "volume": 172508,
+  "deep_frac": 0.0461
+ },
+ {
+  "global_id": 353003,
+  "volume": 172505,
+  "deep_frac": 0.0344
+ },
+ {
+  "global_id": 269068,
+  "volume": 172497,
+  "deep_frac": 0.0053
+ },
+ {
+  "global_id": 249756,
+  "volume": 172490,
+  "deep_frac": 0.044
+ },
+ {
+  "global_id": 434695,
+  "volume": 172356,
+  "deep_frac": 0.0291
+ },
+ {
+  "global_id": 125001,
+  "volume": 172291,
+  "deep_frac": 0.0841
+ },
+ {
+  "global_id": 87651,
+  "volume": 172213,
+  "deep_frac": 0.0444
+ },
+ {
+  "global_id": 99589,
+  "volume": 172208,
+  "deep_frac": 0.0076
+ },
+ {
+  "global_id": 409218,
+  "volume": 172115,
+  "deep_frac": 0.0687
+ },
+ {
+  "global_id": 396505,
+  "volume": 172080,
+  "deep_frac": 0.0026
+ },
+ {
+  "global_id": 586554,
+  "volume": 172071,
+  "deep_frac": 0.0255
+ },
+ {
+  "global_id": 125519,
+  "volume": 172054,
+  "deep_frac": 0.0035
+ },
+ {
+  "global_id": 295196,
+  "volume": 172030,
+  "deep_frac": 0.0862
+ },
+ {
+  "global_id": 315942,
+  "volume": 171885,
+  "deep_frac": 0.0058
+ },
+ {
+  "global_id": 225919,
+  "volume": 171883,
+  "deep_frac": 0.0142
+ },
+ {
+  "global_id": 411007,
+  "volume": 171857,
+  "deep_frac": 0.011
+ },
+ {
+  "global_id": 504823,
+  "volume": 171789,
+  "deep_frac": 0.0489
+ },
+ {
+  "global_id": 63512,
+  "volume": 171723,
+  "deep_frac": 0.0589
+ },
+ {
+  "global_id": 395265,
+  "volume": 171674,
+  "deep_frac": 0.0695
+ },
+ {
+  "global_id": 348800,
+  "volume": 171578,
+  "deep_frac": 0.0014
+ },
+ {
+  "global_id": 282875,
+  "volume": 171538,
+  "deep_frac": 0.0627
+ },
+ {
+  "global_id": 376205,
+  "volume": 171380,
+  "deep_frac": 0.0333
+ },
+ {
+  "global_id": 413382,
+  "volume": 171377,
+  "deep_frac": 0.0042
+ },
+ {
+  "global_id": 105340,
+  "volume": 171359,
+  "deep_frac": 0.0603
+ },
+ {
+  "global_id": 500660,
+  "volume": 171249,
+  "deep_frac": 0.0463
+ },
+ {
+  "global_id": 417802,
+  "volume": 171135,
+  "deep_frac": 0.0147
+ },
+ {
+  "global_id": 337110,
+  "volume": 171128,
+  "deep_frac": 0.0046
+ },
+ {
+  "global_id": 136568,
+  "volume": 171115,
+  "deep_frac": 0.0694
+ },
+ {
+  "global_id": 205719,
+  "volume": 171083,
+  "deep_frac": 0.0455
+ },
+ {
+  "global_id": 267360,
+  "volume": 171049,
+  "deep_frac": 0.0107
+ },
+ {
+  "global_id": 279281,
+  "volume": 171017,
+  "deep_frac": 0.0731
+ },
+ {
+  "global_id": 449716,
+  "volume": 171014,
+  "deep_frac": 0.0354
+ },
+ {
+  "global_id": 267283,
+  "volume": 171006,
+  "deep_frac": 0.0038
+ },
+ {
+  "global_id": 225650,
+  "volume": 170994,
+  "deep_frac": 0.0637
+ },
+ {
+  "global_id": 390674,
+  "volume": 170933,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 394832,
+  "volume": 170870,
+  "deep_frac": 0.0129
+ },
+ {
+  "global_id": 483270,
+  "volume": 170745,
+  "deep_frac": 0.0522
+ },
+ {
+  "global_id": 461177,
+  "volume": 170697,
+  "deep_frac": 0.0113
+ },
+ {
+  "global_id": 521701,
+  "volume": 170665,
+  "deep_frac": 0.0551
+ },
+ {
+  "global_id": 55779,
+  "volume": 170580,
+  "deep_frac": 0.0092
+ },
+ {
+  "global_id": 440487,
+  "volume": 170564,
+  "deep_frac": 0.0153
+ },
+ {
+  "global_id": 351280,
+  "volume": 170538,
+  "deep_frac": 0.0054
+ },
+ {
+  "global_id": 180062,
+  "volume": 170505,
+  "deep_frac": 0.015
+ },
+ {
+  "global_id": 270088,
+  "volume": 170453,
+  "deep_frac": 0.0477
+ },
+ {
+  "global_id": 111551,
+  "volume": 170439,
+  "deep_frac": 0.0168
+ },
+ {
+  "global_id": 422739,
+  "volume": 170379,
+  "deep_frac": 0.0471
+ },
+ {
+  "global_id": 401908,
+  "volume": 170285,
+  "deep_frac": 0.084
+ },
+ {
+  "global_id": 502635,
+  "volume": 170198,
+  "deep_frac": 0.0592
+ },
+ {
+  "global_id": 227866,
+  "volume": 170137,
+  "deep_frac": 0.0999
+ },
+ {
+  "global_id": 376449,
+  "volume": 170116,
+  "deep_frac": 0.0266
+ },
+ {
+  "global_id": 494205,
+  "volume": 170081,
+  "deep_frac": 0.0115
+ },
+ {
+  "global_id": 565991,
+  "volume": 170055,
+  "deep_frac": 0.0917
+ },
+ {
+  "global_id": 342194,
+  "volume": 169984,
+  "deep_frac": 0.0485
+ },
+ {
+  "global_id": 59163,
+  "volume": 169951,
+  "deep_frac": 0.0094
+ },
+ {
+  "global_id": 189352,
+  "volume": 169881,
+  "deep_frac": 0.0705
+ },
+ {
+  "global_id": 338416,
+  "volume": 169696,
+  "deep_frac": 0.0023
+ },
+ {
+  "global_id": 253628,
+  "volume": 169662,
+  "deep_frac": 0.0314
+ },
+ {
+  "global_id": 429183,
+  "volume": 169662,
+  "deep_frac": 0.0724
+ },
+ {
+  "global_id": 75293,
+  "volume": 169394,
+  "deep_frac": 0.0344
+ },
+ {
+  "global_id": 334883,
+  "volume": 169325,
+  "deep_frac": 0.0028
+ },
+ {
+  "global_id": 56739,
+  "volume": 169222,
+  "deep_frac": 0.0493
+ },
+ {
+  "global_id": 335231,
+  "volume": 169142,
+  "deep_frac": 0.014
+ },
+ {
+  "global_id": 275703,
+  "volume": 169128,
+  "deep_frac": 0.0389
+ },
+ {
+  "global_id": 319647,
+  "volume": 169123,
+  "deep_frac": 0.0091
+ },
+ {
+  "global_id": 262585,
+  "volume": 169070,
+  "deep_frac": 0.0985
+ },
+ {
+  "global_id": 267319,
+  "volume": 168881,
+  "deep_frac": 0.003
+ },
+ {
+  "global_id": 365522,
+  "volume": 168690,
+  "deep_frac": 0.0866
+ },
+ {
+  "global_id": 200219,
+  "volume": 168574,
+  "deep_frac": 0.0104
+ },
+ {
+  "global_id": 319908,
+  "volume": 168432,
+  "deep_frac": 0.0877
+ },
+ {
+  "global_id": 329988,
+  "volume": 168415,
+  "deep_frac": 0.0113
+ },
+ {
+  "global_id": 257820,
+  "volume": 168414,
+  "deep_frac": 0.0575
+ },
+ {
+  "global_id": 332765,
+  "volume": 168383,
+  "deep_frac": 0.0192
+ },
+ {
+  "global_id": 395227,
+  "volume": 168357,
+  "deep_frac": 0.018
+ },
+ {
+  "global_id": 559989,
+  "volume": 168331,
+  "deep_frac": 0.0159
+ },
+ {
+  "global_id": 53784,
+  "volume": 168323,
+  "deep_frac": 0.0807
+ },
+ {
+  "global_id": 457328,
+  "volume": 168281,
+  "deep_frac": 0.0999
+ },
+ {
+  "global_id": 121328,
+  "volume": 168214,
+  "deep_frac": 0.0104
+ },
+ {
+  "global_id": 374802,
+  "volume": 168117,
+  "deep_frac": 0.0168
+ },
+ {
+  "global_id": 498153,
+  "volume": 168106,
+  "deep_frac": 0.0759
+ },
+ {
+  "global_id": 448410,
+  "volume": 168076,
+  "deep_frac": 0.0236
+ },
+ {
+  "global_id": 289105,
+  "volume": 168049,
+  "deep_frac": 0.0843
+ },
+ {
+  "global_id": 50397,
+  "volume": 168020,
+  "deep_frac": 0.0941
+ },
+ {
+  "global_id": 393388,
+  "volume": 167924,
+  "deep_frac": 0.0466
+ },
+ {
+  "global_id": 393373,
+  "volume": 167901,
+  "deep_frac": 0.0629
+ },
+ {
+  "global_id": 517830,
+  "volume": 167841,
+  "deep_frac": 0.0805
+ },
+ {
+  "global_id": 132227,
+  "volume": 167835,
+  "deep_frac": 0.0016
+ },
+ {
+  "global_id": 415935,
+  "volume": 167625,
+  "deep_frac": 0.0188
+ },
+ {
+  "global_id": 151314,
+  "volume": 167606,
+  "deep_frac": 0.0206
+ },
+ {
+  "global_id": 526436,
+  "volume": 167595,
+  "deep_frac": 0.0601
+ },
+ {
+  "global_id": 351598,
+  "volume": 167551,
+  "deep_frac": 0.0073
+ },
+ {
+  "global_id": 253692,
+  "volume": 167480,
+  "deep_frac": 0.007
+ },
+ {
+  "global_id": 351605,
+  "volume": 167469,
+  "deep_frac": 0.0044
+ },
+ {
+  "global_id": 480692,
+  "volume": 167385,
+  "deep_frac": 0.0239
+ },
+ {
+  "global_id": 507179,
+  "volume": 167157,
+  "deep_frac": 0.068
+ },
+ {
+  "global_id": 552024,
+  "volume": 167137,
+  "deep_frac": 0.0189
+ },
+ {
+  "global_id": 180437,
+  "volume": 167069,
+  "deep_frac": 0.0684
+ },
+ {
+  "global_id": 511188,
+  "volume": 167023,
+  "deep_frac": 0.0955
+ },
+ {
+  "global_id": 153681,
+  "volume": 166952,
+  "deep_frac": 0.0652
+ },
+ {
+  "global_id": 422742,
+  "volume": 166937,
+  "deep_frac": 0.0184
+ },
+ {
+  "global_id": 253693,
+  "volume": 166905,
+  "deep_frac": 0.0198
+ },
+ {
+  "global_id": 155016,
+  "volume": 166904,
+  "deep_frac": 0.0214
+ },
+ {
+  "global_id": 539408,
+  "volume": 166682,
+  "deep_frac": 0.0781
+ },
+ {
+  "global_id": 339233,
+  "volume": 166673,
+  "deep_frac": 0.0535
+ },
+ {
+  "global_id": 189290,
+  "volume": 166652,
+  "deep_frac": 0.0213
+ },
+ {
+  "global_id": 451518,
+  "volume": 166649,
+  "deep_frac": 0.0537
+ },
+ {
+  "global_id": 82046,
+  "volume": 166590,
+  "deep_frac": 0.0262
+ },
+ {
+  "global_id": 307519,
+  "volume": 166561,
+  "deep_frac": 0.0165
+ },
+ {
+  "global_id": 337886,
+  "volume": 166548,
+  "deep_frac": 0.0067
+ },
+ {
+  "global_id": 466448,
+  "volume": 166543,
+  "deep_frac": 0.0232
+ },
+ {
+  "global_id": 169664,
+  "volume": 166476,
+  "deep_frac": 0.0323
+ },
+ {
+  "global_id": 294382,
+  "volume": 166404,
+  "deep_frac": 0.0083
+ },
+ {
+  "global_id": 371140,
+  "volume": 166348,
+  "deep_frac": 0.0656
+ },
+ {
+  "global_id": 282095,
+  "volume": 166342,
+  "deep_frac": 0.0221
+ },
+ {
+  "global_id": 305282,
+  "volume": 166258,
+  "deep_frac": 0.0045
+ },
+ {
+  "global_id": 466328,
+  "volume": 166147,
+  "deep_frac": 0.0591
+ },
+ {
+  "global_id": 466833,
+  "volume": 166128,
+  "deep_frac": 0.09
+ },
+ {
+  "global_id": 64457,
+  "volume": 166122,
+  "deep_frac": 0.0143
+ },
+ {
+  "global_id": 456820,
+  "volume": 166071,
+  "deep_frac": 0.0431
+ },
+ {
+  "global_id": 184745,
+  "volume": 166059,
+  "deep_frac": 0.049
+ },
+ {
+  "global_id": 407310,
+  "volume": 165988,
+  "deep_frac": 0.0224
+ },
+ {
+  "global_id": 465348,
+  "volume": 165982,
+  "deep_frac": 0.0676
+ },
+ {
+  "global_id": 246246,
+  "volume": 165908,
+  "deep_frac": 0.0675
+ },
+ {
+  "global_id": 119233,
+  "volume": 165876,
+  "deep_frac": 0.0038
+ },
+ {
+  "global_id": 465612,
+  "volume": 165871,
+  "deep_frac": 0.0649
+ },
+ {
+  "global_id": 259203,
+  "volume": 165712,
+  "deep_frac": 0.0405
+ },
+ {
+  "global_id": 338502,
+  "volume": 165679,
+  "deep_frac": 0.0112
+ },
+ {
+  "global_id": 333595,
+  "volume": 165487,
+  "deep_frac": 0.0908
+ },
+ {
+  "global_id": 68193,
+  "volume": 165313,
+  "deep_frac": 0.0248
+ },
+ {
+  "global_id": 323275,
+  "volume": 165289,
+  "deep_frac": 0.01
+ },
+ {
+  "global_id": 319582,
+  "volume": 165255,
+  "deep_frac": 0.0306
+ },
+ {
+  "global_id": 139117,
+  "volume": 165181,
+  "deep_frac": 0.0227
+ },
+ {
+  "global_id": 89237,
+  "volume": 165175,
+  "deep_frac": 0.0823
+ },
+ {
+  "global_id": 389413,
+  "volume": 165096,
+  "deep_frac": 0.0317
+ },
+ {
+  "global_id": 118103,
+  "volume": 165095,
+  "deep_frac": 0.094
+ },
+ {
+  "global_id": 311752,
+  "volume": 165086,
+  "deep_frac": 0.0186
+ },
+ {
+  "global_id": 375224,
+  "volume": 165040,
+  "deep_frac": 0.0047
+ },
+ {
+  "global_id": 228846,
+  "volume": 165029,
+  "deep_frac": 0.0342
+ },
+ {
+  "global_id": 482983,
+  "volume": 164987,
+  "deep_frac": 0.0163
+ },
+ {
+  "global_id": 382732,
+  "volume": 164956,
+  "deep_frac": 0.004
+ },
+ {
+  "global_id": 456074,
+  "volume": 164929,
+  "deep_frac": 0.0485
+ },
+ {
+  "global_id": 384738,
+  "volume": 164911,
+  "deep_frac": 0.0169
+ },
+ {
+  "global_id": 108432,
+  "volume": 164887,
+  "deep_frac": 0.0803
+ },
+ {
+  "global_id": 344058,
+  "volume": 164858,
+  "deep_frac": 0.019
+ },
+ {
+  "global_id": 92114,
+  "volume": 164837,
+  "deep_frac": 0.016
+ },
+ {
+  "global_id": 452897,
+  "volume": 164802,
+  "deep_frac": 0.0177
+ },
+ {
+  "global_id": 332729,
+  "volume": 164791,
+  "deep_frac": 0.0062
+ },
+ {
+  "global_id": 466435,
+  "volume": 164742,
+  "deep_frac": 0.015
+ },
+ {
+  "global_id": 384301,
+  "volume": 164550,
+  "deep_frac": 0.0408
+ },
+ {
+  "global_id": 488531,
+  "volume": 164515,
+  "deep_frac": 0.0163
+ },
+ {
+  "global_id": 54251,
+  "volume": 164498,
+  "deep_frac": 0.0324
+ },
+ {
+  "global_id": 315349,
+  "volume": 164487,
+  "deep_frac": 0.0073
+ },
+ {
+  "global_id": 486207,
+  "volume": 164460,
+  "deep_frac": 0.0475
+ },
+ {
+  "global_id": 430942,
+  "volume": 164394,
+  "deep_frac": 0.0185
+ },
+ {
+  "global_id": 396494,
+  "volume": 164308,
+  "deep_frac": 0.0134
+ },
+ {
+  "global_id": 318020,
+  "volume": 164302,
+  "deep_frac": 0.0136
+ },
+ {
+  "global_id": 659033,
+  "volume": 164260,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 419068,
+  "volume": 164227,
+  "deep_frac": 0.0098
+ },
+ {
+  "global_id": 137084,
+  "volume": 164202,
+  "deep_frac": 0.0056
+ },
+ {
+  "global_id": 408346,
+  "volume": 164136,
+  "deep_frac": 0.0119
+ },
+ {
+  "global_id": 109132,
+  "volume": 164088,
+  "deep_frac": 0.0281
+ },
+ {
+  "global_id": 428765,
+  "volume": 164065,
+  "deep_frac": 0.0511
+ },
+ {
+  "global_id": 99308,
+  "volume": 164024,
+  "deep_frac": 0.0272
+ },
+ {
+  "global_id": 70171,
+  "volume": 163985,
+  "deep_frac": 0.026
+ },
+ {
+  "global_id": 108872,
+  "volume": 163969,
+  "deep_frac": 0.0361
+ },
+ {
+  "global_id": 284344,
+  "volume": 163853,
+  "deep_frac": 0.0096
+ },
+ {
+  "global_id": 368038,
+  "volume": 163844,
+  "deep_frac": 0.0406
+ },
+ {
+  "global_id": 312499,
+  "volume": 163842,
+  "deep_frac": 0.0215
+ },
+ {
+  "global_id": 456226,
+  "volume": 163796,
+  "deep_frac": 0.0075
+ },
+ {
+  "global_id": 526640,
+  "volume": 163759,
+  "deep_frac": 0.0212
+ },
+ {
+  "global_id": 559002,
+  "volume": 163724,
+  "deep_frac": 0.0488
+ },
+ {
+  "global_id": 138819,
+  "volume": 163533,
+  "deep_frac": 0.0134
+ },
+ {
+  "global_id": 299645,
+  "volume": 163503,
+  "deep_frac": 0.0092
+ },
+ {
+  "global_id": 292508,
+  "volume": 163421,
+  "deep_frac": 0.0574
+ },
+ {
+  "global_id": 596307,
+  "volume": 163317,
+  "deep_frac": 0.0513
+ },
+ {
+  "global_id": 94240,
+  "volume": 163304,
+  "deep_frac": 0.0546
+ },
+ {
+  "global_id": 204695,
+  "volume": 163253,
+  "deep_frac": 0.0065
+ },
+ {
+  "global_id": 410145,
+  "volume": 163151,
+  "deep_frac": 0.0092
+ },
+ {
+  "global_id": 58227,
+  "volume": 163125,
+  "deep_frac": 0.0035
+ },
+ {
+  "global_id": 117836,
+  "volume": 162740,
+  "deep_frac": 0.0744
+ },
+ {
+  "global_id": 261762,
+  "volume": 162707,
+  "deep_frac": 0.0085
+ },
+ {
+  "global_id": 281648,
+  "volume": 162689,
+  "deep_frac": 0.0166
+ },
+ {
+  "global_id": 66502,
+  "volume": 162685,
+  "deep_frac": 0.0304
+ },
+ {
+  "global_id": 189792,
+  "volume": 162582,
+  "deep_frac": 0.0846
+ },
+ {
+  "global_id": 483393,
+  "volume": 162488,
+  "deep_frac": 0.0391
+ },
+ {
+  "global_id": 461656,
+  "volume": 162431,
+  "deep_frac": 0.0063
+ },
+ {
+  "global_id": 334955,
+  "volume": 162428,
+  "deep_frac": 0.0076
+ },
+ {
+  "global_id": 128365,
+  "volume": 162332,
+  "deep_frac": 0.017
+ },
+ {
+  "global_id": 391430,
+  "volume": 162327,
+  "deep_frac": 0.0493
+ },
+ {
+  "global_id": 393301,
+  "volume": 162138,
+  "deep_frac": 0.0085
+ },
+ {
+  "global_id": 566867,
+  "volume": 162114,
+  "deep_frac": 0.0872
+ },
+ {
+  "global_id": 324658,
+  "volume": 162104,
+  "deep_frac": 0.0183
+ },
+ {
+  "global_id": 536823,
+  "volume": 162083,
+  "deep_frac": 0.0296
+ },
+ {
+  "global_id": 84582,
+  "volume": 162004,
+  "deep_frac": 0.0276
+ },
+ {
+  "global_id": 269690,
+  "volume": 161957,
+  "deep_frac": 0.0074
+ },
+ {
+  "global_id": 606700,
+  "volume": 161890,
+  "deep_frac": 0.0753
+ },
+ {
+  "global_id": 366837,
+  "volume": 161871,
+  "deep_frac": 0.0069
+ },
+ {
+  "global_id": 435818,
+  "volume": 161785,
+  "deep_frac": 0.0767
+ },
+ {
+  "global_id": 371117,
+  "volume": 161601,
+  "deep_frac": 0.0426
+ },
+ {
+  "global_id": 443688,
+  "volume": 161520,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 292610,
+  "volume": 161505,
+  "deep_frac": 0.024
+ },
+ {
+  "global_id": 567749,
+  "volume": 161456,
+  "deep_frac": 0.0997
+ },
+ {
+  "global_id": 441380,
+  "volume": 161415,
+  "deep_frac": 0.0868
+ },
+ {
+  "global_id": 294810,
+  "volume": 161408,
+  "deep_frac": 0.0039
+ },
+ {
+  "global_id": 349174,
+  "volume": 161336,
+  "deep_frac": 0.0019
+ },
+ {
+  "global_id": 170452,
+  "volume": 161300,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 437035,
+  "volume": 161266,
+  "deep_frac": 0.021
+ },
+ {
+  "global_id": 117569,
+  "volume": 161184,
+  "deep_frac": 0.0581
+ },
+ {
+  "global_id": 522856,
+  "volume": 161183,
+  "deep_frac": 0.0527
+ },
+ {
+  "global_id": 79369,
+  "volume": 161180,
+  "deep_frac": 0.0201
+ },
+ {
+  "global_id": 79455,
+  "volume": 161169,
+  "deep_frac": 0.0127
+ },
+ {
+  "global_id": 311709,
+  "volume": 161086,
+  "deep_frac": 0.0285
+ },
+ {
+  "global_id": 294995,
+  "volume": 161068,
+  "deep_frac": 0.004
+ },
+ {
+  "global_id": 121100,
+  "volume": 161008,
+  "deep_frac": 0.0039
+ },
+ {
+  "global_id": 419119,
+  "volume": 160928,
+  "deep_frac": 0.0675
+ },
+ {
+  "global_id": 152208,
+  "volume": 160893,
+  "deep_frac": 0.0876
+ },
+ {
+  "global_id": 120081,
+  "volume": 160745,
+  "deep_frac": 0.0088
+ },
+ {
+  "global_id": 408328,
+  "volume": 160722,
+  "deep_frac": 0.0086
+ },
+ {
+  "global_id": 501327,
+  "volume": 160596,
+  "deep_frac": 0.0387
+ },
+ {
+  "global_id": 319634,
+  "volume": 160503,
+  "deep_frac": 0.015
+ },
+ {
+  "global_id": 94474,
+  "volume": 160470,
+  "deep_frac": 0.013
+ },
+ {
+  "global_id": 440828,
+  "volume": 160269,
+  "deep_frac": 0.0988
+ },
+ {
+  "global_id": 386372,
+  "volume": 160209,
+  "deep_frac": 0.0104
+ },
+ {
+  "global_id": 282979,
+  "volume": 160131,
+  "deep_frac": 0.01
+ },
+ {
+  "global_id": 363926,
+  "volume": 160119,
+  "deep_frac": 0.0365
+ },
+ {
+  "global_id": 408798,
+  "volume": 160080,
+  "deep_frac": 0.0257
+ },
+ {
+  "global_id": 341607,
+  "volume": 160053,
+  "deep_frac": 0.021
+ },
+ {
+  "global_id": 466452,
+  "volume": 160052,
+  "deep_frac": 0.0146
+ },
+ {
+  "global_id": 294844,
+  "volume": 160010,
+  "deep_frac": 0.0073
+ },
+ {
+  "global_id": 345919,
+  "volume": 160005,
+  "deep_frac": 0.0629
+ },
+ {
+  "global_id": 423759,
+  "volume": 159936,
+  "deep_frac": 0.0456
+ },
+ {
+  "global_id": 173459,
+  "volume": 159815,
+  "deep_frac": 0.075
+ },
+ {
+  "global_id": 361856,
+  "volume": 159791,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 125475,
+  "volume": 159778,
+  "deep_frac": 0.0212
+ },
+ {
+  "global_id": 186503,
+  "volume": 159774,
+  "deep_frac": 0.0293
+ },
+ {
+  "global_id": 467381,
+  "volume": 159746,
+  "deep_frac": 0.042
+ },
+ {
+  "global_id": 453290,
+  "volume": 159723,
+  "deep_frac": 0.0571
+ },
+ {
+  "global_id": 143385,
+  "volume": 159712,
+  "deep_frac": 0.0274
+ },
+ {
+  "global_id": 342698,
+  "volume": 159703,
+  "deep_frac": 0.0069
+ },
+ {
+  "global_id": 267247,
+  "volume": 159684,
+  "deep_frac": 0.0039
+ },
+ {
+  "global_id": 393197,
+  "volume": 159673,
+  "deep_frac": 0.0027
+ },
+ {
+  "global_id": 438383,
+  "volume": 159642,
+  "deep_frac": 0.0486
+ },
+ {
+  "global_id": 380601,
+  "volume": 159554,
+  "deep_frac": 0.0065
+ },
+ {
+  "global_id": 262763,
+  "volume": 159544,
+  "deep_frac": 0.0632
+ },
+ {
+  "global_id": 352929,
+  "volume": 159543,
+  "deep_frac": 0.0094
+ },
+ {
+  "global_id": 349704,
+  "volume": 159533,
+  "deep_frac": 0.0589
+ },
+ {
+  "global_id": 132215,
+  "volume": 159460,
+  "deep_frac": 0.0913
+ },
+ {
+  "global_id": 284424,
+  "volume": 159445,
+  "deep_frac": 0.0207
+ },
+ {
+  "global_id": 197691,
+  "volume": 159387,
+  "deep_frac": 0.0476
+ },
+ {
+  "global_id": 361064,
+  "volume": 159358,
+  "deep_frac": 0.023
+ },
+ {
+  "global_id": 351615,
+  "volume": 159120,
+  "deep_frac": 0.0085
+ },
+ {
+  "global_id": 404598,
+  "volume": 159048,
+  "deep_frac": 0.0055
+ },
+ {
+  "global_id": 531588,
+  "volume": 159031,
+  "deep_frac": 0.0367
+ },
+ {
+  "global_id": 470014,
+  "volume": 159018,
+  "deep_frac": 0.0903
+ },
+ {
+  "global_id": 120105,
+  "volume": 158930,
+  "deep_frac": 0.0113
+ },
+ {
+  "global_id": 466680,
+  "volume": 158689,
+  "deep_frac": 0.0117
+ },
+ {
+  "global_id": 254731,
+  "volume": 158672,
+  "deep_frac": 0.0822
+ },
+ {
+  "global_id": 395010,
+  "volume": 158588,
+  "deep_frac": 0.0105
+ },
+ {
+  "global_id": 388982,
+  "volume": 158580,
+  "deep_frac": 0.0084
+ },
+ {
+  "global_id": 431083,
+  "volume": 158570,
+  "deep_frac": 0.0204
+ },
+ {
+  "global_id": 149246,
+  "volume": 158471,
+  "deep_frac": 0.0589
+ },
+ {
+  "global_id": 321986,
+  "volume": 158448,
+  "deep_frac": 0.0106
+ },
+ {
+  "global_id": 228310,
+  "volume": 158364,
+  "deep_frac": 0.0569
+ },
+ {
+  "global_id": 500749,
+  "volume": 158298,
+  "deep_frac": 0.0511
+ },
+ {
+  "global_id": 463303,
+  "volume": 158238,
+  "deep_frac": 0.0883
+ },
+ {
+  "global_id": 373526,
+  "volume": 158198,
+  "deep_frac": 0.019
+ },
+ {
+  "global_id": 411819,
+  "volume": 158166,
+  "deep_frac": 0.0173
+ },
+ {
+  "global_id": 386329,
+  "volume": 158109,
+  "deep_frac": 0.0043
+ },
+ {
+  "global_id": 400576,
+  "volume": 157985,
+  "deep_frac": 0.0192
+ },
+ {
+  "global_id": 528274,
+  "volume": 157984,
+  "deep_frac": 0.0235
+ },
+ {
+  "global_id": 454201,
+  "volume": 157935,
+  "deep_frac": 0.0522
+ },
+ {
+  "global_id": 334953,
+  "volume": 157916,
+  "deep_frac": 0.0144
+ },
+ {
+  "global_id": 353428,
+  "volume": 157776,
+  "deep_frac": 0.035
+ },
+ {
+  "global_id": 121238,
+  "volume": 157687,
+  "deep_frac": 0.0286
+ },
+ {
+  "global_id": 507949,
+  "volume": 157487,
+  "deep_frac": 0.07
+ },
+ {
+  "global_id": 460954,
+  "volume": 157477,
+  "deep_frac": 0.0159
+ },
+ {
+  "global_id": 363026,
+  "volume": 157474,
+  "deep_frac": 0.0014
+ },
+ {
+  "global_id": 238288,
+  "volume": 157445,
+  "deep_frac": 0.0849
+ },
+ {
+  "global_id": 93494,
+  "volume": 157442,
+  "deep_frac": 0.0663
+ },
+ {
+  "global_id": 489410,
+  "volume": 157352,
+  "deep_frac": 0.0014
+ },
+ {
+  "global_id": 312901,
+  "volume": 157294,
+  "deep_frac": 0.0383
+ },
+ {
+  "global_id": 339493,
+  "volume": 157198,
+  "deep_frac": 0.024
+ },
+ {
+  "global_id": 521579,
+  "volume": 157130,
+  "deep_frac": 0.0576
+ },
+ {
+  "global_id": 126042,
+  "volume": 157127,
+  "deep_frac": 0.0352
+ },
+ {
+  "global_id": 395526,
+  "volume": 157088,
+  "deep_frac": 0.0058
+ },
+ {
+  "global_id": 523952,
+  "volume": 156999,
+  "deep_frac": 0.0779
+ },
+ {
+  "global_id": 475912,
+  "volume": 156982,
+  "deep_frac": 0.0249
+ },
+ {
+  "global_id": 325233,
+  "volume": 156853,
+  "deep_frac": 0.0151
+ },
+ {
+  "global_id": 392621,
+  "volume": 156806,
+  "deep_frac": 0.0045
+ },
+ {
+  "global_id": 112150,
+  "volume": 156726,
+  "deep_frac": 0.0232
+ },
+ {
+  "global_id": 349115,
+  "volume": 156719,
+  "deep_frac": 0.0012
+ },
+ {
+  "global_id": 269689,
+  "volume": 156714,
+  "deep_frac": 0.0137
+ },
+ {
+  "global_id": 420065,
+  "volume": 156557,
+  "deep_frac": 0.0365
+ },
+ {
+  "global_id": 475801,
+  "volume": 156494,
+  "deep_frac": 0.0875
+ },
+ {
+  "global_id": 367982,
+  "volume": 156473,
+  "deep_frac": 0.0752
+ },
+ {
+  "global_id": 164826,
+  "volume": 156330,
+  "deep_frac": 0.0323
+ },
+ {
+  "global_id": 376032,
+  "volume": 156328,
+  "deep_frac": 0.0157
+ },
+ {
+  "global_id": 220475,
+  "volume": 156252,
+  "deep_frac": 0.0752
+ },
+ {
+  "global_id": 560424,
+  "volume": 156241,
+  "deep_frac": 0.0671
+ },
+ {
+  "global_id": 86976,
+  "volume": 156165,
+  "deep_frac": 0.0071
+ },
+ {
+  "global_id": 370756,
+  "volume": 156143,
+  "deep_frac": 0.0073
+ },
+ {
+  "global_id": 390170,
+  "volume": 156090,
+  "deep_frac": 0.0342
+ },
+ {
+  "global_id": 441928,
+  "volume": 156011,
+  "deep_frac": 0.0275
+ },
+ {
+  "global_id": 144763,
+  "volume": 156008,
+  "deep_frac": 0.0735
+ },
+ {
+  "global_id": 405368,
+  "volume": 155913,
+  "deep_frac": 0.005
+ },
+ {
+  "global_id": 375632,
+  "volume": 155815,
+  "deep_frac": 0.0522
+ },
+ {
+  "global_id": 318913,
+  "volume": 155786,
+  "deep_frac": 0.0048
+ },
+ {
+  "global_id": 484415,
+  "volume": 155731,
+  "deep_frac": 0.0262
+ },
+ {
+  "global_id": 480713,
+  "volume": 155728,
+  "deep_frac": 0.066
+ },
+ {
+  "global_id": 107653,
+  "volume": 155726,
+  "deep_frac": 0.0398
+ },
+ {
+  "global_id": 204766,
+  "volume": 155722,
+  "deep_frac": 0.0125
+ },
+ {
+  "global_id": 81424,
+  "volume": 155717,
+  "deep_frac": 0.0085
+ },
+ {
+  "global_id": 369642,
+  "volume": 155663,
+  "deep_frac": 0.0136
+ },
+ {
+  "global_id": 344152,
+  "volume": 155646,
+  "deep_frac": 0.0043
+ },
+ {
+  "global_id": 118872,
+  "volume": 155621,
+  "deep_frac": 0.0294
+ },
+ {
+  "global_id": 453283,
+  "volume": 155391,
+  "deep_frac": 0.0933
+ },
+ {
+  "global_id": 384360,
+  "volume": 155329,
+  "deep_frac": 0.0552
+ },
+ {
+  "global_id": 401322,
+  "volume": 155264,
+  "deep_frac": 0.0239
+ },
+ {
+  "global_id": 591718,
+  "volume": 155205,
+  "deep_frac": 0.0872
+ },
+ {
+  "global_id": 391439,
+  "volume": 155201,
+  "deep_frac": 0.0088
+ },
+ {
+  "global_id": 414552,
+  "volume": 155177,
+  "deep_frac": 0.024
+ },
+ {
+  "global_id": 499726,
+  "volume": 155076,
+  "deep_frac": 0.0563
+ },
+ {
+  "global_id": 368635,
+  "volume": 154932,
+  "deep_frac": 0.0227
+ },
+ {
+  "global_id": 289178,
+  "volume": 154921,
+  "deep_frac": 0.0113
+ },
+ {
+  "global_id": 111533,
+  "volume": 154876,
+  "deep_frac": 0.0679
+ },
+ {
+  "global_id": 312325,
+  "volume": 154835,
+  "deep_frac": 0.0713
+ },
+ {
+  "global_id": 151496,
+  "volume": 154814,
+  "deep_frac": 0.0832
+ },
+ {
+  "global_id": 377224,
+  "volume": 154792,
+  "deep_frac": 0.0035
+ },
+ {
+  "global_id": 371667,
+  "volume": 154693,
+  "deep_frac": 0.0513
+ },
+ {
+  "global_id": 228354,
+  "volume": 154488,
+  "deep_frac": 0.0748
+ },
+ {
+  "global_id": 428030,
+  "volume": 154417,
+  "deep_frac": 0.007
+ },
+ {
+  "global_id": 127753,
+  "volume": 154198,
+  "deep_frac": 0.0042
+ },
+ {
+  "global_id": 181332,
+  "volume": 154177,
+  "deep_frac": 0.079
+ },
+ {
+  "global_id": 326302,
+  "volume": 154093,
+  "deep_frac": 0.0047
+ },
+ {
+  "global_id": 284349,
+  "volume": 154064,
+  "deep_frac": 0.0317
+ },
+ {
+  "global_id": 187885,
+  "volume": 154063,
+  "deep_frac": 0.008
+ },
+ {
+  "global_id": 293740,
+  "volume": 154038,
+  "deep_frac": 0.0682
+ },
+ {
+  "global_id": 405429,
+  "volume": 153973,
+  "deep_frac": 0.0133
+ },
+ {
+  "global_id": 178995,
+  "volume": 153970,
+  "deep_frac": 0.0626
+ },
+ {
+  "global_id": 142555,
+  "volume": 153845,
+  "deep_frac": 0.0142
+ },
+ {
+  "global_id": 96020,
+  "volume": 153804,
+  "deep_frac": 0.0696
+ },
+ {
+  "global_id": 180723,
+  "volume": 153691,
+  "deep_frac": 0.0701
+ },
+ {
+  "global_id": 137074,
+  "volume": 153644,
+  "deep_frac": 0.0887
+ },
+ {
+  "global_id": 447340,
+  "volume": 153441,
+  "deep_frac": 0.0469
+ },
+ {
+  "global_id": 340425,
+  "volume": 153397,
+  "deep_frac": 0.047
+ },
+ {
+  "global_id": 421159,
+  "volume": 153240,
+  "deep_frac": 0.0478
+ },
+ {
+  "global_id": 400538,
+  "volume": 153094,
+  "deep_frac": 0.0257
+ },
+ {
+  "global_id": 369197,
+  "volume": 153007,
+  "deep_frac": 0.0051
+ },
+ {
+  "global_id": 446390,
+  "volume": 152979,
+  "deep_frac": 0.0142
+ },
+ {
+  "global_id": 331288,
+  "volume": 152954,
+  "deep_frac": 0.0116
+ },
+ {
+  "global_id": 228276,
+  "volume": 152937,
+  "deep_frac": 0.0211
+ },
+ {
+  "global_id": 466486,
+  "volume": 152924,
+  "deep_frac": 0.0154
+ },
+ {
+  "global_id": 523805,
+  "volume": 152906,
+  "deep_frac": 0.0038
+ },
+ {
+  "global_id": 376060,
+  "volume": 152902,
+  "deep_frac": 0.0293
+ },
+ {
+  "global_id": 413334,
+  "volume": 152861,
+  "deep_frac": 0.0437
+ },
+ {
+  "global_id": 162519,
+  "volume": 152824,
+  "deep_frac": 0.0794
+ },
+ {
+  "global_id": 109183,
+  "volume": 152776,
+  "deep_frac": 0.0467
+ },
+ {
+  "global_id": 353971,
+  "volume": 152761,
+  "deep_frac": 0.0329
+ },
+ {
+  "global_id": 326760,
+  "volume": 152729,
+  "deep_frac": 0.0058
+ },
+ {
+  "global_id": 480276,
+  "volume": 152557,
+  "deep_frac": 0.0736
+ },
+ {
+  "global_id": 382704,
+  "volume": 152546,
+  "deep_frac": 0.0112
+ },
+ {
+  "global_id": 358178,
+  "volume": 152534,
+  "deep_frac": 0.0028
+ },
+ {
+  "global_id": 117995,
+  "volume": 152532,
+  "deep_frac": 0.0212
+ },
+ {
+  "global_id": 203841,
+  "volume": 152507,
+  "deep_frac": 0.0304
+ },
+ {
+  "global_id": 454263,
+  "volume": 152506,
+  "deep_frac": 0.0129
+ },
+ {
+  "global_id": 491508,
+  "volume": 152498,
+  "deep_frac": 0.0554
+ },
+ {
+  "global_id": 336513,
+  "volume": 152364,
+  "deep_frac": 0.022
+ },
+ {
+  "global_id": 254449,
+  "volume": 152361,
+  "deep_frac": 0.0221
+ },
+ {
+  "global_id": 523784,
+  "volume": 152301,
+  "deep_frac": 0.0093
+ },
+ {
+  "global_id": 68520,
+  "volume": 152299,
+  "deep_frac": 0.0208
+ },
+ {
+  "global_id": 524414,
+  "volume": 152209,
+  "deep_frac": 0.0563
+ },
+ {
+  "global_id": 136534,
+  "volume": 152201,
+  "deep_frac": 0.0256
+ },
+ {
+  "global_id": 335570,
+  "volume": 152163,
+  "deep_frac": 0.0444
+ },
+ {
+  "global_id": 307508,
+  "volume": 152132,
+  "deep_frac": 0.021
+ },
+ {
+  "global_id": 441973,
+  "volume": 152054,
+  "deep_frac": 0.0041
+ },
+ {
+  "global_id": 194074,
+  "volume": 152034,
+  "deep_frac": 0.0506
+ },
+ {
+  "global_id": 113906,
+  "volume": 152008,
+  "deep_frac": 0.0858
+ },
+ {
+  "global_id": 128717,
+  "volume": 151978,
+  "deep_frac": 0.0715
+ },
+ {
+  "global_id": 538306,
+  "volume": 151857,
+  "deep_frac": 0.07
+ },
+ {
+  "global_id": 147503,
+  "volume": 151849,
+  "deep_frac": 0.0061
+ },
+ {
+  "global_id": 437782,
+  "volume": 151808,
+  "deep_frac": 0.0301
+ },
+ {
+  "global_id": 426954,
+  "volume": 151754,
+  "deep_frac": 0.0039
+ },
+ {
+  "global_id": 532636,
+  "volume": 151751,
+  "deep_frac": 0.066
+ },
+ {
+  "global_id": 336723,
+  "volume": 151691,
+  "deep_frac": 0.047
+ },
+ {
+  "global_id": 442429,
+  "volume": 151677,
+  "deep_frac": 0.0242
+ },
+ {
+  "global_id": 73123,
+  "volume": 151503,
+  "deep_frac": 0.0553
+ },
+ {
+  "global_id": 504519,
+  "volume": 151469,
+  "deep_frac": 0.0268
+ },
+ {
+  "global_id": 320593,
+  "volume": 151345,
+  "deep_frac": 0.0033
+ },
+ {
+  "global_id": 532864,
+  "volume": 151342,
+  "deep_frac": 0.0788
+ },
+ {
+  "global_id": 123301,
+  "volume": 151299,
+  "deep_frac": 0.0939
+ },
+ {
+  "global_id": 112922,
+  "volume": 151295,
+  "deep_frac": 0.0093
+ },
+ {
+  "global_id": 374069,
+  "volume": 151215,
+  "deep_frac": 0.0299
+ },
+ {
+  "global_id": 313504,
+  "volume": 151168,
+  "deep_frac": 0.0079
+ },
+ {
+  "global_id": 328182,
+  "volume": 151127,
+  "deep_frac": 0.0028
+ },
+ {
+  "global_id": 188283,
+  "volume": 151123,
+  "deep_frac": 0.0075
+ },
+ {
+  "global_id": 271069,
+  "volume": 151044,
+  "deep_frac": 0.0978
+ },
+ {
+  "global_id": 455694,
+  "volume": 150987,
+  "deep_frac": 0.0319
+ },
+ {
+  "global_id": 336622,
+  "volume": 150940,
+  "deep_frac": 0.0572
+ },
+ {
+  "global_id": 285058,
+  "volume": 150933,
+  "deep_frac": 0.0295
+ },
+ {
+  "global_id": 422131,
+  "volume": 150817,
+  "deep_frac": 0.0361
+ },
+ {
+  "global_id": 57060,
+  "volume": 150714,
+  "deep_frac": 0.0707
+ },
+ {
+  "global_id": 360487,
+  "volume": 150672,
+  "deep_frac": 0.0099
+ },
+ {
+  "global_id": 420756,
+  "volume": 150525,
+  "deep_frac": 0.02
+ },
+ {
+  "global_id": 393645,
+  "volume": 150515,
+  "deep_frac": 0.0066
+ },
+ {
+  "global_id": 203674,
+  "volume": 150470,
+  "deep_frac": 0.0995
+ },
+ {
+  "global_id": 87957,
+  "volume": 150364,
+  "deep_frac": 0.0369
+ },
+ {
+  "global_id": 557263,
+  "volume": 150266,
+  "deep_frac": 0.0485
+ },
+ {
+  "global_id": 308304,
+  "volume": 150252,
+  "deep_frac": 0.0169
+ },
+ {
+  "global_id": 622937,
+  "volume": 150244,
+  "deep_frac": 0.0744
+ },
+ {
+  "global_id": 548,
+  "volume": 150214,
+  "deep_frac": 0.0497
+ },
+ {
+  "global_id": 225546,
+  "volume": 150208,
+  "deep_frac": 0.0069
+ },
+ {
+  "global_id": 132193,
+  "volume": 150195,
+  "deep_frac": 0.0382
+ },
+ {
+  "global_id": 118931,
+  "volume": 150143,
+  "deep_frac": 0.0036
+ },
+ {
+  "global_id": 391025,
+  "volume": 150039,
+  "deep_frac": 0.0061
+ },
+ {
+  "global_id": 62064,
+  "volume": 150025,
+  "deep_frac": 0.0728
+ }
+]
