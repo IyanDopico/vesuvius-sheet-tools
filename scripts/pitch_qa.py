@@ -14,11 +14,16 @@ second calibration anchor pscamillo asked for:
   3. Per-(z,theta) CSV export so raw-prediction counts (pscamillo) can be
      crossed with stitched counts cell by cell.
 
-Usage: python scripts/pitch_qa.py output/scroll_run [theta_step_deg]
+Usage: python scripts/pitch_qa.py output/scroll_run [theta_step_deg] [--positions]
 Outputs in run dir: pitch_qa.json, pitch_qa_cells.csv, pitch_qa_figure.png
+With --positions, also pitch_qa_ray_positions.csv.gz: the raw sub-voxel
+crossing centroids per ray (z, theta_deg, k, r_l1_vox, r_um), r measured along
+the ray from the per-slice mask centroid, appended per slab and resumable —
+this is the crossing-by-crossing data behind pitch_qa_cells.csv.
 """
 
 import csv
+import gzip
 import json
 import re
 import sys
@@ -87,7 +92,8 @@ def slab_canvases(run: Path, z0: int) -> dict[int, np.ndarray] | None:
 
 
 def ray_metrics(canvas: np.ndarray, theta_step: float):
-    """Per ray: distinct-id count, pitch (um) from run centroids, span, ratio."""
+    """Per ray: distinct-id count, pitch (um) from run centroids, span, ratio,
+    plus the raw sub-voxel crossing centroids (r along the ray, L1 voxels)."""
     ys, xs = np.nonzero(canvas)
     if len(ys) == 0:
         return None
@@ -95,6 +101,7 @@ def ray_metrics(canvas: np.ndarray, theta_step: float):
     r_max = int(np.hypot(max(cy, GRID - cy), max(cx, GRID - cx)))
     rr = np.arange(0, r_max, 1.0)
     out = []
+    cents = []
     for th in np.deg2rad(np.arange(0, 360, theta_step)):
         py = np.clip((cy + rr * np.sin(th)).astype(int), 0, GRID - 1)
         px = np.clip((cx + rr * np.cos(th)).astype(int), 0, GRID - 1)
@@ -104,12 +111,14 @@ def ray_metrics(canvas: np.ndarray, theta_step: float):
         nz = ids > 0
         if not nz.any():
             out.append((n_distinct, np.nan, np.nan, np.nan))
+            cents.append(np.empty(0))
             continue
         idx = np.flatnonzero(nz)
         breaks = np.flatnonzero(np.diff(idx) > 1)
         run_starts = np.concatenate([[idx[0]], idx[breaks + 1]])
         run_ends = np.concatenate([idx[breaks], [idx[-1]]])
         centroids = (run_starts + run_ends) / 2.0
+        cents.append(centroids)
         if len(centroids) < 3:
             out.append((n_distinct, np.nan, np.nan, np.nan))
             continue
@@ -119,12 +128,14 @@ def ray_metrics(canvas: np.ndarray, theta_step: float):
         expected = span / pitch_vox + 1 if pitch_vox > 0 else np.nan
         out.append((n_distinct, pitch_vox * UM_PER_VOX, span * UM_PER_VOX,
                     n_distinct / expected if expected and expected > 0 else np.nan))
-    return out, (cy, cx)
+    return out, cents, (cy, cx)
 
 
 def main() -> None:
     run = Path(sys.argv[1])
-    theta_step = float(sys.argv[2]) if len(sys.argv) > 2 else 6.0
+    want_pos = "--positions" in sys.argv[2:]
+    extra = [a for a in sys.argv[2:] if a != "--positions"]
+    theta_step = float(extra[0]) if extra else 6.0
     z0s = sorted(int(p.name[1:]) for p in (run / "blocks").iterdir()
                  if p.name.startswith("z"))
 
@@ -149,26 +160,54 @@ def main() -> None:
                 ["z", "theta_deg", "n_distinct", "pitch_um", "span_um",
                  "counted_over_expected"])
 
+    # positions file follows the same per-slab append/resume protocol, tracked
+    # independently so it can be backfilled after a cells-only run.
+    pos_path = run / "pitch_qa_ray_positions.csv.gz"
+    done_pos: set = set()
+    if want_pos:
+        if pos_path.exists():
+            with gzip.open(pos_path, "rt", newline="") as fh:
+                zs_in_pos = {int(float(r[0])) for r in csv.reader(fh)
+                             if r and r[0] != "z"}
+            done_pos = {z0 for z0 in z0s if (z0 + Z_LOCALS[-1]) in zs_in_pos}
+            print(f"positions resume: skipping slabs {sorted(done_pos)}",
+                  flush=True)
+        else:
+            with gzip.open(pos_path, "wt", newline="") as fh:
+                csv.writer(fh).writerow(
+                    ["z", "theta_deg", "k", "r_l1_vox", "r_um"])
+
     for z0 in z0s:
-        if z0 in done_z0:
+        skip_cells = z0 in done_z0
+        skip_pos = (not want_pos) or z0 in done_pos
+        if skip_cells and skip_pos:
             continue
         canvases = slab_canvases(run, z0)
         if canvases is None:
             continue
         slab_rows = []
+        pos_rows = []
         for zl, canvas in canvases.items():
             res = ray_metrics(canvas, theta_step)
             if res is None:
                 continue
-            metrics, _ = res
+            metrics, cents, _ = res
             for i, (n, pitch, span, ratio) in enumerate(metrics):
                 slab_rows.append((z0 + zl, i * theta_step, n, pitch, span,
                                   ratio))
-        rows.extend(slab_rows)
-        with open(csv_path, "a", newline="") as fh:
-            csv.writer(fh).writerows(slab_rows)
+                for k, r in enumerate(cents[i]):
+                    pos_rows.append((z0 + zl, i * theta_step, k,
+                                     round(float(r), 2),
+                                     round(float(r) * UM_PER_VOX, 1)))
+        if not skip_cells:
+            rows.extend(slab_rows)
+            with open(csv_path, "a", newline="") as fh:
+                csv.writer(fh).writerows(slab_rows)
+        if not skip_pos:
+            with gzip.open(pos_path, "at", newline="") as fh:
+                csv.writer(fh).writerows(pos_rows)
         p_valid = [r[3] for r in rows if not np.isnan(r[3])]
-        print(f"slab z{z0}: {len(rows)} cells so far, "
+        print(f"slab z{z0}: {len(rows)} cells, {len(pos_rows)} positions, "
               f"pitch median {np.median(p_valid):.1f} um" if p_valid else
               f"slab z{z0}: no valid pitch yet", flush=True)
 
