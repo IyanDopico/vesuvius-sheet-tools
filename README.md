@@ -51,6 +51,15 @@ Outputs (renders + `.npy` label crops) land in `output/`.
 | `assemble_scroll.py` | Local assembly: stitches per-slab outputs across z into one scroll-global instance table |
 | `layer_count_qa.py` | Label-free QA: per-ray layer counts over (z,θ) — flags seam errors via count deviations |
 | `diagnose_stitch.py` | Classifies stitching disagreement (fixable fragmentation vs genuine ambiguity) |
+| `pitch_qa.py` | QA v2: winding pitch from sub-voxel crossing centroids, boundary decomposition, per-(z,θ) cell CSV; `--positions` emits raw per-ray crossing positions |
+| `inject_seam_error.py` | Negative control: injects known stitch errors to calibrate the QA's detection floor |
+| `make_profile_figure.py` | Renders the whole-scroll layer-count profile figure |
+| `split_patch.py` | Patch-mode OFF/ON entry point: the watershed+splitter pipeline on a GT surface patch, self-calibrated from the GT's own sheet thickness (topology eval, issue #1) |
+
+Constraint-generation tools (umbilicus, same/relative windings, validation,
+packing, seed patch, spiral-sense measurement) live in
+[`scripts/constraints/`](scripts/constraints) — see
+[docs/constraints.md](docs/constraints.md).
 
 All tools are multi-scroll: sample configs (volume/prediction URLs and pyramid
 alignment) live in the `SCROLLS` dict in `clean_surface_prediction.py` — adding a
@@ -179,7 +188,38 @@ interior plateau, densening to 52 near the base, collapse at the flat end:
 
 ![layer count profile](docs/images/pherc1218_layer_count_profile.png)
 
-Next step: the instance labels are turned into sparse winding constraints for the official spiral fit — see [docs/constraints.md](docs/constraints.md).
+### Pitch QA (v2)
+
+`pitch_qa.py` measures the winding pitch from sub-voxel crossing centroids
+over 24,960 (z,θ) cells: **median 173 µm (IQR 147–199)** on the stitched
+labels — independently confirmed at 172.8 µm by the Winding Atlas's
+finer-pyramid rerun on this scroll. Per-cell data:
+[docs/data/pitch_qa_cells.csv](docs/data/pitch_qa_cells.csv), summary:
+[docs/data/pitch_qa.json](docs/data/pitch_qa.json), negative-control
+calibration: [docs/data/negative_control.json](docs/data/negative_control.json)
+(the unpaired N(z) profile detects seam events merging ≳7% of a slab's wraps).
+
+### Spiral-fit input pack + first fitted surfaces
+
+The instance labels are turned into sparse winding constraints for the
+official spiral fit — see [docs/constraints.md](docs/constraints.md). The
+resulting pack (the first machine-generated spiral input for PHerc1218:
+umbilicus 365 control points, 1,863 same-winding collections / 5,920 points,
+12,924 relative-winding collections / 25,848 points, plus the seed verified
+patch the fit requires) ships in-repo under
+[data/spiral_input_pherc1218/](data/spiral_input_pherc1218/). Run through the
+official `fit_spiral.py` on an 800-slice z window it reaches 97.8%/98.4%
+constraint satisfaction and independently recovers the measured 173 µm pitch.
+
+### Evaluation artifacts (GitHub releases)
+
+- [`eval-offon-v1`](../../releases/tag/eval-offon-v1) — splitter OFF/ON
+  instance-label pair on a voxel-identical mask (crushed-region crop), for the
+  topology evaluation agreed in
+  [issue #1](https://github.com/IyanDopico/vesuvius-sheet-tools/issues/1).
+- [`eval-patchmode-v1`](../../releases/tag/eval-patchmode-v1) —
+  `split_patch.py` OFF/ON pairs for the GT sample patches of the #191
+  diagnostic harness.
 
 ## Known limitations
 

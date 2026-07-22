@@ -7,8 +7,9 @@ Consumes the patch layout of Jinhojeong's vesuvius-surface-geometry-diagnostic
   labelsTr/{scroll}_z{Z}_y{Y}_x{X}.tif        uint8 binary GT surface, same grid
 
 and produces {stem}_off.npz / {stem}_on.npz (int32 'labels'; the nonzero mask
-is exactly the GT mask in both) for scripts/eval_patch.py --pred / --pred-b,
-plus {stem}_params.json documenting the calibration.
+is exactly the GT mask in both) plus {stem}_params.json documenting the
+calibration. Intended consumer: eval_patch.py in that same diagnostic repo
+(scripts/eval_patch.py there), via --pred <off.npz> --pred-b <on.npz>.
 
 OFF = EDT watershed + calibrated salience merge (separate_sheets.py); ON = the
 same, then the CLAHE -> structure tensor -> ridge NMS -> orientation-guided

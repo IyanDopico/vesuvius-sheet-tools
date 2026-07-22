@@ -19,6 +19,13 @@ spiral that assigns a winding number to every sheet point. The annotations it
 consumes are point collections saying "these points lie on the same wrap" and
 "these two groups of points lie on adjacent wraps".
 
+One correction to the tutorial's "only the umbilicus is required": the current
+`fit_spiral.py` also **requires at least one verified tifxyz patch** — the
+umbilicus loss is computed inside the patch-loss path, which samples patches
+unconditionally every step. On a scroll with no human segments there is none,
+so `make_seed_patch.py` (below) synthesizes one from the stitched instance
+labels themselves.
+
 Producing those annotations is currently a manual job — it is an open problem
 ([winding annotations](https://scrollprize.org/open_problems/winding_annotations)).
 Our whole-scroll instance labels already encode exactly that information:
@@ -36,8 +43,10 @@ with no human segments to bootstrap from.
 | `make_same_windings.py` | `<run_dir> [--slabs] [--out] [--budget]` | `same_windings.json` + `patch_candidates.json` |
 | `make_relative_windings.py` | `<run_dir> [--slabs] [--out]` | `relative_windings.json` |
 | `validate_constraints.py` | `<file_or_dir> [--blocks] [--roundtrip N] [--selftest]` | validation report (schema + trap checks) |
-| `pack_spiral_input.py` | `<in_dir> [--out]` | `spiral_input_pherc1218/` (official layout) |
+| `pack_spiral_input.py` | `<in_dir> [--out]` | `spiral_input_pherc1218/` (official layout: the pcl JSONs + `abs_winding.json` placeholder + `verified_patches/` + `unverified_patches/` + `README.txt`) |
 | `render_constraints.py` | `<run_dir> --files ... [--umbilicus] [--slabs] [--out]` | QA PNGs (constraints over CT slices) |
+| `make_seed_patch.py` | `<run_dir> <pack_dir> <z0> [uuid]` | `verified_patches/<uuid>/` — the seed tifxyz patch `fit_spiral.py` requires (see correction above) |
+| `measure_spiral_sense.py` | `<run_dir> <pack_dir> <z0>` | `spiral_outward_sense` verdict via multi-turn instance tracking (same-θ r(t) vs r(t−2π) cancels the squashed-section shape); instances with ~0 two-turn advance are reported as closed fusion loops — a merge-QA signal of its own |
 
 `<run_dir>` is an assembled whole-scroll run directory (the layout produced by
 `assemble_scroll.py` / published in the Kaggle dataset: `blocks/z*/tile_*.npz`
@@ -164,9 +173,13 @@ python render_constraints.py     output/scroll_run --files output/constraints/*.
 python pack_spiral_input.py      output/constraints  # → spiral_input_pherc1218/
 ```
 
-Generate, validate, eyeball the renders, pack. The next phase — running the
-official `fit_spiral.py` on the pack to obtain tifxyz windings — is not part
-of this toolchain yet.
+Generate, validate, eyeball the renders, pack. The pack (plus the seed patch
+from `make_seed_patch.py`) has been run through the official `fit_spiral.py`
+on a free Kaggle T4: on an 800-slice z window (9700–10500 full-res, 30k
+steps, ~50 min) the fit satisfies 97.8% of relative-winding points, 98.4% of
+same-winding points and 100% of the seed patch, and its dr-per-winding
+converges to the independently measured 173 µm pitch. The pack ships in this
+repo under `data/spiral_input_pherc1218/`.
 
 ## Known limitations
 
