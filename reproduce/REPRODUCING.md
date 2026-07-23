@@ -38,11 +38,16 @@ config any importable zarr works.)
 `FIT_Z_BEGIN`/`FIT_Z_END` select the window (full-resolution voxels, 8.64 µm).
 The published window is z 9700–10500. **A window must contain at least one
 verified seed patch** — `fit_spiral.py` requires one (its umbilicus loss lives
-inside the patch-loss path; see docs/constraints.md). The pack ships the
-published window's patch (`seed-z4928-pherc1218`, full-res z 9888–10336), and
-per-slab patches for the remaining scroll are being generated and added (ids
-`seed-z{SLAB}-pherc1218`, full-res z ≈ 2×SLAB..2×(SLAB+256)) — the runner
-downloads whatever the pack carries. To synthesize one for any slab yourself:
+inside the patch-loss path; see docs/constraints.md). The pack (at `main`)
+ships per-slab seed patches for 25 slabs (ids `seed-z{SLAB}-pherc1218`,
+full-res z ≈ 2×SLAB..2×(SLAB+256)). Coverage is gated by quality, not
+uniform: anchored slabs span L1 z 672–4928 and 7840–10304 (full-res ≈
+1.3k–10.3k and 15.7k–20.7k). The scroll tip (< z672), base (> z10528) and —
+importantly — the **heavily crushed middle band (L1 ≈ 5152–7616, full-res ≈
+10.3k–15.7k)** have no anchors: no stitched instance there sustains a clean
+arc through the gates. Windows must overlap at least one anchored slab;
+fitting the crushed middle will need looser-gate patches or windows that
+reach into the anchored bands. To synthesize a patch for any slab yourself:
 `scripts/constraints/make_seed_patch.py RUN_DIR PACK_DIR Z0` against the
 [published dataset](https://www.kaggle.com/datasets/iyndopicomartnez/pherc1218-sheet-instance-labels).
 
