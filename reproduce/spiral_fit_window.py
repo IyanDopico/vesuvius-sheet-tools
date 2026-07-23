@@ -28,7 +28,10 @@ import urllib.request
 T0 = time.time()
 
 VILLA_COMMIT = "61bd95c75e91b082f8de6964f5edbc5bc6a54eb7"  # fork: HEAD + #1207 fix
-PACK_REF = "main"
+# The published-band sanity gate was measured with the single-seed-patch pack;
+# per-slab patches were added later and change window results. Default to the
+# pinned band state; set FIT_PACK_REF=main for whole-scroll window sweeps.
+PACK_REF = os.environ.get("FIT_PACK_REF", "3fd238c")
 REPO_RAW = "https://raw.githubusercontent.com/IyanDopico/vesuvius-sheet-tools"
 VILLA_RAW = ("https://raw.githubusercontent.com/IyanDopico/villa/"
              f"{VILLA_COMMIT}/volume-cartographer/scripts/spiral")

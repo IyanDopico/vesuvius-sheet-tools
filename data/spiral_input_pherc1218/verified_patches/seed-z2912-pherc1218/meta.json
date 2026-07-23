@@ -1,0 +1,24 @@
+{
+    "scale": [
+        0.015625,
+        0.015625
+    ],
+    "bbox": [
+        [
+            2457.48193359375,
+            5153.2353515625,
+            5856.0
+        ],
+        [
+            4538.6328125,
+            5677.49560546875,
+            6304.0
+        ]
+    ],
+    "area_vx2": 274432.0,
+    "area_cm2": 0.204862390272,
+    "format": "tifxyz",
+    "type": "seg",
+    "uuid": "seed-z2912-pherc1218",
+    "source": "vesuvius-sheet-tools seed patch from stitched instance labels (global id 111481, slab z2912 L1, theta-binned dominant-cluster median radius)"
+}

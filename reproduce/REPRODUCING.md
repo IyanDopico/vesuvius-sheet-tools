@@ -46,6 +46,16 @@ downloads whatever the pack carries. To synthesize one for any slab yourself:
 `scripts/constraints/make_seed_patch.py RUN_DIR PACK_DIR Z0` against the
 [published dataset](https://www.kaggle.com/datasets/iyndopicomartnez/pherc1218-sheet-instance-labels).
 
+## Pack versions
+
+The runner defaults to `PACK_REF=3fd238c` — the single-seed-patch pack state
+the published band was measured with. The pack has since gained per-slab seed
+patches for the whole scroll (25 slabs pass the quality gates; tip/base and
+damaged bands are skipped on purpose); set `FIT_PACK_REF=main` to use them
+for window sweeps beyond the published gate. Windows gain whatever patches
+intersect them, which (deliberately) changes anchoring — treat main-pack
+results as a separate series from the published band.
+
 ## Expected results (band, not bit-parity)
 
 > **2026-07-24 fix**: the first published version of this runner was missing
