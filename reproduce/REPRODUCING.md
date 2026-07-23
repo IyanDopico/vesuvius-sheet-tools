@@ -48,6 +48,13 @@ downloads whatever the pack carries. To synthesize one for any slab yourself:
 
 ## Expected results (band, not bit-parity)
 
+> **2026-07-24 fix**: the first published version of this runner was missing
+> `unattached_pcl_num_per_step: 800` and reproduced ~9 pts below the band
+> (found by pscamillo's independent runs on an RTX 5070 and a Kaggle T4 —
+> same code, pack, seed and GPU class as ours; the per-step z-scaling turns
+> the default 84 into ~7 PCL strips/step on an 800-slice window). If you ran
+> before this note, re-pull.
+
 Same-seed satisfaction moves several points across code versions and hardware;
 our seed-variance probes on one code state put relative-winding satisfaction
 at ±0.3 pt and same-winding at ±6 pt. Published runs on the z 9700–10500

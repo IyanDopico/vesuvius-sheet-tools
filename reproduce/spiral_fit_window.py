@@ -55,6 +55,12 @@ CONFIG_OVERRIDES = {
     "output_first_winding": 0,
     "initial_dr_per_winding": 20.0,     # measured pitch 173 um / 8.64 um
     "gap_expander_num_windings": 130,
+    # CRITICAL for parity with the published runs: per-step sample counts are
+    # scaled by (z_end-z_begin)/9500 at runtime; the default 84 becomes ~7
+    # unattached strips/step on an 800-slice window and satisfaction lands
+    # ~9 pts low (found via pscamillo's independent reproduction, 2026-07-23).
+    # 800 scales to ~67/step, matching the published band.
+    "unattached_pcl_num_per_step": 800,
     "stratified_pcl_sampling": False,   # pin-parity with the published runs
     "dt_target_mode": "strip_median",
     "save_png_visualizations": True,
