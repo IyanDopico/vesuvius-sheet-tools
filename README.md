@@ -211,6 +211,15 @@ patch the fit requires) ships in-repo under
 official `fit_spiral.py` on an 800-slice z window it reaches 97.8%/98.4%
 constraint satisfaction and independently recovers the measured 173 µm pitch.
 
+### Derived dataset: topological repair (Jinhojeong)
+
+Jinhojeong's anisotropic random-walk repair
+([vesuvius-unmerge](https://github.com/Jinhojeong/vesuvius-unmerge)), seeded
+from these instance labels, ships as a companion dataset:
+[pherc1218-topological-repair](https://www.kaggle.com/datasets/jhjeong0815/pherc1218-topological-repair)
+(14,131 repaired fusion sites in two confidence tiers). The cross-validation
+lives in [issue #1](https://github.com/IyanDopico/vesuvius-sheet-tools/issues/1).
+
 ### Evaluation artifacts (GitHub releases)
 
 - [`eval-offon-v1`](../../releases/tag/eval-offon-v1) — splitter OFF/ON
