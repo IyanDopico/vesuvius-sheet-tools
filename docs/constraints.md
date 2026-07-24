@@ -19,12 +19,19 @@ spiral that assigns a winding number to every sheet point. The annotations it
 consumes are point collections saying "these points lie on the same wrap" and
 "these two groups of points lie on adjacent wraps".
 
-One correction to the tutorial's "only the umbilicus is required": the current
-`fit_spiral.py` also **requires at least one verified tifxyz patch** — the
-umbilicus loss is computed inside the patch-loss path, which samples patches
-unconditionally every step. On a scroll with no human segments there is none,
-so `make_seed_patch.py` (below) synthesizes one from the stitched instance
-labels themselves.
+One correction to the tutorial's "only the umbilicus is required" — refined
+after pscamillo's window sweep probed it: `fit_spiral.py` requires **at least
+one tifxyz patch in the loaded pack** (it raises `No patches could be loaded`
+otherwise), but that check runs on the pack **as loaded, before the z-ROI
+filter**. A window that intersects none of the patches then silently drops
+all of them and still fits to a clean exit — the umbilicus loss itself is
+patch-independent (`losses.py` keeps umbilicus/shell anchors active in an
+explicit zero-patch branch and zeroes only the patch radius/DT terms). In
+practice the patch is what anchors absolute winding numbers, so check the run
+log for `fitting N patches` with N ≥ 1 — `loaded N patches` refers to the
+pack, not your window. On a scroll with no human segments there is no patch at
+all, so `make_seed_patch.py` (below) synthesizes one from the stitched
+instance labels themselves.
 
 Producing those annotations is currently a manual job — it is an open problem
 ([winding annotations](https://scrollprize.org/open_problems/winding_annotations)).
@@ -45,7 +52,7 @@ with no human segments to bootstrap from.
 | `validate_constraints.py` | `<file_or_dir> [--blocks] [--roundtrip N] [--selftest]` | validation report (schema + trap checks) |
 | `pack_spiral_input.py` | `<in_dir> [--out]` | `spiral_input_pherc1218/` (official layout: the pcl JSONs + `abs_winding.json` placeholder + `verified_patches/` + `unverified_patches/` + `README.txt`) |
 | `render_constraints.py` | `<run_dir> --files ... [--umbilicus] [--slabs] [--out]` | QA PNGs (constraints over CT slices) |
-| `make_seed_patch.py` | `<run_dir> <pack_dir> <z0> [uuid]` | `verified_patches/<uuid>/` — the seed tifxyz patch `fit_spiral.py` requires (see correction above) |
+| `make_seed_patch.py` | `<run_dir> <pack_dir> <z0> [uuid]` | `verified_patches/<uuid>/` — the seed tifxyz patch that anchors the fit (see correction above) |
 | `measure_spiral_sense.py` | `<run_dir> <pack_dir> <z0>` | `spiral_outward_sense` verdict via multi-turn instance tracking (same-θ r(t) vs r(t−2π) cancels the squashed-section shape); instances with ~0 two-turn advance are reported as closed fusion loops — a merge-QA signal of its own |
 
 `<run_dir>` is an assembled whole-scroll run directory (the layout produced by

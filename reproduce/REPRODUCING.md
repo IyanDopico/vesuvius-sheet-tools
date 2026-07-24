@@ -37,8 +37,16 @@ config any importable zarr works.)
 
 `FIT_Z_BEGIN`/`FIT_Z_END` select the window (full-resolution voxels, 8.64 µm).
 The published window is z 9700–10500. **A window must contain at least one
-verified seed patch** — `fit_spiral.py` requires one (its umbilicus loss lives
-inside the patch-loss path; see docs/constraints.md). The pack (at `main`)
+verified seed patch to be anchored — but `fit_spiral.py` will not enforce that
+for you.** Its ≥1-patch check (`No patches could be loaded`) runs on the pack
+as loaded, *before* the z-ROI filter: a window that intersects no patch
+silently drops all of them and still trains to a clean exit-0, anchored only
+by the umbilicus and the PCLs. (The umbilicus loss is patch-independent — a
+zero-patch branch in `losses.py` keeps it active. Found by pscamillo's
+two-band sweep; verified against the pinned code, which tolerates the empty
+set at every downstream touchpoint.) **Always check the run log for
+`fitting N patches` with N ≥ 1**; `loaded N patches` refers to the pack, not
+your window. The pack (at `main`)
 ships per-slab seed patches for 25 slabs (ids `seed-z{SLAB}-pherc1218`,
 full-res z ≈ 2×SLAB..2×(SLAB+256)). Coverage is gated by quality, not
 uniform: anchored slabs span L1 z 672–4928 and 7840–10304 (full-res ≈
@@ -81,11 +89,27 @@ window, 30k steps:
 | fork tip, seed 1 | 95.0% | 92.1% | 100% |
 | fork tip, seed 2 | 95.3% | 98.1% | 100% |
 
-A reproduction **passes** if: seed patch ≥ 97%, relative windings ≥ 94%,
-same windings ≥ 91%, and the fitted spiral's median dr between consecutive
-windings lands at 10.1 ± 0.5 L1 voxels (= the independently measured 173 µm
-pitch). `satisfied_fitted.json` in the output directory carries the first
-three; the winding meshes (`meshes/*/w*/`) carry the fourth.
+A reproduction **passes** if: the log shows `fitting N patches` with **N ≥ 1**
+(see Windows above — a window that z-intersects no patch fits unanchored and
+still exits 0), seed patch ≥ 97%, relative windings ≥ 94%, same windings
+≥ 91%, and the fitted spiral's median dr between consecutive windings lands at
+10.1 ± 0.5 L1 voxels (= the independently measured 173 µm pitch).
+`satisfied_fitted.json` in the output directory carries the satisfaction
+numbers; the winding meshes (`meshes/*/w*/`) carry the dr.
+
+## Seed satisfaction: a diagnostic, not a gate (window sweeps)
+
+For sweeps beyond the published window, the three satisfaction families are
+not equally meaningful — semantics agreed with pscamillo's two-band sweep,
+which surfaced it: **gate on relative/same windings + median dr; record
+seed-patch satisfaction as a diagnostic.** The seed generator's per-bin
+cluster gate bounds *radial* spread (`MAX_CLUSTER_SPREAD = 8` L1 vox per θ
+bin) but nothing bounds *arc-level* spread where the source instances get
+noisy in the crushed direction — so seed satisfaction degrades down-roll as a
+property of the synthesized seed's tightness, not of the fit. A low seed
+number on a window that passes constraints + dr means "loose seed here", not
+"bad surface". (The published-window thresholds above keep seed ≥ 97% because
+that window's seed is tight — measured, not assumed.)
 
 ## Honest caveats
 
