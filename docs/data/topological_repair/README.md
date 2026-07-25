@@ -59,3 +59,14 @@ confidence gate.
   nothing and mints no new id, so the mask and the instance count match v1.
 - Method: https://github.com/Jinhojeong/vesuvius-unmerge
 - Eval tooling: https://github.com/Jinhojeong/vesuvius-surface-geometry-diagnostic
+
+## split_stacked_baseline_verdicts.csv (independent corroboration)
+
+Per-site verdicts from an independent intensity/watershed segmentation
+(split_stacked's baseline: clean -> EDT -> watershed -> merge, 128x512x512
+crops) at all 14,131 repaired sites plus a +30-vox-y matched control.
+`was_mega` = the point lands inside a fused mega-instance (>= 3% of the local
+mask) that this unrelated method also flags. Result: flagged 37.2% vs control
+12.9% (2.89x); tier 1 44.7% vs 15.2% (2.93x), tier 2 31.9% vs 11.2% (2.85x) —
+the tier ordering matches the ray-recast validation ordering. Ran on a Kaggle
+CPU kernel, 1,255 crops, density-ordered, full coverage.
