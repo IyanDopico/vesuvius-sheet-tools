@@ -5,7 +5,7 @@ across both anchored bands, run with this repo's
 `reproduce/spiral_fit_window.py` unmodified (pack @ 7116a75, seed 1,
 30k steps). 18 windows validate on constraints+dr; per-window table,
 criteria and flagged cases in `RESULTS_en.md` / `windows.csv`.
-Surfaces (~2.4 GB): https://www.kaggle.com/datasets/pscamillo/pherc1218-spiral-fit-sweep-surfaces.
+Surfaces (~2.1 GB): https://www.kaggle.com/datasets/pscamillo/pherc1218-spiral-fit-sweep-surfaces.
 
 `tools/` — the QA instruments the sweep shipped with:
 - `window_report.py RUN_DIR` — per-seed fractions, rel/same split by
