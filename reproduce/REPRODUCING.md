@@ -93,7 +93,7 @@ A reproduction **passes** if: the log shows `fitting N patches` with **N ≥ 1**
 (see Windows above — a window that z-intersects no patch fits unanchored and
 still exits 0), seed patch ≥ 97%, relative windings ≥ 94%, same windings
 ≥ 91%, and the fitted spiral's median dr between consecutive windings lands at
-10.1 ± 0.5 L1 voxels (= the independently measured 173 µm pitch).
+10.1 ± 0.5 L1 voxels (= 174 ± 9 µm at the 17.28 µm L1 voxel, bracketing the independently measured 172.8 µm pitch).
 `satisfied_fitted.json` in the output directory carries the satisfaction
 numbers; the winding meshes (`meshes/*/w*/`) carry the dr.
 
