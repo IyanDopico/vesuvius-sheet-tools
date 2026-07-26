@@ -60,6 +60,28 @@ confidence gate.
 - Method: https://github.com/Jinhojeong/vesuvius-unmerge
 - Eval tooling: https://github.com/Jinhojeong/vesuvius-surface-geometry-diagnostic
 
+## tier3_sites.csv (batch 2, with pre-registered predictions)
+
+The 40,246 tier-3 sites from the cap-lift pass, same columns as
+repaired_sites.csv plus three:
+
+| column | meaning |
+|---|---|
+| `scorable` | 1 if the site sat far enough from a tile face for feature extraction (34,135 of 40,246); 0 otherwise |
+| `predicted_agreement` | mask-only model probability that this site would be `was_mega` under the baseline above, trained on the tier-1/2 verdicts (CV AUC 0.865); empty where `scorable` is 0 |
+| `mass_context` | the crop-scale component volume-to-surface feature driving that model |
+
+Tier 3 validates at 57.3% by ray recast, and the confidence inversion above
+holds there too (Spearman -0.199).
+
+The predictions are the point of this file. Two rival pre-registered
+predictions for the tier-3 `was_mega` rate exist before any batch-2 run: the
+tier-monotonicity argument says under 31.9 percent, the site-level model here
+says 37.5 percent on the scorable subset (mean probability 0.376). Committing
+the per-site numbers in this file is what makes the registration checkable
+rather than claimed. When batch 2 runs, the comparison must be site-matched
+against `scorable = 1` rows, since the two subsets differ.
+
 ## split_stacked_baseline_verdicts.csv (independent corroboration)
 
 Per-site verdicts from an independent intensity/watershed segmentation
