@@ -84,7 +84,7 @@ at 3 z's, wall-clock and verdicts.
 
 Per-window fitted meshes (both `fitted` and `fitted_spliced` series,
 tifxyz per winding), `satisfied_fitted.json`, per-slice QA PNGs and
-run metadata: Kaggle dataset **https://www.kaggle.com/datasets/pscamillo/pherc1218-spiral-fit-sweep-surfaces** (~2.4 GB; training
+run metadata: Kaggle dataset **https://www.kaggle.com/datasets/pscamillo/pherc1218-spiral-fit-sweep-surfaces** (~2.1 GB; training
 checkpoints withheld for size, available on request).
 
 ## Known caveats
