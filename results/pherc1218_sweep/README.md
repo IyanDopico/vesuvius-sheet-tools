@@ -3,7 +3,7 @@
 At-scale sweep of the PHerc1218 spiral-fit input pack: 21 windows
 across both anchored bands, run with this repo's
 `reproduce/spiral_fit_window.py` unmodified (pack @ 7116a75, seed 1,
-30k steps). 18 windows validate on constraints+dr; per-window table,
+30k steps). 19 windows validate on constraints+dr; per-window table,
 criteria and flagged cases in `RESULTS_en.md` / `windows.csv`.
 Surfaces (~2.1 GB): https://www.kaggle.com/datasets/pscamillo/pherc1218-spiral-fit-sweep-surfaces.
 
@@ -15,11 +15,15 @@ Surfaces (~2.1 GB): https://www.kaggle.com/datasets/pscamillo/pherc1218-spiral-f
   (auto-derives the 3 z's from the run directory name).
 - `sweep_band.sh Z1 Z2 ...` — sequences 800-slice windows, preserves
   full logs, accumulates the essentials into a single summary.
+- `aggregate.py [windows.csv]` — derives every figure in the Results
+  section (counts, ranges, spot-check total, GPU time) from the table,
+  and re-checks the gate on each PASS-class row.
 
-The dr band used (10.1 ± 0.8 L1 vox) reflects measured physical pitch
-variation with z and theta; a window failing only on dr should be
-cross-checked against the pack's per-ray pitch CSV before being called
-a fit failure. The practical zero-patch guard: the log must show
+The dr band used (10.1 ± 0.8 L1 vox = 174.5 ± 13.8 µm at 17.28 µm/vox)
+reflects measured physical pitch variation with z and theta — it
+brackets the 172.8 µm pitch measured for this scroll (10.0 vox), it does
+not equal it; a window failing only on dr should be cross-checked
+against the pack's per-ray pitch CSV before being called a fit failure. The practical zero-patch guard: the log must show
 `fitting N patches, N >= 1` (`loaded N patches` refers to the pack,
 not the window).
 

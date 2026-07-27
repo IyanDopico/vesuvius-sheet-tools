@@ -49,12 +49,34 @@ quality.
 ## Results
 
 **21 sweep windows + the published gate window. Exit 0 on 21/21.
-18 windows validate on constraints+dr; 3 honestly flagged.**
+19 windows validate on constraints+dr; 2 flagged.**
 
-Aggregate over the 18 validated windows: relative 95.6–98.7%
-(18/18 ≥ 94), same 92.1–100% (18/18 ≥ 91), median dr 9.48–10.64 L1
-across 54 spot-checks (all within 10.1±0.8), losses 0.1–7.2, no
-structural failures. Total sweep GPU time ≈ 178 min.
+Aggregate over the 19 validated windows: relative 95.6–98.7%
+(19/19 ≥ 94), same 92.1–100% (19/19 ≥ 91), median dr 9.48–10.64 L1
+across 57 spot-checks (all within 10.1±0.8), final loss 0.1–7.2
+(recorded per window as a range; one window not recorded), no
+structural failures. Total sweep GPU time 175.1 min.
+
+Every figure in this section is produced by `tools/aggregate.py` from
+`windows.csv`; rerun it after any change to the table.
+
+Verdict labels used in `windows.csv`:
+
+| label | n | meaning |
+|---|---|---|
+| `full PASS` | 6 | gate passed; every seed patch ≥ 97% satisfied |
+| `PASS` | 11 | gate passed; one or more seed patches < 97% |
+| `PASS-with-note` | 2 | identical to `PASS` — see below |
+| `PROVISIONAL` | 2 | not validated; listed below |
+
+The gate is constraints+dr. The `full PASS` / `PASS` split records
+seed-patch tightness, which per the seed rule above is a property of the
+input pack, not of the fit — it is kept because it is informative about
+the pack, not because it ranks the fits. `PASS-with-note` carries no
+measured difference from `PASS`: those two windows were first recorded
+FAIL under the stricter provisional seed criterion and reclassified on
+2026-07-24 when the semantics were agreed; the label preserves that
+provenance.
 
 Flagged windows:
 1. **1380–2180 (tip) — PROVISIONAL.** Relative constraints collapse to
@@ -66,10 +88,6 @@ Flagged windows:
    to a check-ordering gap in `fit_spiral.py` (see the upstream issue
    draft / villa issue). Constraints excellent (rel 98.5) but no
    absolute seed anchoring.
-3. Two early windows (9060–9860, 8420–9220) were initially recorded
-   FAIL under a stricter provisional seed criterion; reclassified
-   PASS-with-note on 2026-07-24 when the seed-satisfaction semantics
-   were agreed. Original records kept in the working log.
 
 Physical trend recorded (not a fit artifact): median dr decreases
 with z within windows and increases toward the base across Band B
@@ -96,3 +114,5 @@ checkpoints withheld for size, available on request).
   differently on different portions.
 - Windows must overlap ≥1 anchored slab; the practical log guard is
   `fitting N patches, N >= 1` (`loaded N patches` refers to the pack).
+- `loss_final` is the observed range over the run, not a single value;
+  one window (3940–4740) has no loss recorded (`n/r`).
