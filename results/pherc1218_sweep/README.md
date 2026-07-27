@@ -23,8 +23,8 @@ The dr band used (10.1 ± 0.8 L1 vox = 174.5 ± 13.8 µm at 17.28 µm/vox)
 reflects measured physical pitch variation with z and theta — it
 brackets the 172.8 µm pitch measured for this scroll (10.0 vox), it does
 not equal it; a window failing only on dr should be cross-checked
-against the pack's per-ray pitch CSV before being called a fit failure. The practical zero-patch guard: the log must show
-`fitting N patches, N >= 1` (`loaded N patches` refers to the pack,
-not the window).
+against the pack's per-ray pitch CSV before being called a fit failure.
+The practical zero-patch guard: the log must show `fitting N patches,
+N >= 1` (`loaded N patches` refers to the pack, not the window).
 
 Compute & replication: pscamillo. Pack, method, runner: IyanDopico.

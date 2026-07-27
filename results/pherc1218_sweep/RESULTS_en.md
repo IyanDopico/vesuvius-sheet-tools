@@ -85,9 +85,10 @@ Flagged windows:
    author). Fit is anchored only by 2 mid-quality seeds + umbilicus.
 2. **17600–18400 — PROVISIONAL.** Falls in an intra-band anchor gap
    (no slab between L1 z8288 and z9184); ran with **zero patches** due
-   to a check-ordering gap in `fit_spiral.py` (see the upstream issue
-   draft / villa issue). Constraints excellent (rel 98.5) but no
-   absolute seed anchoring.
+   to a check-ordering gap in `fit_spiral.py` (the z-ROI filter runs
+   after the `>=1 patch` guard — ScrollPrize/villa#1237, co-signed by
+   the pack author). Constraints excellent (rel 98.5) but no absolute
+   seed anchoring.
 
 Physical trend recorded (not a fit artifact): median dr decreases
 with z within windows and increases toward the base across Band B
