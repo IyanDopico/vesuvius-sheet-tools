@@ -40,11 +40,18 @@ Rationale for the seed rule: per-slab synthesized seeds vary in
 geometric tightness — the generator's cluster gates bound radial
 spread at 8 L1 vox *per theta bin*, but nothing bounds arc-level
 spread where source instances get noisy in the crushed direction.
-Measured extreme (seed-z4256): the fitted winding passes at Δ+0.7 vox
-(next winding −21.0 = exactly one pitch, so no misassignment), while
-the seed's own radial spread is p10–p90 = 49 vox ≈ 2.5 pitches at a
-single z. Seed satisfaction therefore measures seed tightness, not fit
-quality.
+Measured extreme (seed-z4256): the fitted winding passes at Δ+0.7
+full-res vox (next winding −21.0 full-res vox = exactly one pitch, so no
+misassignment), while the seed's own radial spread is p10–p90 = 49
+full-res vox ≈ 2.5 pitches at a single z. Seed satisfaction therefore
+measures seed tightness, not fit quality.
+
+Note on voxel spaces, since both appear here: seed-patch figures and the
+cluster gate above are in the label space they were computed in (L1 vox
+for the gate, full-res vox for the spreads), while every `dr` figure in
+this document is in L1 vox at 17.28 µm/vox. One winding is ≈10.1 L1 vox
+≈ 20.2 full-res vox on this scroll; a bare "vox" is not enough to
+disambiguate, so the space is stated wherever a figure is quoted.
 
 ## Results
 

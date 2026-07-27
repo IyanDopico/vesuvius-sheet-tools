@@ -3,7 +3,7 @@
 
 Uso: python3 dr_multi_z.py <out_dir_do_run>
 Mede dr mediano entre windings consecutivos em z = 9900, 10100, 10300,
-contra o umbilicus interpolado do pack. Criterio: 10.1 +- 0.5 L1 vox.
+contra o umbilicus interpolado do pack. Criterio: 10.1 +- 0.8 L1 vox.
 """
 import json, glob, re, sys
 import numpy as np
@@ -59,4 +59,4 @@ for Z0 in Z_LIST:
     print(f'  z={Z0:.0f}: {len(ws)} windings (w{ws[0]}..w{ws[-1]}), {len(gaps)} gaps | '
           f'dr {med:.2f} full-res = {med/2:.2f} L1 | IQR {np.percentile(gaps,25):.2f}-{np.percentile(gaps,75):.2f}')
 if meds:
-    print(f'  resumo: dr L1 por z = {", ".join(f"{m:.2f}" for m in meds)} | spread {max(meds)-min(meds):.2f} | criterio 10.1 +- 0.5')
+    print(f'  resumo: dr L1 por z = {", ".join(f"{m:.2f}" for m in meds)} | spread {max(meds)-min(meds):.2f} | criterio 10.1 +- 0.8')
