@@ -92,3 +92,15 @@ mask) that this unrelated method also flags. Result: flagged 37.2% vs control
 12.9% (2.89x); tier 1 44.7% vs 15.2% (2.93x), tier 2 31.9% vs 11.2% (2.85x) —
 the tier ordering matches the ray-recast validation ordering. Ran on a Kaggle
 CPU kernel, 1,255 crops, density-ordered, full coverage.
+
+## mega_coverage.csv (the converse measurement)
+
+One row per fused mega-instance (>=3% of crop mask) with the count of flagged
+sites inside it, over two populations: `site` = the 1,255 site-centred crops
+of the baseline run (biased toward megas containing sites), `random` = 423
+crops sampled across the scroll independent of the site list (the unbiased
+arm). Random population: 77.1% of megas contain zero flagged sites; zero-count
+megas are ~4x smaller (median 91k vs 374k vox) and the zero fraction falls
+96.1/89.6/79.1/43.6% across volume quartiles — most of the gap is sampling,
+with the top-quartile 43.6% as the upper bound on structure the ray sample
+misses at sizes it should reach.
