@@ -82,6 +82,17 @@ the per-site numbers in this file is what makes the registration checkable
 rather than claimed. When batch 2 runs, the comparison must be site-matched
 against `scorable = 1` rows, since the two subsets differ.
 
+## mega_not_recast_1324.csv (ridge/NMS priority targets)
+
+The 1,324 sites your baseline endorses as real fused stacks (`was_mega` = 1)
+where the continuity solve consolidated instead of splitting (ray recast still
+single-id). By the conf decomposition these are solve failures on real
+targets, which makes them the highest-information population for the
+separation pass: an independent splitter has something to add exactly where
+the solve gave up. Columns as in repaired_sites.csv plus your
+`mega_size_frac` / `mega_size_vox` for each site and `mass_context`, present for
+all 1,324. 399 tier-1, 925 tier-2.
+
 ## split_stacked_baseline_verdicts.csv (independent corroboration)
 
 Per-site verdicts from an independent intensity/watershed segmentation
