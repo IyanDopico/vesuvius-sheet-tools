@@ -116,6 +116,14 @@ boundaries land in the CLAHE valleys (the physical seams).
 | Scroll 3 (PHerc0332), 64-slice crop @L2 | **65.7%** | 150,463 of 155,652 |
 | PHerc1218, 64-slice crop @L3 | **50.0%** | 231,027 of 233,784 |
 
+The 50.0% on PHerc1218 is exactly the provable false-positive class —
+predicted sheet sitting on CT that is identically zero (`pred > 0 & ct == 0`),
+which the cleaning gate removes by construction; the small-component filter
+takes total removal on that crop to 68.4%. This class was later measured
+collection-wide (36 scrolls, PHerc1218 at 58.6%) in
+[villa#1254](https://github.com/ScrollPrize/villa/issues/1254), which credits
+the July 12 observation here as prior.
+
 | Scroll 3 before | Scroll 3 after |
 |---|---|
 | ![before](docs/images/scroll3_clean_before.png) | ![after](docs/images/scroll3_clean_after.png) |
