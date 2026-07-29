@@ -115,3 +115,15 @@ megas are ~4x smaller (median 91k vs 374k vox) and the zero fraction falls
 96.1/89.6/79.1/43.6% across volume quartiles — most of the gap is sampling,
 with the top-quartile 43.6% as the upper bound on structure the ray sample
 misses at sizes it should reach.
+
+## split_stacked_t3_verdicts.csv (batch 2, the registered falsification)
+
+Blind baseline run over all 40,246 tier-3 sites + matched control (+30 vox y),
+1,459 crops, one Kaggle CPU session; one crop (24 sites) lost to a transient
+S3 500. Site-matched on scorable=1: was_mega = 38.18% (13,026/34,115) against
+the registered per-site model prediction of 37.64% and the tier-monotonicity
+prediction of <31.9% — the site-level model wins, monotonicity is falsified.
+AUC of predicted_agreement vs outcome: 0.868 (CV estimate was 0.865);
+calibration by predicted quartile 6.3->7.3 / 14.7->15.3 / 45.4->45.4 /
+84.1->84.7. Whole tier: 35.28% vs control 11.96% (2.95x). site_row indexes
+tier3_sites.csv.
